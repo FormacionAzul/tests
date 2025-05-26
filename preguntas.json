@@ -1,0 +1,1058 @@
+{
+    "Tema 1": [
+      { "text": "Señale la respuesta correcta que se ajuste exactamente a la estructura de la Constitución Española:", "options": ["A: Un Preámbulo, un Título Preliminar, 10 Títulos, 169 artículos, cuatro disposiciones adicionales, nueve disposiciones transitorias, una disposición derogatoria y una disposición final.","B: Un Preámbulo, once Títulos, 169 artículos, cuatro disposiciones adicionales, nueve disposiciones transitorias, una disposición derogatoria y una disposición final. ","C: Un Preámbulo, un Título Preliminar, 10 Títulos, 169 artículos, nueve disposiciones adicionales, cuatro disposiciones transitorias, una disposición derogatoria y una disposición final. "], "answer": 0 },
+      { "text": "¿Pregunta T1-2?", "options": ["A","B","C"], "answer": 0 },
+  {
+      "text": "España se constituye en un Estado:",
+      "options": [
+        "A) Social de Derecho",
+        "B) Democrático de Derecho",
+        "C) Social y democrático de Derecho"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "No es un valor superior del ordenamiento jurídico español:",
+      "options": [
+        "A) La libertad",
+        "B) La igualdad",
+        "C) La seguridad"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La soberanía nacional reside:",
+      "options": [
+        "A) En la nación",
+        "B) En el pueblo español",
+        "C) En las Cortes Generales"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Los poderes del Estado emanan:",
+      "options": [
+        "A) De la nación",
+        "B) Del pueblo español",
+        "C) De las Cortes Generales"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "La forma política del Estado español es:",
+      "options": [
+        "A) La Monarquía parlamentaria",
+        "B) La democracia parlamentaria",
+        "C) La República"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "La Constitución se fundamenta en:",
+      "options": [
+        "A) La autonomía de la Nación española",
+        "B) La imprescindible unidad de la Nación española",
+        "C) La indisoluble unidad de la Nación española"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La Constitución reconoce y garantiza el derecho a la autonomía:",
+      "options": [
+        "A) De las nacionalidades que la integran",
+        "B) De las regiones que la integran",
+        "C) Ambas"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La lengua oficial del Estado español es:",
+      "options": [
+        "A) El español",
+        "B) El castellano",
+        "C) El catalán"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuántos artículos tiene la constitución española?",
+      "options": [
+        "A) 69",
+        "B) 169",
+        "C) 170"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Además de la lengua oficial del Estado español, ¿son también oficiales las otras lenguas españolas?",
+      "options": [
+        "A) No, tendrán la consideración de dialectos",
+        "B) Sí, en todo el territorio español",
+        "C) Sí, en las respectivas Comunidades Autónomas"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La riqueza de las distintas modalidades lingüísticas de España es:",
+      "options": [
+        "A) Un patrimonio cultural",
+        "B) Un bien cultural",
+        "C) Un patrimonio histórico y cultural"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "La bandera de España está formada por:",
+      "options": [
+        "A) Tres franjas horizontales",
+        "B) Tres franjas verticales",
+        "C) Tres rayas horizontales"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Los colores de las franjas de la bandera de España son:",
+      "options": [
+        "A) Roja, amarilla y roja",
+        "B) Amarilla, roja y amarilla",
+        "C) Amarilla, roja y azul"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "En la bandera de España, la franja amarilla:",
+      "options": [
+        "A) Es de igual anchura que las rojas",
+        "B) Es la mitad de ancha que las rojas",
+        "C) Es de doble anchura que las rojas"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Las Comunidades Autónomas podrán tener:",
+      "options": [
+        "A) Banderas propias",
+        "B) Enseñas propias",
+        "C) Banderas y enseñas propias"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Los símbolos de las Comunidades Autónomas se reconocen:",
+      "options": [
+        "A) En la Constitución",
+        "B) En las leyes orgánicas",
+        "C) En los respectivos Estatutos de Autonomía"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La capital del Estado español es:",
+      "options": [
+        "A) La ciudad de Madrid",
+        "B) La villa de Madrid",
+        "C) La Comunidad Autónoma de Madrid"
+      ],
+      "answer": 1
+    },
+      {
+      "text": "Los partidos políticos expresan:",
+      "options": [
+        "A) La democracia alternativa",
+        "B) El pluralismo social",
+        "C) El pluralismo político"
+      ],
+      "answer": 2
+      },
+      {
+      "text": "¿Qué día fue aprobada la Constitución Española de 1978 por las Cortes Generales?",
+      "options": [
+        "A) 27 de diciembre de 1978",
+        "B) 31 de octubre de 1978",
+        "C) 6 de diciembre de 1978"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuál es la fecha de entrada en vigor de la Constitución Española de 1978?",
+      "options": [
+        "A) 27 de septiembre de 2011",
+        "B) 27 de agosto de 1992",
+        "C) 29 de diciembre de 1978"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué artículo regula que 'la soberanía nacional reside en el pueblo español'?",
+      "options": [
+        "A) Artículo 3",
+        "B) Artículo 2",
+        "C) Artículo 1.2"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Según el Artículo 3, ¿cuál es la lengua oficial del Estado español?",
+      "options": [
+        "A) Todas las lenguas autonómicas",
+        "B) El castellano",
+        "C) El catalán"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuál fue la segunda reforma constitucional y qué artículo modificó?",
+      "options": [
+        "A) Artículo 135 en 2011",
+        "B) Artículo 49 en 2024",
+        "C) Artículo 13.2 en 1992"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué Título de la Constitución regula 'De la Corona'?",
+      "options": [
+        "A) Título III",
+        "B) Título II",
+        "C) Título I"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿En qué artículo de la Constitución Española se habla de la reforma agraviada?",
+      "options": [
+        "A) 166",
+        "B) 167",
+        "C) 168"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué misión tienen las Fuerzas Armadas según el Artículo 8?",
+      "options": [
+        "A) Proteger la cultura nacional",
+        "B) Defender la integridad territorial de España",
+        "C) Garantizar la independencia económica"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué valores se reconocen como superiores en el Artículo 1?",
+      "options": [
+        "A) Democracia, soberanía y justicia",
+        "B) Justicia, igualdad y pluralismo político",
+        "C) Paz, libertad y justicia"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué establece el Artículo 9 sobre los ciudadanos y los poderes públicos?",
+      "options": [
+        "A) La obligación de respetar las leyes internacionales",
+        "B) La exclusión de responsabilidades legales",
+        "C) Sujeción a la Constitución y al ordenamiento jurídico"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Cuál es el contenido principal del Título X?",
+      "options": [
+        "A) Relación entre el Gobierno y las Cortes",
+        "B) Derechos y libertades",
+        "C) Reforma constitucional"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿En qué año se realizó la primera reforma de la Constitución?",
+      "options": [
+        "A) 2011",
+        "B) 2005",
+        "C) 1992"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué artículo define a Madrid como la capital del Estado?",
+      "options": [
+        "A) Artículo 6",
+        "B) Artículo 4",
+        "C) Artículo 5"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Según el Artículo 4, ¿cómo se describe la bandera de España?",
+      "options": [
+        "A) Roja, amarilla y roja, con la amarilla de doble anchura",
+        "B) Roja y amarilla, en franjas iguales",
+        "C) Roja, blanca y azul"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué Título regula la Economía y Hacienda?",
+      "options": [
+        "A) Título VII",
+        "B) Título VI",
+        "C) Título V"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué derechos protege el Título I?",
+      "options": [
+        "A) Derechos de las comunidades autónomas",
+        "B) Derechos sociales y políticos",
+        "C) Derechos y deberes fundamentales"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Cuántos capítulos contiene el Título VIII sobre la organización territorial?",
+      "options": [
+        "A) Cuatro",
+        "B) Dos",
+        "C) Tres"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué Título regula las relaciones entre el Gobierno y las Cortes Generales?",
+      "options": [
+        "A) Título V",
+        "B) Título IV",
+        "C) Título III"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué se necesita para una reforma total de la Constitución?",
+      "options": [
+        "A) Aprobación por mayoría de tres quintos de cada Cámara y disolución de las Cortes",
+        "B) Aprobación por mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes",
+        "C) Aprobación por mayoría de dos tercios de cada Cámara y disolución si así lo solicita cualquier Cámara en los 15 días siguientes"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuál es el principio fundamental recogido en el Artículo 2?",
+      "options": [
+        "A) La igualdad de todas las comunidades",
+        "B) La separación de poderes",
+        "C) La indisoluble unidad de la Nación española"
+      ],
+      "answer": 2
+    },
+{
+      "text": "¿Qué se necesita para aprobar una reforma parcial que afecta al Título Preliminar?",
+      "options": [
+        "A) Mayoría de tres quintos de ambas Cámaras",
+        "B) Mayoría de dos tercios de ambas Cámaras y disolución de las Cortes",
+        "C) Referéndum directo del pueblo"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que la forma política del Estado español es la Monarquía parlamentaria?",
+      "options": [
+        "A) Artículo 2",
+        "B) Artículo 1.3",
+        "C) Artículo 3"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 4, ¿qué Comunidades Autónomas pueden reconocer banderas propias?",
+      "options": [
+        "A) Ninguna",
+        "B) Las que lo regulen en sus Estatutos",
+        "C) Todas las Comunidades Autónomas"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuándo se realizó la tercera reforma constitucional?",
+      "options": [
+        "A) 27 de septiembre de 2011",
+        "B) 15 de febrero de 2024",
+        "C) 27 de agosto de 1992"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título regula 'De las Cortes Generales'?",
+      "options": [
+        "A) Título IV",
+        "B) Título III",
+        "C) Título II"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Preámbulo, ¿qué se busca garantizar?",
+      "options": [
+        "A) La soberanía del pueblo español",
+        "B) La convivencia democrática dentro de un orden económico y social justo",
+        "C) La unidad territorial de España"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo indica que todos los españoles tienen el deber de conocer y el derecho a usar el castellano?",
+      "options": [
+        "A) Artículo 1",
+        "B) Artículo 3.1",
+        "C) Artículo 2"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué regula el Título IX de la Constitución?",
+      "options": [
+        "A) Del Tribunal Constitucional",
+        "B) De la reforma constitucional",
+        "C) De la organización territorial"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué fecha se considera la promulgación de la Constitución por el Rey?",
+      "options": [
+        "A) 6 de diciembre de 1978",
+        "B) 27 de diciembre de 1978",
+        "C) 29 de diciembre de 1978"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 7, ¿qué deben promover los sindicatos de trabajadores y asociaciones empresariales?",
+      "options": [
+        "A) La igualdad y justicia social",
+        "B) Los intereses económicos y sociales que les son propios",
+        "C) La unidad nacional"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué capítulo del Título I regula 'De los derechos fundamentales y libertades públicas'?",
+      "options": [
+        "A) Capítulo Primero",
+        "B) Capítulo Segundo, Sección Primera",
+        "C) Capítulo Segundo, Sección Segunda"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuántas disposiciones finales tiene la Constitución?",
+      "options": [
+        "A) 4",
+        "B) 9",
+        "C) 1"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué se garantiza en el Artículo 9.3?",
+      "options": [
+        "A) Interdicción de la arbitrariedad de los poderes públicos",
+        "B) La seguridad pública",
+        "C) Ambas son correctas"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué artículo regula la bandera oficial de España?",
+      "options": [
+        "A) Artículo 3",
+        "B) Artículo 4",
+        "C) Artículo 5"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título de la Constitución abarca el Poder Judicial?",
+      "options": [
+        "A) Título VII",
+        "B) Título VI",
+        "C) Título VIII"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué principio establece el Artículo 2 de la Constitución?",
+      "options": [
+        "A) La solidaridad entre nacionalidades y regiones",
+        "B) La igualdad de derechos y deberes",
+        "C) La soberanía popular"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué está regulado en el Título X?",
+      "options": [
+        "A) El Tribunal Constitucional",
+        "B) La relación entre Gobierno y Cortes",
+        "C) La reforma constitucional"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué fecha corresponde a la primera reforma constitucional?",
+      "options": [
+        "A) 15 de febrero de 2024",
+        "B) 27 de agosto de 1992",
+        "C) 27 de septiembre de 2011"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que los ciudadanos y poderes públicos están sujetos a la Constitución?",
+      "options": [
+        "A) Artículo 7",
+        "B) Artículo 9.1",
+        "C) Artículo 8"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título regula la organización territorial del Estado?",
+      "options": [
+        "A) Título VII",
+        "B) Título VIII",
+        "C) Título IX"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué se necesita para aprobar una reforma parcial que afecta al Título Preliminar?",
+      "options": [
+        "A) Mayoría de tres quintos de ambas Cámaras",
+        "B) Mayoría de dos tercios de ambas Cámaras y disolución de las Cortes",
+        "C) Referéndum directo del pueblo"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que la forma política del Estado español es la Monarquía parlamentaria?",
+      "options": [
+        "A) Artículo 2",
+        "B) Artículo 1.3",
+        "C) Artículo 3"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 4, ¿qué Comunidades Autónomas pueden reconocer banderas propias?",
+      "options": [
+        "A) Ninguna",
+        "B) Las que lo regulen en sus Estatutos",
+        "C) Todas las Comunidades Autónomas"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuándo se realizó la tercera reforma constitucional?",
+      "options": [
+        "A) 27 de septiembre de 2011",
+        "B) 15 de febrero de 2024",
+        "C) 27 de agosto de 1992"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título regula 'De las Cortes Generales'",
+      "options": [
+        "A) Título IV",
+        "B) Título III",
+        "C) Título II"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Preámbulo, ¿qué se busca garantizar?",
+      "options": [
+        "A) La soberanía del pueblo español",
+        "B) La convivencia democrática dentro de un orden económico y social justo",
+        "C) La unidad territorial de España"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo indica que todos los españoles tienen el deber de conocer y el derecho a usar el castellano?",
+      "options": [
+        "A) Artículo 1",
+        "B) Artículo 3.1",
+        "C) Artículo 2"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué regula el Título IX de la Constitución?",
+      "options": [
+        "A) Del Tribunal Constitucional",
+        "B) De la reforma constitucional",
+        "C) De la organización territorial"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué fecha se considera la promulgación de la Constitución por el Rey?",
+      "options": [
+        "A) 6 de diciembre de 1978",
+        "B) 27 de diciembre de 1978",
+        "C) 29 de diciembre de 1978"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 7, ¿qué deben promover los sindicatos de trabajadores y asociaciones empresariales?",
+      "options": [
+        "A) La igualdad y justicia social",
+        "B) Los intereses económicos y sociales que les son propios",
+        "C) La unidad nacional"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué capítulo del Título I regula 'De los derechos fundamentales y libertades públicas'?",
+      "options": [
+        "A) Capítulo Primero",
+        "B) Capítulo Segundo, Sección Primera",
+        "C) Capítulo Segundo, Sección Segunda"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuántas disposiciones finales tiene la Constitución?",
+      "options": [
+        "A) 4",
+        "B) 9",
+        "C) 1"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué se garantiza en el Artículo 9.3?",
+      "options": [
+        "A) Interdicción de la arbitrariedad de los poderes públicos",
+        "B) La seguridad pública",
+        "C) Ambas son correctas"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué artículo regula la bandera oficial de España?",
+      "options": [
+        "A) Artículo 3",
+        "B) Artículo 4",
+        "C) Artículo 5"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título de la Constitución abarca el Poder Judicial?",
+      "options": [
+        "A) Título VII",
+        "B) Título VI",
+        "C) Título VIII"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué principio establece el Artículo 2 de la Constitución?",
+      "options": [
+        "A) La solidaridad entre nacionalidades y regiones",
+        "B) La igualdad de derechos y deberes",
+        "C) La soberanía popular"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué está regulado en el Título X?",
+      "options": [
+        "A) El Tribunal Constitucional",
+        "B) La relación entre Gobierno y Cortes",
+        "C) La reforma constitucional"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué fecha corresponde a la primera reforma constitucional?",
+      "options": [
+        "A) 15 de febrero de 2024",
+        "B) 27 de agosto de 1992",
+        "C) 27 de septiembre de 2011"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que los ciudadanos y poderes públicos están sujetos a la Constitución?",
+      "options": [
+        "A) Artículo 7",
+        "B) Artículo 9.1",
+        "C) Artículo 8"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título regula la organización territorial del Estado?",
+      "options": [
+        "A) Título VII",
+        "B) Título VIII",
+        "C) Título IX"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en:",
+      "options": [
+        "A) El artículo 87.",
+        "B) Los apartados 1 y 3 del artículo 87.",
+        "C) Los apartados 1 y 2 del artículo 87."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Los proyectos de reforma constitucional deberán ser aprobados por:",
+      "options": [
+        "A) Una mayoría de tres quintos de cada una de las Cámaras.",
+        "B) Una mayoría de tres quintos del Congreso.",
+        "C) Una mayoría de dos tercios de cada una de las Cámaras."
+      ],
+      "answer": 0
+    },
+    {
+      "text": "De no lograrse la aprobación mediante el procedimiento del artículo 167.1:",
+      "options": [
+        "A) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de tres quintos, podrá aprobar la reforma.",
+        "B) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de dos tercios, podrá aprobar la reforma.",
+        "C) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Aprobada la reforma del artículo 167 CE por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:",
+      "options": [
+        "A) Dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "B) Dentro de los diez días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "C) Dentro de los quince días siguientes a su aprobación, un tercio de los miembros de cualquiera de las Cámaras."
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿En qué casos se considerará que hay una reforma agravada del artículo 168 CE?",
+      "options": [
+        "A) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera del Título I, o al Título III.",
+        "B) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II.",
+        "C) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo del Título I, o al Título II."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Cuando haya una reforma del artículo 168 CE:",
+      "options": [
+        "A) Se procederá a la aprobación del principio por mayoría de tres quintos de cada Cámara, y a la disolución inmediata de las Cortes.",
+        "B) Se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.",
+        "C) Se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes si así lo solicitan dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "No podrá iniciarse la reforma constitucional:",
+      "options": [
+        "A) En tiempo de vigencia de alguno de los estados previstos en el artículo 116.",
+        "B) En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+        "C) En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 136."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué dice textualmente el artículo 9.2 de la CE?",
+      "options": [
+        "A) Corresponde a los poderes públicos promover las condiciones para que la libertad y la justicia del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        "B) Corresponde a los poderes públicos promover las condiciones para que la libertad y la seguridad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        "C) Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:",
+      "options": [
+        "A) Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida.",
+        "B) Garantizar el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.",
+        "C) Promover la convivencia democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo."
+      ],
+      "answer": 0
+    },
+{
+      "text": "¿Qué se necesita para aprobar una reforma parcial que afecta al Título Preliminar?",
+      "options": [
+        "A) Mayoría de tres quintos de ambas Cámaras",
+        "B) Mayoría de dos tercios de ambas Cámaras y disolución de las Cortes",
+        "C) Referéndum directo del pueblo"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que la forma política del Estado español es la Monarquía parlamentaria?",
+      "options": [
+        "A) Artículo 2",
+        "B) Artículo 1.3",
+        "C) Artículo 3"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 4, ¿qué Comunidades Autónomas pueden reconocer banderas propias?",
+      "options": [
+        "A) Ninguna",
+        "B) Las que lo regulen en sus Estatutos",
+        "C) Todas las Comunidades Autónomas"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuándo se realizó la tercera reforma constitucional?",
+      "options": [
+        "A) 27 de septiembre de 2011",
+        "B) 15 de febrero de 2024",
+        "C) 27 de agosto de 1992"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título regula 'De las Cortes Generales'?",
+      "options": [
+        "A) Título IV",
+        "B) Título III",
+        "C) Título II"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Preámbulo, ¿qué se busca garantizar?",
+      "options": [
+        "A) La soberanía del pueblo español",
+        "B) La convivencia democrática dentro de un orden económico y social justo",
+        "C) La unidad territorial de España"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo indica que todos los españoles tienen el deber de conocer y el derecho a usar el castellano?",
+      "options": [
+        "A) Artículo 1",
+        "B) Artículo 3.1",
+        "C) Artículo 2"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué regula el Título IX de la Constitución?",
+      "options": [
+        "A) Del Tribunal Constitucional",
+        "B) De la reforma constitucional",
+        "C) De la organización territorial"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué fecha se considera la promulgación de la Constitución por el Rey?",
+      "options": [
+        "A) 6 de diciembre de 1978",
+        "B) 27 de diciembre de 1978",
+        "C) 29 de diciembre de 1978"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Según el Artículo 7, ¿qué deben promover los sindicatos de trabajadores y asociaciones empresariales?",
+      "options": [
+        "A) La igualdad y justicia social",
+        "B) Los intereses económicos y sociales que les son propios",
+        "C) La unidad nacional"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué capítulo del Título I regula 'De los derechos fundamentales y libertades públicas'?",
+      "options": [
+        "A) Capítulo Primero",
+        "B) Capítulo Segundo, Sección Primera",
+        "C) Capítulo Segundo, Sección Segunda"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Cuántas disposiciones finales tiene la Constitución?",
+      "options": [
+        "A) 4",
+        "B) 9",
+        "C) 1"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué se garantiza en el Artículo 9.3?",
+      "options": [
+        "A) Interdicción de la arbitrariedad de los poderes públicos",
+        "B) La seguridad pública",
+        "C) Ambas son correctas"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué artículo regula la bandera oficial de España?",
+      "options": [
+        "A) Artículo 3",
+        "B) Artículo 4",
+        "C) Artículo 5"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué Título de la Constitución abarca el Poder Judicial?",
+      "options": [
+        "A) Título VII",
+        "B) Título VI",
+        "C) Título VIII"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué principio establece el Artículo 2 de la Constitución?",
+      "options": [
+        "A) La solidaridad entre nacionalidades y regiones",
+        "B) La igualdad de derechos y deberes",
+        "C) La soberanía popular"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿Qué está regulado en el Título X?",
+      "options": [
+        "A) El Tribunal Constitucional",
+        "B) La relación entre Gobierno y Cortes",
+        "C) La reforma constitucional"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "¿Qué fecha corresponde a la primera reforma constitucional?",
+      "options": [
+        "A) 15 de febrero de 2024",
+        "B) 27 de agosto de 1992",
+        "C) 27 de septiembre de 2011"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué artículo establece que los ciudadanos y poderes públicos están sujetos a la Constitución?",
+      "options": [
+        "A) Artículo 7",
+        "B) Artículo 9.1",
+        "C) Artículo 8"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en:",
+      "options": [
+        "A) El artículo 87.",
+        "B) Los apartados 1 y 3 del artículo 87.",
+        "C) Los apartados 1 y 2 del artículo 87."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Los proyectos de reforma constitucional deberán ser aprobados por:",
+      "options": [
+        "A) Una mayoría de tres quintos de cada una de las Cámaras.",
+        "B) Una mayoría de tres quintos del Congreso.",
+        "C) Una mayoría de dos tercios de cada una de las Cámaras."
+      ],
+      "answer": 0
+    },
+    {
+      "text": "De no lograrse la aprobación mediante el procedimiento del artículo 167.1:",
+      "options": [
+        "A) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de tres quintos, podrá aprobar la reforma.",
+        "B) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de dos tercios, podrá aprobar la reforma.",
+        "C) Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Aprobada la reforma del artículo 167 CE por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:",
+      "options": [
+        "A) Dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "B) Dentro de los diez días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "C) Dentro de los quince días siguientes a su aprobación, un tercio de los miembros de cualquiera de las Cámaras."
+      ],
+      "answer": 0
+    },
+    {
+      "text": "¿En qué casos se considerará que hay una reforma agravada del artículo 168 CE?",
+      "options": [
+        "A) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera del Título I, o al Título III.",
+        "B) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II.",
+        "C) Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo del Título I, o al Título II."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Cuando haya una reforma del artículo 168 CE:",
+      "options": [
+        "A) Se procederá a la aprobación del principio por mayoría de tres quintos de cada Cámara, y a la disolución inmediata de las Cortes.",
+        "B) Se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.",
+        "C) Se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes si así lo solicitan dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "No podrá iniciarse la reforma constitucional:",
+      "options": [
+        "A) En tiempo de vigencia de alguno de los estados previstos en el artículo 116.",
+        "B) En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+        "C) En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 136."
+      ],
+      "answer": 1
+    },
+    {
+      "text": "¿Qué dice textualmente el artículo 9.2 de la CE?",
+      "options": [
+        "A) Corresponde a los poderes públicos promover las condiciones para que la libertad y la justicia del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        "B) Corresponde a los poderes públicos promover las condiciones para que la libertad y la seguridad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        "C) Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+      ],
+      "answer": 2
+    },
+    {
+      "text": "La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:",
+      "options": [
+        "A) Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida.",
+        "B) Garantizar el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.",
+        "C) Promover la convivencia democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo."
+      ],
+      "answer": 0
+    },
+		{
+    	"text": "Título regula la organización territorial del Estado?",
+      "options": [
+        "A) Título VII",
+        "B) Título VIII",
+        "C) Título IX"
+      ],
+      "answer": 1
+    }
+  ],
+    "Tema 2": [
+      { "text": "¿Pregunta T2-1?", "options": ["A","B","C"], "answer": 2 },
+      { "text": "¿Pregunta T2-2?", "options": ["A","B","C"], "answer": 1 }
+    ],
+    "Tema 3": [
+      { "text": "¿Pregunta T3-1?", "options": ["A","B","C"], "answer": 0 },
+      { "text": "¿Pregunta T3-2?", "options": ["A","B","C"], "answer": 1 }
+    ]
+  }
