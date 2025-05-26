@@ -1053,6 +1053,6 @@
     ],
     "Tema 3": [
       { "text": "¿Pregunta T3-1 prueba?", "options": ["1","2","3"], "answer": 0 },
-      { "text": "¿Pregunta T3-2?", "options": ["A","B","C"], "answer": 1 }
+      { "text": "¿Pregunta T3-2 prueba 2?", "options": ["A","B","C"], "answer": 1 }
     ]
   }
