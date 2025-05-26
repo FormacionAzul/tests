@@ -1137,9 +1137,7 @@
       "C: De la suspensión de los derechos fundamentales y libertades"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
     "text": "Según el artículo 49, se atenderán particularmente las necesidades específicas de:",
     "options": [
@@ -1319,9 +1317,7 @@
       "C: Las decisiones del Defensor del Pueblo"
     ],
     "answer": 0
-  }
-]
-[
+  },
   {
     "text": "Se prohíben los Tribunales de Honor en el ámbito de:",
     "options": [
@@ -1645,9 +1641,7 @@
       "C: La igualdad jurídica en el matrimonio"
     ],
     "answer": 0
-  }
-]
-[
+  },
   {
     "text": "Según el Artículo 40, ¿qué política deben promover los poderes públicos?",
     "options": [
@@ -1918,7 +1912,7 @@
     ],
     "answer": 0
   }
-]
+],
 
     "Tema 3": [
       { "text": "¿Pregunta T3-1 prueba?", "options": ["1","2","3"], "answer": 0 },
