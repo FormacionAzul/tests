@@ -1915,7 +1915,881 @@
 ],
 
     "Tema 3": [
-      { "text": "¿Pregunta T3-1 prueba?", "options": ["1","2","3"], "answer": 0 },
-      { "text": "¿Pregunta T3-2 prueba 2?", "options": ["A","B","C"], "answer": 1 }
-    ]
+      [
+  {
+    "text": "¿Cómo se denomina el capítulo II del título III de la CE?",
+    "options": [
+      "A: De la elaboración de las leyes",
+      "B: De las Cámaras",
+      "C: De los Tratados Internacionales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién ejerce la potestad reglamentaria según la CE?",
+    "options": [
+      "A: Las cortes generales",
+      "B: El gobierno",
+      "C: El rey"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué artículo de la CE viene regulado, La vigilancia y protección de sus edificios e instalaciones? La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica?",
+    "options": [
+      "A: 148.1.18ª",
+      "B: 148.1.22ª",
+      "C: 148.1.19ª"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por quien se ejercerá el control de la administración autónoma y sus normas reglamentarias de los órganos de las comunidades autónomas?",
+    "options": [
+      "A: Por la jurisdicción contencioso-administrativa",
+      "B: Por el Gobierno",
+      "C: Por el Tribunal de Cuentas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo de la CE se nombra al delegado de Gobierno?",
+    "options": [
+      "A: Art 104",
+      "B: Art 154",
+      "C: Art 155"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según el artículo 101 de la CE 1 el Gobierno cesa tras la celebración de elecciones generales, en los casos de:",
+    "options": [
+      "A: pérdida de confianza parlamentaria previstos en la constitución y en caso de dimisión, incapacidad o fallecimiento del Presidente.",
+      "B: pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.",
+      "C: pérdida de la confianza parlamentaria previstos en la ley, constitución y en caso de dimisión, incapacidad o fallecimiento del Presidente."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según cita textualmente el artículo 103 de la CE",
+    "options": [
+      "A: La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y cooperación, con sometimiento pleno a la ley y al Derecho.",
+      "B: La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficiencia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+      "C: La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión:",
+    "options": [
+      "A: Proteger el libre ejercicio de los derechos y libertades públicas y garantizar la seguridad ciudadana.",
+      "B: Proteger el libre ejercicio de los derechos fundamentales y libertades y garantizar la seguridad ciudadana.",
+      "C: Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Escoja la opción correcta en relación al artículo 112 de la CE.",
+    "options": [
+      "A: El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+      "B: El Presidente del Gobierno, previa deliberación del congreso de los diputados, puede plantear ante el senado la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+      "C: El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de los Diputados."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Como será declarado el estado de alarma?",
+    "options": [
+      "A: Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros ,dando cuenta al Congreso de los Diputados",
+      "B: Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados",
+      "C: Será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cómo se organiza territorialmente el Estado?",
+    "options": [
+      "A: En municipios, provincias, islas y en las Comunidades Autónomas que se constituyan",
+      "B: En municipios, provincias, partidos políticos y en las Comunidades Autónomas que se constituyan",
+      "C: En municipios, en provincias y en las Comunidades Autónomas que se constituyan"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "De acuerdo con lo dispuesto en el artículo 148 de la Constitución Española.",
+    "options": [
+      "A: Las comunidades autónomas tienen competencias en materia de legislación sobre pesas y medidas, determinación de la hora oficial.",
+      "B: Transcurridos dos años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.",
+      "C: Las Comunidades Autónomas podrán asumir competencias en materia de asistencia social."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cómo se denomina el título II de la CE?",
+    "options": [
+      "A: De la corona",
+      "B: De las cortes generales",
+      "C: Del gobierno y la administración"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con:",
+    "options": [
+      "A: los territorios de su comunidad histórica",
+      "B: las naciones de su comunidad histórica",
+      "C: los países de su comunidad histórica"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de las siguientes unciones del Rey puede hacer sin refrendo?",
+    "options": [
+      "A: Nombrar y separar a los miembros del Gobierno,",
+      "B: Convocar y disolver las Cortes Generales",
+      "C: Nombrar y relevar libremente a los miembros civiles y militares de su Casa"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "En cuanto a la sucesión del trono será escogido , en el mismo grado:",
+    "options": [
+      "A: el varón a la mujer",
+      "B: el grado más próximo al más remoto",
+      "C: la línea anterior a las posteriores"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Extinguidas todas las líneas llamadas en Derecho ¿Quién proveerá a la sucesión en la Corona en la forma que más convenga a los intereses de España?",
+    "options": [
+      "A: Las cortes generales",
+      "B: El gobierno",
+      "C: El rey"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Quedarán excluidas en la sucesión a la Corona por sí y sus descendientes, según dice textualmente la constitución, aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición :",
+    "options": [
+      "A: Del rey",
+      "B: Del rey y de las cortes generales",
+      "C: Del rey y del Gobierno"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué casos la reina consorte o el consorte de la reina puede asumir funciones constitucionales?",
+    "options": [
+      "A: En ningún caso",
+      "B: En lo dispuesto para la Regencia.",
+      "C: En los casos de minoría de edad del Rey"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién entrará a ejercer inmediatamente la Regencia durante la minoría de edad del Rey?",
+    "options": [
+      "A: el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona",
+      "B: el Príncipe heredero de la Corona,",
+      "C: Ninguna es correcta"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales ¿De cuantas personas se compondrá?",
+    "options": [
+      "A: una, dos o cinco personas",
+      "B: una, tres o cuatro personas",
+      "C: una, tres o cinco personas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Para ejercer la Regencia es preciso ser, señale a correcta:",
+    "options": [
+      "A: español de nacimiento y mayor de edad.",
+      "B: español",
+      "C: español y mayor de edad...."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Elija la opción correcta:",
+    "options": [
+      "A: Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre en todo caso",
+      "B: Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos",
+      "C: Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el pariente mayor de edad más próximo a suceder en la Corona"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿De qué prestara juramento El Rey, al ser proclamado ante las Cortes Generales?",
+    "options": [
+      "A: De desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+      "B: De desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+      "C: De desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones, estos son:",
+    "options": [
+      "A: el primero, de septiembre a diciembre, y el segundo, de febrero a julio.",
+      "B: el primero, de septiembre a noviembre, y el segundo, de febrero a junio.",
+      "C: el primero, de septiembre a diciembre, y el segundo, de febrero a junio."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes funciones no pueden delegar las cámaras en las Comisiones Legislativas Permanentes?",
+    "options": [
+      "A: Leyes de bases",
+      "B: Presupuestos Generales del Estado.",
+      "C: Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Elije la opción correcta",
+    "options": [
+      "A: Las Cámaras pueden remitir al Gobierno las peticiones que reciban.",
+      "B: Las Cámaras deben remitir al Gobierno las peticiones que reciban.",
+      "C: Las Cámaras deben remitir al Gobierno las peticiones que envíen."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las sesiones plenarias de las Cámaras serán:",
+    "options": [
+      "A: Publicas, salvo acuerdo en contrario de cada Cámara",
+      "B: Publicas, en todo caso",
+      "C: Publicas, salvo dictamen contrario de cada Cámara"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué mayoría exigirá la aprobación, modificación o derogación de las leyes orgánicas?",
+    "options": [
+      "A: mayoría absoluta del Senado, en una votación final sobre el conjunto del proyecto",
+      "B: mayoría simple del Congreso, en una votación final sobre el conjunto del proyecto",
+      "C: mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Al amparo del artículo 33 de la CE las leyes de bases no podrán en ningún caso:",
+    "options": [
+      "A: Facultar para dictar normas con carácter irretroactivo.",
+      "B: Autorizar la modificación de la propia ley de bases.",
+      "C: Ambas son correctas"
+    ],
+    "answer": 1
+  } [
+  {
+    "text": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
+    "options": [
+      "A: Decretos Legislativos",
+      "B: Decretos - Leyes",
+      "C: Decretos"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La responsabilidad criminal del Presidente y los demás miembros del Gobierno si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones sólo podrá ser planteada por:",
+    "options": [
+      "A: Iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo",
+      "B: Iniciativa de la quinta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo",
+      "C: Iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo de la CE se habla de las fuerzas y cuerpos de seguridad?",
+    "options": [
+      "A: Art 154",
+      "B: Art 124",
+      "C: Art 104"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por qué artículo se constituyó Madrid en una comunidad autónoma?",
+    "options": [
+      "A: 144.a)",
+      "B: 144.c)",
+      "C: 144.b)"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición de:",
+    "options": [
+      "A: Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+      "B: Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros del congreso",
+      "C: Gobierno, de la comisión permanente legislativa o de la mayoría absoluta de los miembros de cualquiera de las Cámaras."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida:",
+    "options": [
+      "A: la presentación indirecta por manifestaciones ciudadanas.",
+      "B: la presentación directa por manifestaciones ciudadanas.",
+      "C: la presentación directa o indirecta por manifestaciones ciudadanas."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuántas diputaciones permanentes habrá en cada cámara?",
+    "options": [
+      "A: Una Diputación Permanente",
+      "B: Dos Diputaciones Permanentes",
+      "C: Tres Diputaciones Permanentes"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué mayoría necesitan los Acuerdos de las cámaras para ser aprobados?",
+    "options": [
+      "A: Mayoría simple",
+      "B: Mayoría absoluta",
+      "C: Mayoría de dos tercios de cada cámara"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué mayoría necesitan los Reglamentos de las cámaras para ser aprobados?",
+    "options": [
+      "A: Mayoría de tres quintos de cada cámara",
+      "B: Mayoría absoluta",
+      "C: Mayoría simple"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Señale la respuesta correcta",
+    "options": [
+      "A: Las Cámaras se reunirán en sesión conjunta para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales",
+      "B: Las Cámaras se reunirán en sesión conjunta para ejercer las competencias legislativas que el Título II atribuye expresamente a las Cortes Generales",
+      "C: Las Cámaras se reunirán en sesión conjunta para ejercer las competencias no legislativas que el Título III atribuye expresamente a las Cortes Generales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo se citan las funciones del Rey?",
+    "options": [
+      "A: 62",
+      "B: 64",
+      "C: 65"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Es una función del Rey: (elija la respuesta que se ajusta a la literalidad del texto )",
+    "options": [
+      "A: Nombrar y separar a los miembros del Gobierno, a propuesta de las cámaras",
+      "B: Convocar a referéndum en los casos previstos en la Constitución y en las leyes",
+      "C: Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿A quién le corresponde manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con la Constitución y las leyes?",
+    "options": [
+      "A: Al Rey",
+      "B: Al Gobierno",
+      "C: A las cortes generales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién será responsable de los actos del Rey?",
+    "options": [
+      "A: El Rey es responsable de sus propios actos",
+      "B: El Gobierno, en todo caso",
+      "C: Las personas que lo refrenden"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Al amparo del artículo 66 , las Cortes Generales son:",
+    "options": [
+      "A: inviolables e inamovibles",
+      "B: inviolables e inmunes",
+      "C: inviolables"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta correcta",
+    "options": [
+      "A: Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de Senador",
+      "B: Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso",
+      "C: Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de ninguna de las cámaras"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta correcta",
+    "options": [
+      "A: Los miembros de las Cortes Generales no estarán ligados por mandato imperativo",
+      "B: Los miembros de las Cortes Generales a veces estarán ligados por mandato imperativo",
+      "C: Los miembros de las Cortes Generales estarán ligados por mandato imperativo"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo se habla del Senado?",
+    "options": [
+      "A: 67",
+      "B: 68",
+      "C: 69"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por cuantos diputados se compone el congreso?",
+    "options": [
+      "A: El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados",
+      "B: El Congreso se compone de un mínimo de 200 y un máximo de 400 Diputados",
+      "C: El Congreso se compone de un mínimo de 400 y un máximo de 600 Diputados"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Señale la respuesta correcta en relación al artículo 68.6 de la CE:",
+    "options": [
+      "A: Las elecciones tendrán lugar entre los treinta días y sesenta días desde el comienzo del mandato.",
+      "B: Las elecciones tendrán lugar entre los treinta días y setenta días desde la terminación del mandato.",
+      "C: Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Escoja la opción correcta",
+    "options": [
+      "A: El Senado es la Cámara de representación territorial.",
+      "B: El Congreso es la Cámara de representación territorial.",
+      "C: El Senado es la Cámara de representación proporcional."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuántos Senadores se elegirán para Gran Canaria, Mallorca y Tenerife?",
+    "options": [
+      "A: Uno",
+      "B: Tres",
+      "C: Dos"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Continua la afirmación. Las Comunidades Autónomas designarán además un Senador y otro más por cada",
+    "options": [
+      "A: millón de habitantes de su respectivo territorio.",
+      "B: quinientos mil habitantes de su respectivo territorio.",
+      "C: dos millones de habitantes de su respectivo territorio."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Senado es elegido por",
+    "options": 
+      "A: Sufragio universal",
+      "B: Sufragio universal, libre, igual, directo y secreto",
+      "C: Sufragio libre, igual, directo y secreto"
+    ,
+    "answer": 1
+  },
+  {
+    "text": "Los Senadores en representación de las CCAA serán designados por",
+    "options": [
+      "A: La Asamblea legislativa",
+      "B: El Tribunal Superior de Justicia",
+      "C: El Presidente de la CCAA"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El mandato de las Cortes Generales termina",
+    "options": [
+      "A: Cuatro años después de la elección",
+      "B: Cinco años después de la elección",
+      "C: Tres años después de la elección"
+    ,
+    "answer": 0
+  },
+  {
+    "text": "Los españoles que se encuentren fuera del territorio de España",
+    "options": [
+      "A: Podrán votar en las elecciones a Cortes Generales",
+      "B: No podrán votar en las elecciones a Cortes Generales",
+      "C: Sólo podrán votar en las elecciones europeas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En caso de fallecimiento, dimisión o pérdida de la condición parlamentaria de un Diputado o Senador ¿Quién ocupará su escaño?",
+    "options": [
+      "A: Su sustituto, que será el siguiente candidato no electo de su mismo partido en las últimas elecciones",
+      "B: Su sustituto, que será el siguiente candidato no electo de cualquier partido en las últimas elecciones",
+      "C: Nadie, el escaño quedará vacío hasta las siguientes elecciones"
+    ,
+    "answer": 0
   }
+  {
+    "text": "Continua la afirmación. Las Comunidades Autónomas designarán además un Senador y otro más por cada",
+    "options": [
+      "A: millón de habitantes de su respectivo territorio.",
+      "B: quinientos mil habitantes de su respectivo territorio.",
+      "C: dos millones de habitantes de su respectivo territorio."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Senado es elegido por",
+    "options": [
+      "A: Sufragio universal",
+      "B: Sufragio universal, libre, igual, directo y secreto",
+      "C: Sufragio libre, igual, directo y secreto"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Los Senadores en representación de las CCAA serán designados por",
+    "options": [
+      "A: La Asamblea legislativa",
+      "B: El Tribunal Superior de Justicia",
+      "C: El Presidente de la CCAA"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El mandato de las Cortes Generales termina",
+    "options": [
+      "A: Cuatro años después de la elección",
+      "B: Cinco años después de la elección",
+      "C: Tres años después de la elección"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Los españoles que se encuentren fuera del territorio de España",
+    "options": [
+      "A: Podrán votar en las elecciones a Cortes Generales",
+      "B: No podrán votar en las elecciones a Cortes Generales",
+      "C: Sólo podrán votar en las elecciones europeas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En caso de fallecimiento, dimisión o pérdida de la condición parlamentaria de un Diputado o Senador ¿Quién ocupará su escaño?",
+    "options": [
+      "A: Su sustituto, que será el siguiente candidato no electo de su mismo partido en las últimas elecciones",
+      "B: Su sustituto, que será el siguiente candidato no electo de cualquier partido en las últimas elecciones",
+      "C: Nadie, el escaño quedará vacío hasta las siguientes elecciones"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo se regula la iniciativa legislativa?",
+    "options": [
+      "A: 86",
+      "B: 87",
+      "C: 88"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La iniciativa legislativa corresponde a:",
+    "options": [
+      "A: El Congreso, el Senado y el Gobierno",
+      "B: El Congreso, el Senado, el Gobierno y el pueblo mediante iniciativa popular",
+      "C: El Congreso, el Senado, el Gobierno, el pueblo mediante iniciativa popular y las Asambleas de las Comunidades Autónomas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuántas firmas acreditadas son necesarias para ejercer la iniciativa popular?",
+    "options": [
+      "A: 500.000",
+      "B: 400.000",
+      "C: 600.000"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Indique cual de las siguientes materias no podrá ser regulada mediante iniciativa popular",
+    "options": [
+      "A: Materias tributarias",
+      "B: Materias relativas a la gracia",
+      "C: Materias que afecten al desarrollo de los derechos fundamentales y de las libertades públicas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de",
+    "options": [
+      "A: Tres miembros de la Asamblea encargados de su defensa",
+      "B: Dos miembros de la Asamblea encargados de su defensa",
+      "C: Un miembro de la Asamblea encargado de su defensa"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los proyectos de ley serán aprobados por el Consejo de Ministros, que los someterá al",
+    "options": [
+      "A: Congreso",
+      "B: Senado",
+      "C: Rey"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Tiene la potestad de retirar un proyecto de ley en cualquier momento de la tramitación parlamentaria",
+    "options": [
+      "A: El Gobierno",
+      "B: El Presidente del Gobierno",
+      "C: El Rey"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué plazo tiene el Senado para vetar o enmendar un proyecto de ley?",
+    "options": [
+      "A: Dos meses",
+      "B: Tres meses",
+      "C: Un mes"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Si el Senado veta un proyecto de ley ¿Qué necesita el Congreso para levantar el veto?",
+    "options": [
+      "A: Mayoría absoluta",
+      "B: Mayoría simple",
+      "C: Mayoría de 3/5"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Si el Senado introduce enmiendas a un proyecto de ley ¿Qué necesita el Congreso para aprobar el proyecto con dichas enmiendas?",
+    "options": [
+      "A: Mayoría simple",
+      "B: Mayoría absoluta",
+      "C: Mayoría de 3/5"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué artículo de la CE se regula el Tribunal Constitucional?",
+    "options": [
+      "A: 159",
+      "B: 160",
+      "C: 161"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las leyes orgánicas exigen para su aprobación, modificación o derogación",
+    "options": [
+      "A: Mayoría simple del Congreso",
+      "B: Mayoría absoluta del Congreso",
+      "C: Mayoría de 3/5 del Congreso"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Las Comunidades Autónomas podrán acceder a un mayor grado de autonomía mediante la reforma de sus Estatutos y a través de los pactos previstos en el artículo",
+    "options": [
+      "A: 150.1",
+      "B: 150.2",
+      "C: 150.3"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Corresponde al Gobierno la función ejecutiva y la potestad reglamentaria de acuerdo con",
+    "options": [
+      "A: La Constitución y las leyes",
+      "B: La Constitución",
+      "C: Las leyes"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Gobierno se compone del Presidente del Gobierno, de los Vicepresidentes en su caso, de los Ministros y de",
+    "options": [
+      "A: Los Delegados del Gobierno",
+      "B: Los Secretarios de Estado",
+      "C: Los Directores Generales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de éstos en la gestión de sus Departamentos. ¿Qué más le corresponde?",
+    "options": [
+      "A: Establecer las directrices de la política interior",
+      "B: Establecer las directrices de la política exterior",
+      "C: Establecer las directrices de la política general del Gobierno"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los miembros del Gobierno",
+    "options": [
+      "A: Podrán ejercer cualquier actividad profesional o mercantil",
+      "B: No podrán ejercer otra función pública que no sea la derivada de su cargo",
+      "C: Podrán ejercer cualquier actividad siempre que no interfiera en su función pública"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por",
+    "options": [
+      "A: Dimisión o fallecimiento de su Presidente",
+      "B: Enfermedad grave de su Presidente",
+      "C: Incapacidad temporal de su Presidente"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Gobierno cesante continuará en funciones hasta",
+    "options": [
+      "A: La toma de posesión del nuevo Gobierno",
+      "B: La designación del nuevo Gobierno",
+      "C: La formación del nuevo Gobierno"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Presidente del Gobierno es nombrado por",
+    "options": 
+      "A: El Congreso",
+      "B: El Rey",
+      "C: El Tribunal Constitucional"
+    ,
+    "answer": 1
+  },
+  {
+    "text": "El Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno. ¿Tras cada renovación del Congreso, en qué plazo deberá realizar esta función?",
+    "options": [
+      "A: Diez días",
+      "B: Quince días",
+      "C: Treinta días"
+    ,
+    "answer": 0
+  },
+  {
+    "text": "El candidato propuesto conforme a lo dispuesto en el apartado 1 del artículo 99 expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara. ¿Cómo se entenderá otorgada la confianza?",
+    "options": [
+      "A: Cuando obtenga la mayoría simple",
+      "B: Cuando obtenga la mayoría absoluta",
+      "C: Cuando obtenga la mayoría de 3/5"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Si el candidato propuesto no obtuviere la confianza del Congreso, se tramitarán sucesivas propuestas en un plazo máximo de",
+    "options": [
+      "A: Diez días",
+      "B: Quince días",
+      "C: Dos meses"
+    ],
+    "answer": 2
+  [
+  {
+    "text": "Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones. ¿Con la refrendación de quién?",
+    "options": [
+      "A: El Presidente del Congreso",
+      "B: El Presidente del Gobierno",
+      "C: El Presidente del Senado"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El Presidente y los demás miembros del Gobierno serán penalmente responsables ante",
+    "options": [
+      "A: El Tribunal Supremo",
+      "B: El Tribunal Constitucional",
+      "C: El Tribunal Superior de Justicia"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "La cuestión de confianza puede ser planteada ante",
+    "options": [
+      "A: El Congreso",
+      "B: El Senado",
+      "C: Las Cortes Generales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey, a continuación",
+    "options": [
+      "A: Se disolverán automáticamente las Cortes",
+      "B: Se nombrará un nuevo Presidente del Gobierno",
+      "C: Se seguirá el procedimiento establecido en el artículo 99"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales ¿Cuándo no podrá acordar la disolución?",
+    "options": [
+      "A: Cuando esté tramitándose una cuestión de confianza",
+      "B: Cuando reste menos de un año para la finalización de la legislatura",
+      "C: Cuando reste menos de un año para la finalización de la legislatura y esté tramitándose una cuestión de confianza"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a",
+    "options": [
+      "A: La Ley y al Derecho",
+      "B: La Ley",
+      "C: La Constitución"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con",
+    "options": [
+      "A: La Ley",
+      "B: El Gobierno",
+      "C: El Congreso"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las Comunidades Autónomas podrán acceder a un mayor grado de autonomía mediante la reforma de sus Estatutos y a través de los pactos previstos en el artículo",
+    "options": [
+      "A: 150.1",
+      "B: 150.2",
+      "C: 150.3"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién ejerce la potestad reglamentaria según la CE?",
+    "options": [
+      "A: Las cortes generales",
+      "B: El gobierno",
+      "C: El rey"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué artículo de la CE viene regulado, La vigilancia y protección de sus edificios e instalaciones? La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica?",
+    "options": [
+      "A: 148.1.18ª",
+      "B: 148.1.22ª",
+      "C: 148.1.19ª"
+    ],
+    "answer": 2
+  }
+]
+
+    ]
+  
