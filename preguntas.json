@@ -1052,7 +1052,7 @@
       { "text": "¿Pregunta T2-2?", "options": ["A","B","C"], "answer": 1 }
     ],
     "Tema 3": [
-      { "text": "¿Pregunta T3-1?", "options": ["A","B","C"], "answer": 0 },
+      { "text": "¿Pregunta T3-1 prueba?", "options": ["1","2","3"], "answer": 0 },
       { "text": "¿Pregunta T3-2?", "options": ["A","B","C"], "answer": 1 }
     ]
   }
