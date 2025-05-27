@@ -3423,7 +3423,7 @@
       "C: La Asamblea"
     ],
     "answer": 2
-  },[
+  },
   {
     "text": "¿Quién elige al Presidente de la Comunidad de Madrid?",
     "options": [
@@ -3946,7 +3946,6 @@
     ],
     "answer": 0
   },
-	
   {
     "text": "¿Quién puede presentar la cuestión de confianza en la Comunidad de Madrid?",
     "options": [
@@ -4038,8 +4037,4 @@
     "answer": 0
   }
 ] 
-	  }
-
-
-
-
+}
