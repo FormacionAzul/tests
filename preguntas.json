@@ -2789,7 +2789,8 @@
     "answer": 2
   }
 ],
-"Tema 4":[
+
+  "Tema 4": [
 	{
     "text": "El conjunto de facultades, libertades y potestades que la ley otorga a las personas se denomina:",
     "options": [
@@ -3059,7 +3060,7 @@
       "C: Superior a 10 días"
     ],
     "answer": 0
-  }, [
+  },
   {
     "text": "¿Cuál de los siguientes no es una fuente directa del derecho administrativo?",
     "options": [
@@ -3151,6 +3152,4 @@
     "answer": 0
   }
 ]
-
-
-
+}
