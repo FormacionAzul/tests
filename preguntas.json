@@ -6055,5 +6055,366 @@
             ],
             "answer": 1
         }
-    ]
-}
+    ],
+    "Tema 10": [
+          {
+    "text": "La ley 1/2018 será de aplicación a: Escoja la correcta",
+    "options": [
+      "a) los Cuerpos de policía local constituidos en el ámbito territorial de la Comunidad de Madrid, y a los agentes auxiliares en lo relativo a principios generales de actuación y funciones atribuidas en la Ley de Bases del Régimen Local y en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.",
+      "b) los Cuerpos de policía local constituidos en el ámbito territorial de la ciudad de Madrid, y a los agentes auxiliares en lo relativo a principios generales de actuación y funciones atribuidas en la Ley de Bases del Régimen Local y en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.",
+      "c) los Cuerpos de policía local constituidos en el ámbito territorial de la Comunidad de Madrid, y a los agentes auxiliares en lo relativo a principios basicosde actuación y funciones atribuidas en la Ley de Bases del Régimen Local y en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué articulo de la ley 1/2018 de 22 de febrero se denomina 'Creación de cuerpos de policía local'?",
+    "options": [
+      "a) 2",
+      "b) 3",
+      "c) 4"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿De quien se requerirá un informe preceptivo para la creación de policías locales en municipios de población superior a 5.000 habitantes?",
+    "options": [
+      "a) De la Comisión Regional de Coordinación de las Policías Locales",
+      "b) De la Consejería competente en materia de coordinación de policías locales",
+      "c) Ninguna es correcta"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cómo se denominan las dependencias de los cuerpos de policía local?",
+    "options": [
+      "a) Comisarias de policía local",
+      "b) Bases de policía local",
+      "c) Centrales de policía local"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según la ley 1/2018, y fijándonos en la literalidad del texto , el régimen estatutario de los cuerpos de policía local quedará sometido a:",
+    "options": [
+      "a) a la presente Ley, a la Ley Orgánica 2/1986, de 13 de marzo, a los reglamentos específicos de cada Cuerpo y a las demás normas dictadas por los correspondientes ayuntamientos",
+      "b) a la presente Ley, dentro de los principios basicos de la Ley Orgánica 2/1986, de 13 de marzo, a los reglamentos específicos de cada Cuerpo y a las demás normas dictadas por los correspondientes ayuntamientos",
+      "c) a la presente Ley, dentro de los principios generales de la Ley Orgánica 2/1986, de 13 de marzo, a los reglamentos específicos de cada Cuerpo y a las demás normas dictadas por los correspondientes ayuntamientos"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta correcta:",
+    "options": [
+      "a) Los miembros de los Cuerpos de policía local tendrán, a todos los efectos legales, el carácter de agentes de la autoridad.",
+      "b) En el ejercicio de sus funciones, los miembros de los Cuerpos de policía local tendrán, a todos los efectos legales, el carácter de autoridad.",
+      "c) En el ejercicio de sus funciones, los miembros de los Cuerpos de policía local tendrán, a todos los efectos legales, el carácter de agentes de la autoridad."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Respecto a lo que dicta la ley 1/2018 , los Cuerpos de policía local actuarán ordinariamente en el ámbito territorial del municipio respectivo, salvo en los supuestos previstos en los artículos:",
+    "options": [
+      "a) 30 y 31",
+      "b) 30 y 31.2",
+      "c) 30 y 31.3"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿En que articulo de la ley 1/2018 se regulan los agentes auxiliares?",
+    "options": [
+      "a) Articulo 6",
+      "b) Articulo 9",
+      "c) Articulo 7"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta correcta en relación a lo que dicta la ley 1/2018 de 22 de febrero respecto a los agentes auxiliares",
+    "options": [
+      "a) Los agentes auxiliares ostentarán el carácter de agentes de la autoridad en el ejercicio de sus funciones de conformidad con lo previsto en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+      "b) Los agentes auxiliares ostentarán el carácter de agentes de la autoridad en el ejercicio de sus funciones de conformidad con lo previsto en la ley 1/2018 de 22 de febrero de coordinación de las policías locales",
+      "c) Los agentes auxiliares ostentarán el carácter de agentes de la autoridad en el ejercicio de sus funciones de conformidad con lo previsto en la Ley de función publica"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En que subgrupo se clasifican los agentes auxiliares?",
+    "options": [
+      "a) En el subgrupo A-1",
+      "b) En el subgrupo C-1",
+      "c) En el subgrupo C-2"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La selección y formación de los agentes auxiliares se llevará a cabo a través del sistema:",
+    "options": [
+      "a) Concurso oposición",
+      "b) Concurso oposición libre",
+      "c) Oposición libre"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuántos puestos de trabajo de agentes auxiliares podrán crear los ayuntamientos?",
+    "options": [
+      "a) Podrán crear un máximo de tres puestos de trabajo",
+      "b) Podrán crear un máximo de dos puestos de trabajo",
+      "c) Podrán crear un máximo de cinco puestos de trabajo"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Quién podrá dispensar del uso de uniforme a los policías locales para el ejercicio de las funciones de protección de personas y demás funciones atribuidas a las policías locales por el ordenamiento jurídico y por la presente Ley(1/2018)?",
+    "options": [
+      "a) La persona titular de la jefatura de policía , previa autorización de la Delegación del Gobierno y de acuerdo con la normativa vigente.",
+      "b) La persona titular de la alcaldía , previa autorización de la Delegación del Gobierno y de acuerdo con la normativa vigente.",
+      "c) La La Dirección General de la Comunidad de Madrid competente en materia de coordinación de policías locales ,de acuerdo con la normativa vigente."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En que capitulo del titulo I de la ley 1/2018 de 22 de febrero de coordinación de las policías locales vienen regulados los principios básicos de actuación?",
+    "options": [
+      "a) En el capitulo III",
+      "b) En el capitulo iv",
+      "c) En el capitulo II"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo del articulo 8.2 de la ley 1/2018 de 22 de febrero , la uniformidad será homogénea, e incorporará necesariamente:",
+    "options": [
+      "a) El escudo de la Comunidad de Madrid, el del municipio correspondiente y el número de identificación del agente.",
+      "b) El escudo de la Comunidad de Madrid, el nombre del municipio correspondiente y el número de identificación del agente.",
+      "c) El escudo del municipio, el nombre del municipio y el número de identificación del agente."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Por quien se proporcionarán  las armas, la munición y los accesorios técnicos necesarios para garantizar eficazmente el cumplimiento de sus funciones, con carácter homogéneo y según los criterios de coordinación establecidos en la presente Ley(1/2018)?",
+    "options": [
+      "a) Por las corporaciones locales",
+      "b) Por los municipios",
+      "c) Por las Administraciones locales competentes"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Quien garantizará la necesaria defensa jurídica en las causas que se sigan contra los miembros de policía local como consecuencia de actuaciones realizadas en el ejercicio de sus funciones?",
+    "options": [
+      "a) Las corporaciones locales",
+      "b) Las administraciones locales competentes",
+      "c) Los municipios"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cómo se denomina el articulo 15 de la ley 1/2018 de 22 de febrero?",
+    "options": [
+      "a) Relaciones con la ciudadanía",
+      "b) Relaciones con la comunidad",
+      "c) Tratamiento de los detenidos"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Dar cumplimiento y observar con la debida diligencia los trámites, plazos y requisitos exigidos por el ordenamiento jurídico, cuando se proceda a la detención de una persona, a la que informarán de los derechos que le asisten es un principio básico de actuación regulado en la ley 1/2018 de 22 de febrero de coordinación de las policías locales en su artículo:",
+    "options": [
+      "a) 15..b",
+      "b) 16.c",
+      "c) 16.b"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Al amparo del articulo 8.5 de la ley 1/2018 de 22 de febrero, los miembros de los Cuerpos de policía local en el ejercicio de sus funciones, portarán y se identificarán, ante el requerimiento de cualquier ciudadano, un distintivo profesional acreditativo,  en dicho distintivo, al menos, constará:",
+    "options": [
+      "a) El escudo y nombre del municipio, el del funcionario, su categoría, número de identificación como agente y número del Documento Nacional de Identidad.",
+      "b) El escudo del municipio, el nombre del funcionario, su categoría, número de identificación como agente y número del Documento Nacional de Identidad.",
+      "c) El nombre del municipio, el del funcionario, su categoría, número de identificación como agente y número del Documento Nacional de Identidad."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué articulo de la ley 1/2018 de 22 de febrero se denomina 'Dedicación profesional'?",
+    "options": [
+      "a) Artículo 17",
+      "b) Artículo 19",
+      "c) Artículo 18"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Colaborar con la administración de justicia y auxiliarla en los términos establecidos en la ley es un  principio básico de actuación regulado en:",
+    "options": [
+      "a) La ley 1/2018 de 22 de febrero de coordinación de las policías locales de la comunidad de Madrid",
+      "b) Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+      "c) Ambas son correctas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién velara por el estricto cumplimiento delos principios básicos de actuación?",
+    "options": [
+      "a) La Dirección General de la Comunidad de Madrid competente en materia de coordinación de policías locales",
+      "b) Las corporaciones locales",
+      "c) a Consejería competente en materia de coordinación de policías locales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "La policía local se integrará en un cuerpo único:",
+    "options": [
+      "a) Dentro de cada comunidad autonoma",
+      "b) Dentro de cada provincia",
+      "c) Dentro de cada municipio"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Que requisitos en materia de uniformidad se deberán cumplir al amparo del articulo 8.3 de la ley 1/2018 de 22 de febrero de coordinación de las policías locales de la comunidad de Madrid?",
+    "options": [
+      "a) Requisitos de seguridad, funcionalidad e identidad corporativa",
+      "b) Requisitos de comodidad, seguridad, funcionalidad e identidad corporativa",
+      "c) Requisitos de seguridad, funcionalidad e identidad jurídica"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo de la ley 1/2018 de 22 de febrero de coordinación de las policías locales de la comunidad de Madrid, los vehículos policiales, cualquiera que sea su denominación, y elementos de movilidad de los que hagan uso los policías locales en su trabajo diario, del tipo bicicletas, cuatriciclos, quads o seeway, etc., unificarán sus distintivos e imagen:",
+    "options": [
+      "a) A la que se establezca reglamentariamente por la Comisión Regional de Coordinación de las Policías Locales.",
+      "b)A la que se establezca reglamentariamente por la Consejería competente en materia de coordinación de policías locales",
+      "c) A la que se establezca reglamentariamente por la Dirección General de la Comunidad de Madrid competente en materia de coordinación de policías locales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral, es un principio básico de actuación del articulo:",
+    "options": [
+      "a) Articulo 16",
+      "b) Articulo 15",
+      "c) Articulo 17"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Actuar en el ejercicio de sus funciones, con la decisión necesaria y sin demora cuando de ello dependa evitar un daño grave, inmediato o irreparable; rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance. es un principio básico de actuación del artículo:",
+    "options": [
+      "a) Articulo 15",
+      "b) Articulo 16",
+      "c) Articulo 17"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Dar cumplimiento y observar con la debida diligencia los trámites, plazos y requisitos exigidos por el ordenamiento jurídico, cuando se proceda a la detención de una persona, a la que informarán de los derechos que le asisten, es un principio básico de actuación regulado en el artículo:",
+    "options": [
+      "a) Articulo 15",
+      "b) Articulo 16",
+      "c) Articulo 18"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué articulo de la ley 1/2018 de 22 de febrero de coordinación de las policías locales de la comunidad de Madrid, se denomina secreto profesional:",
+    "options": [
+      "a) Articulo 19",
+      "b) Articulo 17",
+      "c) Articulo 18"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Al amparo de la ley 1/18 e 22 de febrero de coordinación de las policías locales de la comunidad de Madrid, los miembros de los cuerpos de policía local responden, por los actos que en su actuación profesional llevaren a cabo, infringiendo o vulnerando las normas legales, así como las reglamentarias que rijan su profesión y los principios básicos de actuación:",
+    "options": [
+      "a) Personal y solidiariamente",
+      "b) Personal y subsidiariamente",
+      "c) Personal y directamente"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Cumplir estrictamente las normas establecidas en la Ley Orgánica de protección de la seguridad ciudadana, en lo relativo a la identificación de personas en las vías y lugares públicos y prevenir cualquier sesgo discriminatorio en la práctica de dichas identificaciones, es un principio básico de actuación regulado en la ley:",
+    "options": [
+      "a) Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+      "b) Ley 1/2018, de 22 de febrero, de Coordinación de Policías Locales de la Comunidad de Madrid",
+      "c) Ambas son correctas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Al amparo de la ley 1/2018, fuera del horario del servicio está prohibido el uso del uniforme y material complementario, salvo:",
+    "options": [
+      "a) En los supuestos excepcionales establecidos en la normativa de aplicación o por autorización expresa de la jefatura de la policía en aquellos actos de reconocimiento personal o profesional de representación, en los que se requiera el uso del mismo.",
+      "b) En los supuestos excepcionales establecidos en la normativa de aplicación o por autorización expresa de la persona titular de la alcaldía en aquellos actos de reconocimiento personal o profesional de representación, en los que se requiera el uso del mismo.",
+      "c) En los supuestos excepcionales establecidos en la normativa de aplicación o por autorización expresa de la Dirección general de la comunidad de Madrid en aquellos actos de reconocimiento personal o profesional de representación, en los que se requiera el uso del mismo."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Los vehículos policiales, cualquiera que sea su denominación, y elementos de movilidad de los que hagan uso los policías locales en su trabajo diario, del tipo bicicletas, cuatriciclos, quads o seeway, etc., unificarán sus distintivos e imagen a la que se establezca reglamentariamente por:",
+    "options": [
+      "a) La Comisión Regional de Coordinación de las Policías Locales.",
+      "b) La Consejería competente en materia de coordinación de policías locales.",
+      "c) La Corporación local respectivo"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuantos artículos tiene la ley 1/2018 de 22 de febrero?",
+    "options": [
+      "a) 54",
+      "b) 55",
+      "c) 56"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué titulo de la ley 1/2018 de 22 febrero se denomina 'De los policías locales'?",
+    "options": [
+      "a) Titulo V",
+      "b) Titulo III",
+      "c) Titulo I"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Al amparo del articulo 13 de la ley 1 / 2018 de 22 de febrero , ¿A que normativas deben someterse en sus actuaciones los miembros de los Cuerpos de policía local?",
+    "options": [
+      "a) Ley Orgánica 2/1986, de 13 de marzo, a los principios básicos establecidos el capitulo III del titulo I de la ley 1/2018,así como a la demás normativa aplicable.",
+      "b) Ley Orgánica 2/1986, de 13 de marzo, a los principios generales establecidos la ley 1/2018, así como a la demás normativa aplicable.",
+      "c) Ley Orgánica 2/1986, de 13 de marzo, a los principios básicos establecidos en este Capítulo, así como en lo dispuesto en el reglamento para el cuerpo de policías locales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Sujetar su actuación profesional a los principios de jerarquía y subordinación, debiendo respeto y obediencia a las autoridades y superiores jerárquicos. No obstante, se abstendrán de cumplir órdenes que impliquen la ejecución de actos que manifiesta, clara y terminantemente constituyan delito o que sean contrarios a la Constitución, al Estatuto de Autonomía o a las leyes es una principio básico de actuación regulado en el articulo:",
+    "options": [
+      "a) Articulo 14",
+      "b)Articulo 15",
+      "c)Articulo 16"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué articulo de la ley 1/2018 de 22 febrero se denomina 'Uniformidad, equipamiento y acreditación profesional'?",
+    "options": [
+      "a) Articulo 7",
+      "b)Articulo 9",
+      "c)Articulo 8"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué articulo de la ley 1/2018 de 22 de febrero se denomina 'Armamento y medios materiales'?",
+    "options": [
+      "a) Articulo 8",
+      "b)Articulo 6",
+      "c)Articulo 9"
+    ],
+    "answer": 2
+  }
+]
