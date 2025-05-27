@@ -5679,7 +5679,367 @@
     "answer": 0
   }
 ],
-}
+"Tema 9": [{
+    "text": "La ley Orgánica 4/2010, de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía, tiene por objeto regular el régimen disciplinario de los miembros del Cuerpo Nacional de Policía , de acuerdo con una serie de principios recogidos en:",
+    "options": [
+      "A: La Constitución, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y en el resto del ordenamiento jurídico.",
+      "B: La Constitución, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad,la ley 1/2018, de 22 de febrero, de Coordinación de Policías Locales de la Comunidad de Madrid y en el resto del ordenamiento jurídico.",
+      "C: La Constitución, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local y en el resto del ordenamiento jurídico."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿A quién será de aplicación la ley orgánica 4/2010 de 20 de mayo de régimen disciplinario del cuerpo de policía nacional?",
+    "options": [
+      "A: Los funcionarios del Cuerpo Nacional de Policía que se encuentren en las situaciones de servicio activo y de segunda actividad sin ocupar destino",
+      "B: Los funcionarios del Cuerpo Nacional de Policía que se encuentren en las situaciones de servicio activo y de segunda actividad ocupando destino.",
+      "C: Los funcionarios del Cuerpo Nacional de Policía que se encuentren en las situaciones de servicio activo y de segunda actividad"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Respecto a los funcionarios en prácticas, elija la respuesta correcta:",
+    "options": [
+      "A: Quedan sometidos a las normas de régimen disciplinario de la ley orgánica 4/2010 de 20 de Mayo de régimen disciplinario del cuerpo de policía nacional y, con carácter supletorio a las normas de régimen disciplinario establecidas en el reglamento del centro docente policial",
+      "B: Quedan sometidos a las normas de régimen disciplinario establecidas en el reglamento del centro docente policial y, con carácter supletorio para aquellos supuestos en que el hecho no constituya falta de disciplina docente, a las normas de la ley orgánica 4/2010 de 20 de Mayo de régimen disciplinario del cuerpo de policía nacional",
+      "C: Quedan sometidos a las normas de régimen disciplinario de la ley orgánica 4/2010 de 20 de Mayo de régimen disciplinario del cuerpo de policía nacional y, con carácter supletorio a las normas de régimen sancionador establecidas en el reglamento del centro docente policial"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Elija la opción que se ajusta al texto literal de la ley Orgánica 4/2010, de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía:",
+    "options": [
+      "A: En todo lo que no esté previsto en esta ley orgánica 4/2010 de 20 de mayo de régimen disciplinario del cuerpo de policía nacional y en la Ley Orgánica 2/1986, de 13 de marzo, serán de aplicación las normas de régimen general disciplinario de la función pública",
+      "B: En todo lo que no esté previsto en esta ley orgánica 4/2010 de 20 de mayo de régimen disciplinario del cuerpo de policía nacional , serán de aplicación las normas de régimen general disciplinario de la función pública",
+      "C: En todo lo que no esté previsto en esta ley orgánica 4/2010 de 20 de mayo de régimen disciplinario del cuerpo de policía nacional y en la Ley Orgánica 2/1986, de 13 de marzo, serán de aplicación las normas de régimen disciplinario de los funcionarios de la Administración General del Estado"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Elija la opción que se ajusta a la literalidad de la ley Orgánica 4/2010, de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía:",
+    "options": [
+      "A: El régimen disciplinario establecido en esta Ley orgánica se entiende sin perjuicio de la responsabilidad penal en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determina la Ley",
+      "B: El régimen disciplinario establecido en esta Ley orgánica se entiende sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determina la Ley",
+      "C: El régimen disciplinario establecido en esta Ley orgánica se entiende sin perjuicio de la responsabilidad civil en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determina la Ley"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Los miembros del Cuerpo Nacional de Policía tendrán la obligación de comunicar por escrito a su superior jerárquico los hechos de los que tengan conocimiento que consideren constitutivos de falta:",
+    "options": [
+      "A: Grave y muy grave",
+      "B: Muy grave",
+      "C: Leve, grave y muy grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo de la ley orgánica 4/2010 de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía los que induzcan a la comisión de una falta:",
+    "options": [
+      "A: Incurrirán en falta de inferior grado que los autores",
+      "B: Incurrirán en falta inferior en uno o dos grados que los autores",
+      "C: Incurrirán en la misma responsabilidad que los autores"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué sanción de las siguientes se puede aplicar por cometer una falta grave?",
+    "options": [
+      "A: La suspensión de funciones desde tres meses y un día hasta un máximo de seis años",
+      "B: El apercibimiento",
+      "C: La suspensión de funciones desde cinco días a tres meses"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué sanciones impone el ministerio del interior?",
+    "options": [
+      "A: La imposición de la sanción de separación del servicio por faltas muy graves y graves",
+      "B: La imposición de las sanciones de suspensión de funciones de tres años y un día a seis años y de traslado forzoso por faltas muy graves",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuántos artículos tiene la ley Orgánica 4/2010, de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: 40",
+      "B: 50",
+      "C: 60"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Los funcionarios sancionados con traslado forzoso no podrán obtener un nuevo destino en el centro, unidad o plantilla de la que fueron traslados en un periodo de:",
+    "options": [
+      "A: 6 meses, computados desde el momento en que efectué el traslado",
+      "B: 6 a 12 meses, computados desde el momento en que efectué el traslado",
+      "C: 1 a 3 años, computados desde el momento en que efectué el traslado"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de los siguientes no es un criterio para la graduación de las sanciones al amparo de la ley orgánica 4/2010 de 20 de mayo del régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: La incidencia sobre la seguridad ciudadana",
+      "B: El grado de afectación a los principios de disciplina, jerarquía y subordinación",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según la ley orgánica 4/2010 de 20 de mayo del régimen disciplinario del Cuerpo Nacional de Policía ,la prescripción se interrumpirá por la iniciación del procedimiento , el plazo de prescripción se reanudara si el procedimiento permanece paralizado durante:",
+    "options": [
+      "A: 1 mes por causa no imputable",
+      "B: 6 meses por causa no imputable",
+      "C: 3 meses por causa no imputable"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién de los siguientes es competente para imponer las faltas leves en la ley orgánica 4/2010 de 20 de mayo del régimen disciplinario del Cuerpo Nacional de Policía, entre otros?",
+    "options": [
+      "A: Los jefes de órganos centrales hasta el nivel de subdirector general",
+      "B: Los jefes de órganos directivos hasta el nivel de subdirector general",
+      "C: Los jefes de órganos directivos hasta el nivel de director general"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuándo existe reincidencia al amparo de la ley orgánica 4/2010 de 20 de mayo del régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: Cuando el funcionario haya sido sancionado en resolución firme por otra falta de mayor gravedad o por dos de gravedad inferior",
+      "B: Cuando el funcionario haya sido sancionado en resolución firme por otra falta de mayor gravedad o por dos de gravedad igual o inferior",
+      "C: Cuando el funcionario haya sido sancionado en resolución firme por otra falta de mayor gravedad o por tres de gravedad igual o inferior"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Cuando se inicie un procedimiento penal contra un funcionario del Cuerpo Nacional de Policía, la prescripción de las infracciones disciplinarias que de los hechos pudieran derivarse quedará:",
+    "options": [
+      "A: Suspendida",
+      "B: Sin efecto",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El criterio de historial profesional que se tendrá en cuenta para la graduación de las sanciones únicamente se podrá valorar como circunstancia:",
+    "options": [
+      "A: Atenuante",
+      "B: Agravante",
+      "C: Ambas son correctas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes sanciones puede imponerse por la comisión de una falta leve?",
+    "options": [
+      "A: Suspensión de funciones de 1 a 4 días",
+      "B: Suspensión de funciones de 1 a 5 días",
+      "C: Suspensión de funciones de 1 a 3 meses"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿A que régimen están sometidos los funcionarios de la policía nacional en segunda actividad sin ocupar destino?",
+    "options": [
+      "A: Al régimen disciplinario de los funcionarios de la administración general del estado",
+      "B: Al régimen general disciplinario de la función publica",
+      "C: Al Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Dónde se encuentra el procedimiento para las faltas leves en la ley orgánica 4/2010 de 20 de mayo del régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: Título II, capitulo III",
+      "B: Título III, capitulo II",
+      "C: Título III, capitulo III"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué plazo tendrá el instructor para elaborar el pliego de cargos?",
+    "options": [
+      "A: 10 días",
+      "B: 15 días",
+      "C: 3 días"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En cuanto a la cancelación de las anotaciones, se hará efectiva cuando transurran:",
+    "options": [
+      "A: Seis meses desde la prescripción de la sanción si se tratara de faltas leves",
+      "B: Un mes desde el cumplimiento de la sanción si se tratara de faltas leves",
+      "C: Seis meses desde el cumplimiento de la sanción si se tratara de faltas leves"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por cual de las siguientes se declara que la ley orgánica/2010 de 20 de mayo es de aplicación a los cuerpos de policía local  con lo previsto en la legislación orgánica reguladora de las Fuerzas y Cuerpos de Seguridad.?",
+    "options": [
+      "A: Disposición transitoria sexta",
+      "B: Disposición adicional sexta",
+      "C: Disposición final sexta"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de las siguientes no es una sección del capitulo IV del titulo II de la ley orgánica 4/2010 de 20 de mayo?",
+    "options": [
+      "A: Finalización",
+      "B: Iniciación",
+      "C: Terminación"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿ Cual es el plazo que se le concede al funcionario expedientado para alegar lo que estime oportuno para su defensar respecto a la propuesta de resolución formulada por el  instructor?",
+    "options": [
+      "A: Plazo de 5 días",
+      "B: Plazo de 10 días",
+      "C: Plazo de 15 días"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El retraso o la negligencia en el cumplimiento de las funciones y órdenes recibidas es una infracción , al amparo de la ley 4/2010 de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía:",
+    "options": [
+      "A: Muy grave",
+      "B: Grave",
+      "C: Leve"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La infracción de las normas de prevención de riesgos laborales que pongan en grave riesgo la vida, salud, o integridad física, propia o de sus compañeros o subordinados, se considera, al amparo de la ley 4/2010 de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía:",
+    "options": [
+      "A: Una infracción del articulo 8",
+      "B: Una infracción del articulo 7",
+      "C: Una infracción del articulo 6"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "La no prestación de auxilio con urgencia en aquellos hechos o circunstancias graves en que sea obligada su actuación, salvo que constituya delito, se considera, al amparo de la ley 4/2010 de 20 de mayo de régimen disciplinario del Cuerpo Nacional de Policía:",
+    "options": [
+      "A: Una infracción leve",
+      "B: Una infracción grave",
+      "C: Una infracción muy grave"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El artículo 18.3 de la Ley Orgánica 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, en relación a las reglas básicas procedimentales, establece:",
+    "options": [
+      "A: La iniciación de un procedimiento penal contra funcionarios del Cuerpo Nacional de Policía no impedirá la incoación de procedimientos disciplinarios por los mismos hechos. No obstante, su resolución definitiva sólo podrá producirse cuando la sentencia recaída en el ámbito penal sea firme y la declaración de hechos probados que contenga vinculará a la Administración",
+      "B: Solo podrán recaer sanción penal y administrativa sobre los mismos hechos cuando no hubiera identidad de fundamento jurídico y bien jurídico protegido",
+      "C: Únicamente se podrán imponer sanciones disciplinarias a los funcionarios del Cuerpo Nacional de Policía en virtud de procedimiento disciplinario instruido al efecto con arreglo a lo dispuesto en este capítulo. El procedimiento por faltas leves se regulará conforme a lo dispuesto en el Capítulo III y el de faltas graves y muy graves por lo dispuesto en el capítulo IV"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según el artículo 19.1 de la Ley Orgánica 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, en relación al inicio del procedimiento y derecho de defensa:",
+    "options": [
+      "A: El procedimiento se iniciará siempre de oficio",
+      "B: El procedimiento se iniciará siempre de oficio o a instancia de parte",
+      "C: El procedimiento se iniciará siempre de oficio o a instancia del interesado"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Según lo dispuesto en el Capítulo I del Título I de la Ley Orgánica 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, la tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto que esa tenencia se derive de actuaciones propias del servicio, es una falta:",
+    "options": [
+      "A: Grave",
+      "B: Leve",
+      "C: Muy grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "De acuerdo con lo establecido en la Ley Orgánica 4/2010 del Régimen disciplinario del Cuerpo Nacional de Policía, constituye falta disciplinaria de carácter muy grave el hecho de haber sido condenado, en virtud de sentencia firme, por un delito doloso, siempre y cuando:",
+    "options": [
+      "A: El delito esté relacionado con el servicio",
+      "B: Se cause grave daño a la administración o a las personas",
+      "C: Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Quién podrá acordar, de oficio o a instancia del interesado o del Consejo de Policía, cuando mediara causa justa para ello, la suspensión de la ejecución de la sanción, por tiempo inferior al de la prescripción, o su inejecución total o parcial?",
+    "options": [
+      "A: El Ministro del Interior y el Secretario de Estado de Seguridad y, por delegación, el Director General de la Policía y de la Guardia Civil",
+      "B: El Ministro del Interior y, por delegación, el Director General de la Policía y de la Guardia Civil",
+      "C: El Ministro del Interior y el Secretario de Estado de Seguridad y, por delegación, los jefes de órganos centrales hasta el nivel de subdirector general"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo de la ley orgánica 4/2010 de 20 de mayo , ¿Cuándo prescriben las infracciones graves?",
+    "options": [
+      "A: Al año",
+      "B: A los dos años",
+      "C: A los seis meses"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Al amparo de la ley orgánica 4/2010 de 20 de mayo , ¿Cuándo prescriben las infracciones muy graves graves?",
+    "options": [
+      "A: A los seis meses",
+      "B: A los dos años",
+      "C: A los tres años"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de las siguientes infracciones tiene la consideración de grave en la ley orgánica 4/2010 de mayo de régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: La tercera falta injustificada de asistencia al servicio en un período de tres meses cuando las dos anteriores hubieran sido objeto de sanción firme por falta leve",
+      "B: Haber sido condenado en virtud de sentencia firme por una falta dolosa cuando la infracción penal cometida cause daño a la Administración o a los Administrados",
+      "C: La obstaculización grave al ejercicio de las libertades públicas y derechos sindicales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes infracciones tiene la consideración de leve en la ley orgánica 4/2010 de mayo de régimen disciplinario del Cuerpo Nacional de Policía?",
+    "options": [
+      "A: El abuso de atribuciones cuando no constituya infracción muy grave",
+      "B: La emisión de informes sobre asuntos de servicio que, sin faltar abiertamente a la verdad, la desnaturalicen, valiéndose de términos ambiguos, confusos o tendenciosos, o la alteren mediante inexactitudes, cuando se cause perjuicio a la Administración o a los ciudadanos, siempre que el hecho no constituya delito o falta muy grave.",
+      "C: Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas"
+    ],
+    "answer": 2
+  }, {
+    "text": "Al amparo de la ley orgánica 4/2010 de 20 de mayo , existe reincidencia:",
+    "options": [
+      "a) Existe reincidencia cuando el funcionario, al cometer la falta, ya hubiera sido anteriormente sancionado en resolución firme por otra falta de mayor gravedad o por dos de gravedad inferior y que no hayan sido canceladas.",
+      "b) Existe reincidencia cuando el funcionario, al cometer la falta, ya hubiera sido anteriormente sancionado en resolución firme por otra falta de mayor gravedad o por dos de gravedad igual o inferior y que no hayan sido canceladas.",
+      "c) Existe reincidencia cuando el funcionario, al cometer la falta, ya hubiera sido anteriormente sancionado en resolución firme por otra falta de mayor gravedad o por tres de gravedad inferior y que no hayan sido canceladas."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién es competente para la imposición de la sanción de traslado forzoso?",
+    "options": [
+      "a) El Secretario de Estado de Seguridad.",
+      "b) El director general de la policía y guardia civil",
+      "c) El ministro de interior"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Escoja la opción correcta al amparo del articulo 47 de la ley orgánica 4/2010 de 20 de mayo:",
+    "options": [
+      "a) Cuando concurran varias sanciones de suspensión de funciones, su cumplimiento se llevará a cabo siguiendo el orden cronológico de imposición, comenzando dentro de éste por las de mayor gravedad, hasta el límite de tres años",
+      "b) Cuando concurran varias sanciones de suspensión de funciones, su cumplimiento se llevará a cabo siguiendo el orden cronológico de imposición, comenzando dentro de éste por las de mayor gravedad, hasta el límite de seis años",
+      "c) Cuando concurran varias sanciones de suspensión de funciones, su cumplimiento se llevará a cabo siguiendo el orden cronológico de imposición, comenzando dentro de éste por las de mayor gravedad, hasta el límite de cinco años"
+    ],
+    "answer": 1
+  } ],
+	}
+	
 
 
 	
