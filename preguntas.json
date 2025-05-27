@@ -7132,5 +7132,350 @@
             ],
             "answer": 2
         }
-    ]
-}
+    ],
+    "Tema 13": [
+  {
+    "text": "¿En que año entro en vigor la ordenanza del taxi?",
+    "options": [
+      "a) 2010",
+      "b) 2011",
+      "c) 2012"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por que ordenanza se modifico la ordenanza taxi?",
+    "options": [
+      "a) Ordenanza 8/2021, de 1 de junio",
+      "b) Ordenanza 8/2022, de 1 de junio",
+      "c) Ordenanza 8/2023, de 1 de junio"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué se entiende por servicio taxi a efectos de la ordenanza de taxi?",
+    "options": [
+      "a) El transporte público urbano e interurbano de viajeros realizado en automóviles de turismo con aparato taxímetro",
+      "b) El transporte público urbano e interurbano de viajeros realizado en automóviles con aparato taxímetro",
+      "c) El transporte público urbano de viajeros realizado en automóviles de turismo con aparato taxímetro"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿En que articulo de la ordenanza taxi se regulan las definiciones?",
+    "options": [
+      "a) Articulo 1bis",
+      "b) Articulo 1",
+      "c) Articulo 2"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El precio según taxímetro es un precio de un servicio de taxi calculado mediante el taxímetro, de acuerdo con las tarifas vigentes:",
+    "options": [
+      "a) Incluida la tarifa fija",
+      "b) Excluida la tarifa fija",
+      "c) Ambas son correcta"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las tarjetas provisionales serán entregadas al Ayuntamiento de Madrid:",
+    "options": [
+      "a) En el plazo de dos días hábiles desde que finalice el periodo de validez de las mismas o se produzca el cese de las causas que motivaron su expedición.",
+      "b) En el plazo de diez días hábiles desde que finalice el periodo de validez de las mismas o se produzca el cese de las causas que motivaron su expedición.",
+      "c) En el plazo de cinco días hábiles desde que finalice el periodo de validez de las mismas o se produzca el cese de las causas que motivaron su expedición."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Señale la respuesta correcta en relación a la iniciación de la actividad:",
+    "options": [
+      "a) Las personas que adquieran la titularidad de una licencia de autotaxi deberán iniciar la prestación del servicio en el plazo máximo de setenta días naturales, contados desde la fecha de notificación de la autorización.",
+      "b) Las personas que adquieran la titularidad de una licencia de autotaxi deberán iniciar la prestación del servicio en el plazo máximo de sesenta días hábiles, contados desde la fecha de notificación de la autorización.",
+      "c) Las personas que adquieran la titularidad de una licencia de autotaxi deberán iniciar la prestación del servicio en el plazo máximo de sesenta días naturales, contados desde la fecha de notificación de la autorización."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué vehículos tendrán consideración de vehículos eléctricos puros?",
+    "options": [
+      "a) Los vehículos CERO EMISIONES que no sean eléctricos de batería (BEV) o vehículos eléctricos de pila de combustible",
+      "b) Los vehículos CERO EMISIONES que sean eléctricos de batería (BEV) o vehículos eléctricos de pila de combustible",
+      "c) Los vehículos CERO EMISIONES que sean eléctricos de batería (BEV), los vehículos con etiqueta medioambiental ECO o vehículos eléctricos de pila de combustible"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Al amparo de la ordenanza taxi, el conductor está obligado a facilitar cambio hasta:",
+    "options": [
+      "a) 50 euros",
+      "b) 20 euros",
+      "c) 10 euros"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué documentos son necesarios para ejercer la actividad de conductor de vehículos de autotaxi?",
+    "options": [
+      "a) Permiso municipal de conductor de autotaxi en vigor",
+      "b) Tarjeta de identificación de conductor",
+      "c) Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "No es un requisito necesario para obtener el permiso municipal de conductor de autotaxi:",
+    "options": [
+      "a) Ser declarado apto en el examen que convoca a tal efecto la Comunidad de Madrid.",
+      "b) Hallarse en posesión de permiso de conducción de la clase B o superior a ésta, con al menos un año de antigüedad",
+      "c) No haber sido condenado por delitos de naturaleza sexual. Este requisito se acreditará mediante la presentación de certificado por el interesado."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El examen que se debe realizar como requisito previo a la obtención del permiso municipal de conductor de autotaxi, versará entre otras sobre las siguiente materia:",
+    "options": [
+      "a) Contenido de la normativa autonómica reguladora de transporte público interurbano en automóviles de turismo",
+      "b) Conocimiento de la Ordenanza de Movilidad Sostenible y de los criterios de aplicación de los Protocolos de Contaminación del Aire.",
+      "c) Conocimiento avanzado de la lengua castellana"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cómo se pueden contratar los servicios de taxi?",
+    "options": [
+      "a) De forma directa o previa",
+      "b) De forma directa o indirecta",
+      "c) De forma posterior o previa"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Respecto al acuerdo de iniciación para el procedimiento de extinción del permiso municipal de conductor de autotaxi, una vez notificado al titular del permiso, ¿Qué plazo se le concede a este para presentar cuantos documentos y alegaciones estime convenientes?",
+    "options": [
+      "a) Un plazo de veinte días",
+      "b) Un plazo de diez días",
+      "c) Un plazo de quince días"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "En relación con el procedimiento de extinción del permiso municipal de conductor de autotaxi, se considerará que afecta a los conocimientos cuando:",
+    "options": [
+      "a) Hubiese sido sancionado en firme en vía administrativa por la comisión de dos infracciones graves por incumplimiento del régimen tarifario, del régimen de descanso y duración máxima de prestación del servicio y de itinerarios, en el plazo de un año.",
+      "b) Hubiese sido sancionado en firme en vía penal o administrativa por la comisión de tres infracciones graves por incumplimiento del régimen tarifario, del régimen de descanso y duración máxima de prestación del servicio y de itinerarios, en el plazo de dos años.",
+      "c) Hubiese sido sancionado en firme en vía administrativa por la comisión de tres infracciones graves por incumplimiento del régimen tarifario, del régimen de descanso y duración máxima de prestación del servicio y de itinerarios, en el plazo de dos años."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuántas veces se podrá someter a examen el titular del permiso municipal cuando se haya iniciado un procedimiento para la extinción de su permiso municipal de conductor por razón de sus conocimientos?",
+    "options": [
+      "a) Hasta un máximo de cinco veces en el plazo de cinco meses a contar desde la finalización del plazo de presentación de alegaciones",
+      "b) Hasta un máximo de seis veces en el plazo de cinco meses a contar desde la finalización del plazo de presentación de alegaciones",
+      "c) Hasta un máximo de cinco veces en el plazo de 1 mes a contar desde la finalización del plazo de presentación de alegaciones"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿A quién le corresponde la solicitud de la tarjeta de identificación de conductor de autotaxi?",
+    "options": [
+      "a) A conductor de autotaxi",
+      "b) Al titular de la licencia de autotaxi",
+      "c) Al Ayuntamiento de Madrid"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En el caso de que el titular de la licencia deba entregar la tarjeta de identificación de un conductor asalariado que ha cesado en su relación laboral o ha variado su jornada laboral, ¿Cuál es el plazo del que dispone este para entregar dicha tarjeta?",
+    "options": [
+      "a) Dispone del plazo máximo de dos meses desde que se produzca el cese de la relación laboral o la variación de la jornada laboral.",
+      "b) La tarjeta se entregará simultáneamente a la entrega del permiso municipal.",
+      "c) Dispone del plazo máximo de un mes desde que se produzca el cese de la relación laboral o la variación de la jornada laboral."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta correcta en relación a la prestación del servicio autotaxi",
+    "options": [
+      "a) Una vez iniciada la prestación del servicio, los titulares de licencias no podrán dejar de prestarlo durante periodos superiores a setenta días consecutivos o treinta alternos, sin causa justificada.",
+      "b) Una vez iniciada la prestación del servicio, los titulares de licencias no podrán dejar de prestarlo durante periodos superiores a sesenta días consecutivos o treinta alternos, sin causa justificada.",
+      "c) Una vez iniciada la prestación del servicio, los titulares de licencias no podrán dejar de prestarlo durante periodos superiores a treinta días consecutivos o sesenta alternos, sin causa justificada."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Cuando se produzca la variación de cualquiera de los datos consignados en la tarjeta de identificación, el titular de la licencia deberá:",
+    "options": [
+      "a) Solicitar la sustitución de esta",
+      "b) Entregarla al Ayuntamiento de Madrid",
+      "c) Ambas son incorrectas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuándo descansarán las licencias cuyos ordinales terminen en número par?",
+    "options": [
+      "a) Los sábados y domingos pares.",
+      "b) Los sábados y domingos impares.",
+      "c) Los sábados impares."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién deberá retirar del vehículo la letra indicativa del día de libranza?",
+    "options": [
+      "a) Las licencias que tengan adscrito un vehículo eléctrico puro",
+      "b) Las licencias que tengan adscrito un vehículo eurotaxi",
+      "c) Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Elija la opción correcta:",
+    "options": [
+      "a) Los servicios a precio cerrado solo se permiten en servicios previamente contratados",
+      "b) La contratación por plaza con pago individual solo se permite en servicios contratados previamente por medios telemáticos",
+      "c) Ambas son correctas"
+    ],
+    "answer": 2
+  },
+    {
+    "text": "El Ayuntamiento de Madrid podrá establecer la obligación de prestar servicios en ciertas áreas, zonas o paradas de modo permanente, o a determinadas horas del día:",
+    "options": [
+      "a) Previa consulta de las asociaciones representativas de los titulares de licencias y de los usuarios y consumidores",
+      "b) Previo informe de las organizaciones representativas del sector del sector del taxi y de los usuarios y consumidores",
+      "c) Previo informe de las asociaciones representativas de los titulares de licencias y de los usuarios y consumidores"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "En caso de haber sido acordada la extinción del permiso municipal, ¿Cuál es el plazo del que dispone el titular para entregar el permiso municipal de conductor de autotaxi al Ayuntamiento de Madrid?",
+    "options": [
+      "a) Plazo máximo de diez días hábiles",
+      "b) Plazo máximo de cinco días hábiles",
+      "c) Plazo máximo de dos días hábiles"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En cuál de los siguientes supuestos no se puede expedir una tarjeta de identificación provisional?",
+    "options": [
+      "a) Accidente o avería del vehículo",
+      "b) Fallecimiento del conductor de autotaxi",
+      "c) Ambas son incorrectas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cuándo se podrá declarar situación de disminución significativa de la demanda?",
+    "options": [
+      "a) Cuando la disminución de la demanda supere al cincuenta por ciento de la media de los dos meses precedentes o del mismo mes del año anterior, excluido agosto,",
+      "b) Cuando la disminución de la demanda supere al cuarenta por ciento de la media de los dos meses precedentes o del mismo mes del año anterior, excluido agosto,",
+      "c) Cuando la disminución de la demanda supere al cincuenta por ciento de la media de los cinco meses precedentes o del mismo mes del año anterior, excluido agosto,"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las licencias de autotaxi tendrán el siguiente régimen general de descanso, indique la respuesta incorrecta:",
+    "options": [
+      "a) Las licencias cuyos ordinales terminen en los números 9 y 0, los martes.",
+      "b) Las licencias cuyos ordinales terminen en los números 3 y 4, los jueves.",
+      "c) Las licencias cuyos ordinales terminen en los números 7 y 8, los viernes."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Respecto al procedimiento de extinción del permiso municipal de conductor de autotaxi, ¿Cuál es el plazo máximo en el que deberá dictarse la resolución expresa del procedimiento?",
+    "options": [
+      "a) Seis meses, contados desde la fecha del acuerdo de iniciación.",
+      "b) Cinco meses, contados desde la fecha del acuerdo de iniciación.",
+      "c) Dos meses, contados desde la fecha del acuerdo de iniciación."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Respecto a la documentación que se debe llevar a bordo del vehículo autotaxi no se encuentra:",
+    "options": [
+      "a) Licencia de autotaxi.",
+      "b) Permiso municipal de conductor de autotaxi",
+      "c) Ambas son incorrectas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los vehículos en circulación no podrán tomar viajeros:",
+    "options": [
+      "a) A menos de 100 metros de los puntos de parada establecidos en el sentido de la marcha, salvo que recojan a una persona con movilidad reducida",
+      "b) A menos de 50 metros de los puntos de parada establecidos en el sentido de la marcha, salvo que recojan a una persona con movilidad reducida",
+      "c) A menos de 150 metros de los puntos de parada establecidos en el sentido de la marcha, salvo que recojan a una persona con movilidad reducida"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En cuanto al código de vestimenta del conductor de autotaxi ¿Cuál es el tamaño máximo permitido de las serigrafías que identifiquen a las empresas o asociaciones vinculadas al sector del taxi?",
+    "options": [
+      "a) El tamaño máximo será de 10x10 centímetros.",
+      "b) El tamaño máximo será de 5x5 centímetros.",
+      "c) El tamaño máximo será de 3x3 centímetros."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En el supuesto de inexistencia de paradas, cuando el servicio autotaxi sea requerido por varias personas al mismo tiempo, ¿Cuál de las siguientes tendrá preferencia?",
+    "options": [
+      "a) Mujeres embarazadas",
+      "b) Personas acompañadas de niños.",
+      "c) Personas de avanzada edad"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Es una obligación del conductor de autotaxi:",
+    "options": [
+      "a) Respetar la elección del usuario sobre el uso del aire acondicionado o climatización, siempre que la temperatura solicitada no sea inferior a 22º ni superior a 26º, salvo que conductor y usuario estén de acuerdo en otra inferior o superior",
+      "b) Respetar la elección del usuario sobre el uso del aire acondicionado o climatización, siempre que la temperatura solicitada no sea inferior a 21º ni superior a 26º, salvo que conductor y usuario estén de acuerdo en otra inferior o superior",
+      "c) Respetar la elección del usuario sobre el uso del aire acondicionado o climatización, siempre que la temperatura solicitada no sea inferior a 22º ni superior a 25º, salvo que conductor y usuario estén de acuerdo en otra inferior o superior"
+    ],
+    "answer": 1
+  },
+ 
+  {
+    "text": "El ayuntamiento podrá establecer puntos específicos de parada previa consulta con:",
+    "options": [
+      "a) Las organizaciones representativas de los titulares de  licencias y de los usuarios",
+      "b) Centrales sindicales",
+      "c) Ambas son correctas "
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Las controversias mercantiles relacionadas con los servicios de taxi:",
+    "options": [
+      "a) Se pueden someter al Servicio de Reclamaciones de la Dirección General de Transporte",
+      "b) Se pueden someter a la Junta Arbitral del Transporte",
+      "c) Se pueden someter a la Oficina de Atención al Usuario de Transporte"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Cuando se trate de servicios previamente contratados:",
+    "options": [
+      "a) Las tarifas tendrán el carácter temporal",
+      "b) Las tarifas tendrán el carácter de mínimas",
+      "c) Las tarifas tendrán el carácter de máximas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Indique cual de los siguientes no es un derecho del usuario de servicio autotaxi",
+    "options": [
+      "a) Transportar gratuitamente los perros de asistencia para personas con discapacidad",
+      "b) Abrir y cerrar las puertas traseras durante la prestación del servicio en todo momento",
+      "c) Elegir en las paradas de taxi, salvo en Aeropuertos y estaciones ferroviarias o de autobús, el taxi con el que desea recibir el servicio."
+    ],
+    "answer": 1
+  }
+]
+
