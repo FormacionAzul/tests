@@ -7477,5 +7477,368 @@
     ],
     "answer": 1
   }
+],
+    "Tema 14":[
+  {
+    "text": "A los efectos de la Ordenanza de Protección del Medio Ambiente Urbano de 24 de julio de 1985, se consideran zonas verdes:",
+    "options": [
+      "a) Los espacios destinados a plantación de arbolado y jardinería",
+      "b) Las jardineras y elementos de jardinería instalados en las vías públicas.",
+      "c) Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué consideración tendrán los Agentes de Parques, en el ejercicio de sus funciones?",
+    "options": [
+      "a) Agentes de la autoridad",
+      "b) Autoridad",
+      "c) Agentes"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo de la literalidad del articulo 210 de la ordenanza de Protección del Medio Ambiente Urbano de 24 de julio de 1985, para la buena conservación y mantenimiento de las diferentes especies de animales existentes en las zonas verdes, así como de los lagos y estanques existentes en los mismos, no se permitirán los siguientes actos:",
+    "options": [
+      "a) Espantar las palomas, pájaros y cualquier otra especie de ave o animales",
+      "b) Inquietar a cualquier tipo de animal",
+      "c) La utilización en tales lugares de utensilios o armas destinados a la caza de aves u otros animales, como tiradores de goma, cepos, escopetas de aire comprimido, etc"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué requiere realizar en los recintos de las zonas verdes cualquier clase de trabajos de reparación de automóviles, albañilería, jardinería, electricidad de elementos propios del parque?",
+    "options": [
+      "a) La preceptiva autorización del Ayuntamiento.",
+      "b) La preceptiva autorización de la Comunidad de Madrid.",
+      "c) La preceptiva comunicación del Ayuntamiento."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Señale la respuesta correcta al amparo de la ordenanza de protección del medio ambiente",
+    "options": [
+      "a) Los niños de hasta cinco años podrán circular en bicicleta por los paseos interiores de los parques, siempre que la escasa afluencia de público lo permita y no causen molestias a los demás usuarios del parque.",
+      "b) Los niños de hasta doce años podrán circular en bicicleta por los paseos interiores de los parques, siempre que la escasa afluencia de público lo permita y no causen molestias a los demás usuarios del parque.",
+      "c) Los niños de hasta diez años podrán circular en bicicleta por los paseos interiores de los parques, siempre que la escasa afluencia de público lo permita y no causen molestias a los demás usuarios del parque."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Indique la respuesta correcta:",
+    "options": [
+      "a) Los vehículos de inválidos que desarrollen una velocidad no superior a diez kilómetros por hora podrán circular por los paseos peatonales de los parques y jardines públicos.",
+      "b) Los vehículos de inválidos que desarrollen una velocidad no superior a quince kilómetros por hora podrán circular por los paseos peatonales de los parques y jardines públicos.",
+      "c) Los vehículos de inválidos que desarrollen una velocidad no superior a veinte kilómetros por hora podrán circular por los paseos peatonales de los parques y jardines públicos."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Indica cual de los siguientes actos no están permitidos para la buena conservación y mantenimiento de las diferentes especies vegetales de las zonas verdes:",
+    "options": [
+      "a) Talar, arrancar o abatir árboles situados en espacios públicos o privados",
+      "b) Podar árboles situados en espacios publicos",
+      "c) Toda manipulación en los elementos vegetales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué tipo de personas podrá denunciar las infracciones a la ordenanza de protección del medio ambiente en relación con las zonas verdes?",
+    "options": [
+      "a) Cualquier persona natural",
+      "b) Cualquier persona natural o jurídica",
+      "c) Cualquier persona jurídica"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cómo se clasifican las infracciones en la ordenanza de protección del medio ambiente?",
+    "options": [
+      "a) Se clasifican en leves, graves y muy graves",
+      "b) Se clasifican en leves, menos graves y graves",
+      "c) Se clasifican en leves, graves y graves agravadas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Destruir elementos vegetales o causar daños a los animales existentes en las zonas verdes o por pastoreo no autorizado, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Muy grave",
+      "c) Leve"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Usar bicicletas en lugares no autorizados, se considera una infraccion:",
+    "options": [
+      "a) Leve",
+      "b) Muy grave",
+      "c) Grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los usuarios de las zonas verdes y del mobiliario urbano instalado en las mismas, deberán atender las indicaciones que formulen:",
+    "options": [
+      "a) Los Agentes de la Policía Municipal y personal de Parques",
+      "b) Los Agentes de la Policía Municipal y personal de Parques y Jardines",
+      "c) Los Agentes de la Policía Municipal y personal de Jardines"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Por donde circularan las caballerías en los parques y jardines?",
+    "options": [
+      "a) En aquellas zonas especialmente señaladas para ello en que esté permitido, o en las que se acoten para realizar actividades culturales organizadas o autorizadas por el Ayuntamiento.",
+      "b) En aquellas zonas especialmente señaladas para ello en que esté permitido, o en las que se acoten para realizar actividades deportivas organizadas o autorizadas por el Ayuntamiento.",
+      "c) En aquellas zonas especialmente señaladas para ello en que esté permitido, o en las que se acoten para realizar actividades culturales o deportivas organizadas o autorizadas por el Ayuntamiento."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Usar indebidamente el mobiliario urbano, se considera una infracción:",
+    "options": [
+      "a) Leve",
+      "b) Grave",
+      "c) Muy grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Se entenderá que incurre en reincidencia al amparo de la ordenanza de protección del medio ambiente:",
+    "options": [
+      "a) Quien hubiere sido sancionado por una infracción a las materias de este libro durante los seis meses anteriores",
+      "b) Quien hubiere sido sancionado por una infracción a las materias de este libro durante los doce meses anteriores",
+      "c) Quien hubiere sido sancionado por una infracción a las materias de este libro durante los veinticuatro meses anteriores"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cuál de los siguientes no es un criterio de graduación de las sanciones al amparo de la ordenanza de protección del medio ambiente?",
+    "options": [
+      "a) La cuantía del perjuicio causado",
+      "b) La intencionalidad",
+      "c) La gravedad del daño realizado"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En el horario oficial de verano ¿Entre que horas pueden estar sueltos lo perros?",
+    "options": [
+      "a) entre las 20 y 10 horas",
+      "b) entre las 19 y 10 horas",
+      "c) entre las 21 y 10 horas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Realizar podas sin la previa comunicación en modelo normalizado al órgano competente. se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Causar daños al mobiliario urbano, se considera una infracción:",
+    "options": [
+      "a) Muy grave",
+      "b) Grave",
+      "c) Leve"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En que articulo de la ordenanza de protección del medio ambiente se detallan las infracciones?",
+    "options": [
+      "a) 219",
+      "b) 220",
+      "c) 221"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La existencia de posibilidad real de aprovechar recursos propios de agua para riego y dicha posibilidad no haya sido puesta en práctica, se considera una infracción:",
+    "options": [
+      "a) Leve",
+      "b) Grave",
+      "c) Muy grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cómo se denomina el Libro cuarto de la Ordenanza de Protección del Medio Ambiente Urbano de 24 de julio de 1985?",
+    "options": [
+      "a) Protección de zonas verdes",
+      "b) Protección de elementos vegetales",
+      "c) Protección de Parques y Jardines"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo del articulo 214 de la ordenanza de protección del medio ambiente, la protección de la tranquilidad y sosiego que integran la propia naturaleza de las zonas verdes, exige que:",
+    "options": [
+      "a) Los vuelos de aviones de modelismo propulsados por medios electrónicos sólo podrán realizarse en los lugares expresamente señalizados al efecto.",
+      "b) Los vuelos de aviones de modelismo propulsados por medios mecánicos sólo podrán realizarse en los lugares expresamente señalizados al efecto.",
+      "c) Los vuelos de aviones de modelismo propulsados por medios mecánicos o electrónicos sólo podrán realizarse en los lugares expresamente señalizados al efecto."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La celebración de fiestas, actos públicos o competiciones deportivas sin autorización municipal, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Usar vehículos de motor en lugares no autorizados, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Las deficiencias en la limpieza de las zonas verdes cuando acarreen accidentes o infecciones, es una infraccion:",
+    "options": [
+      "a) Leve",
+      "b) Grave",
+      "c) Muy grave"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En el horario oficial de invierno ¿Entre que horas pueden estar sueltos lo perros?",
+    "options": [
+      "a) Entre las 20 y 10 horas",
+      "b) Entre las 19 y 10 horas",
+      "c) Entre las 20 y 12 horas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Practicar juegos y deportes en sitios y forma inadecuados, se considera una infracción:",
+    "options": [
+      "a) Muy grave",
+      "b) Grave",
+      "c) Leve"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los vehículos de transporte no podrán circular por los parques, salvo:",
+    "options": [
+      "a) Los destinados al servicio de los quioscos y otras instalaciones similares, siempre que su peso no sea superior a tres toneladas y en las horas que se indique para el reparto de mercancías.",
+      "b) Los destinados al servicio de los quioscos y otras instalaciones similares, siempre que su peso no sea superior a cinco toneladas y en las horas que se indique para el reparto de mercancías.",
+      "c) Los destinados al servicio de los quioscos y otras instalaciones similares, siempre que su peso no sea superior a una tonelada y en las horas que se indique para el reparto de mercancías."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Indica cual de las siguientes actividades no tiene que ser autorizada por el ayuntamiento:",
+    "options": [
+      "a) La colocación o acarreo de enseres e instalaciones de carácter especial para las filmaciones cinematográficas o de televisión, con miras a escenas figurativas",
+      "b) Las filmaciones cinematográficas o de televisión, con miras a escenas figurativas",
+      "c) Las actividades artísticas de pintores, fotógrafos y operadores cinematográficos o de televisión podrán ser realizadas en los lugares utilizables por el público"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Las deficiencias en limpieza de las zonas verdes, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Muy grave",
+      "c) Leve"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Que el estado de los elementos vegetales suponga un peligro de propagación de plagas o enfermedades o entrañen grave riesgo para las personas, es una infraccion:",
+    "options": [
+      "a) Grave",
+      "b) Muy grave",
+      "c) Leve"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El gasto excesivo de agua en el mantenimiento de las zonas verdes, se considera una infraccion:",
+    "options": [
+      "a) Leve",
+      "b) Grave",
+      "c) Muy grave"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Circular con caballerías por lugares no autorizados, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Las deficiencias en la aplicación de tratamientos sanitarios con la debida dosificación y oportunidad, es una infracción:",
+    "options": [
+      "a) Muy grave",
+      "b) Leve",
+      "c) Grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La apertura de zanjas contraviniendo lo establecido en el artículo 204, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Que la acción u omisión infractora afecte a plantaciones que estuviesen catalogadas como de interés público, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La implantación de zonas verdes contraviniendo lo dispuesto en los artículos 196 y 197, se considera una infracción:",
+    "options": [
+      "a) Muy grave",
+      "b) Grave",
+      "c) Leve"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Deteriorar los elementos vegetales, atacar o inquietar a los animales existentes en las zonas verdes o abandonar en las mismas especies animales de cualquier tipo, se considera una infracción:",
+    "options": [
+      "a) Leve",
+      "b) Muy grave",
+      "c) Grave"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Las deficiencias de conservación de zonas verdes en aspectos no tipificados como infracciones de mayor gravedad en los apartados siguientes, se considera una infracción:",
+    "options": [
+      "a) Grave",
+      "b) Leve",
+      "c) Muy grave"
+    ],
+    "answer": 1
+  }
 ]
+
 
