@@ -1915,7 +1915,6 @@
 ],
 
     "Tema 3": [
-      [
   {
     "text": "¿Cómo se denomina el capítulo II del título III de la CE?",
     "options": [
@@ -2185,7 +2184,7 @@
       "C: Ambas son correctas"
     ],
     "answer": 1
-  } [
+  },
   {
     "text": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
     "options": [
@@ -2395,11 +2394,11 @@
   },
   {
     "text": "El Senado es elegido por",
-    "options": 
+    "options": [
       "A: Sufragio universal",
       "B: Sufragio universal, libre, igual, directo y secreto",
       "C: Sufragio libre, igual, directo y secreto"
-    ,
+    ],
     "answer": 1
   },
   {
@@ -2417,7 +2416,7 @@
       "A: Cuatro años después de la elección",
       "B: Cinco años después de la elección",
       "C: Tres años después de la elección"
-    ,
+    ],
     "answer": 0
   },
   {
@@ -2435,9 +2434,9 @@
       "A: Su sustituto, que será el siguiente candidato no electo de su mismo partido en las últimas elecciones",
       "B: Su sustituto, que será el siguiente candidato no electo de cualquier partido en las últimas elecciones",
       "C: Nadie, el escaño quedará vacío hasta las siguientes elecciones"
-    ,
+    ],
     "answer": 0
-  }
+  },
   {
     "text": "Continua la afirmación. Las Comunidades Autónomas designarán además un Senador y otro más por cada",
     "options": [
@@ -2665,11 +2664,11 @@
   },
   {
     "text": "El Presidente del Gobierno es nombrado por",
-    "options": 
+    "options": [
       "A: El Congreso",
       "B: El Rey",
       "C: El Tribunal Constitucional"
-    ,
+    ],
     "answer": 1
   },
   {
@@ -2678,7 +2677,7 @@
       "A: Diez días",
       "B: Quince días",
       "C: Treinta días"
-    ,
+    ],
     "answer": 0
   },
   {
@@ -2698,7 +2697,7 @@
       "C: Dos meses"
     ],
     "answer": 2
-  [
+  },
   {
     "text": "Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones. ¿Con la refrendación de quién?",
     "options": [
@@ -2790,6 +2789,4 @@
     "answer": 2
   }
 ]
-
-    ]
-  
+}
