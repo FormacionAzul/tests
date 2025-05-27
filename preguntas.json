@@ -2788,5 +2788,369 @@
     ],
     "answer": 2
   }
+],
+"Tema 4":[
+	{
+    "text": "El conjunto de facultades, libertades y potestades que la ley otorga a las personas se denomina:",
+    "options": [
+      "A: Derecho subjetivo",
+      "B: Derecho objetivo",
+      "C: Derecho positivo"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes es correcta en relación al derecho Administrativo?",
+    "options": [
+      "A: Es aquella parte del derecho público que determina la organización y comportamiento de la administración directa e indirecta del Estado",
+      "B: Es aquella parte del derecho privado que determina la organización y comportamiento de la administración directa e indirecta del Estado",
+      "C: Es aquella parte del derecho público que determina la organización y comportamiento de la administración directa del Estado"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuáles son las fuentes del ordenamiento jurídico español?",
+    "options": [
+      "A: La ley, la costumbre y los principios esenciales del derecho.",
+      "B: La ley, la costumbre y los principios generales del derecho.",
+      "C: Las leyes orgánicas, la costumbre y los principios generales del derecho."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Carecerán de validez las disposiciones que contradigan otra de rango: Elija la respuesta correcta",
+    "options": [
+      "A: Inferior",
+      "B: Superior",
+      "C: Ambas son correctas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La costumbre sólo regirá en defecto de: Elija la respuesta correcta",
+    "options": [
+      "A: Ley aplicable",
+      "B: Ley orgánica aplicable",
+      "C: Principio general de derecho aplicable"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué consideración tendrán los usos jurídicos que no sean meramente interpretativos de una declaración de voluntad?",
+    "options": [
+      "A: Ley",
+      "B: Costumbre",
+      "C: Principio general de derecho"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cuál de los siguientes tiene carácter informador del ordenamiento jurídico?",
+    "options": [
+      "A: Principios generales de derecho",
+      "B: Costumbre",
+      "C: Ley"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Quién tiene el deber inexcusable de resolver en todo caso los asuntos de que conozcan, ateniéndose al sistema de fuentes establecido?",
+    "options": [
+      "A: Los Juzgados y Tribunales",
+      "B: Los Jueces y magistrados",
+      "C: Los Jueces y Tribunales"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La constitución es una fuente:",
+    "options": [
+      "A: Directa, escrita y subsidiaria",
+      "B: Indirecta, escrita y primaria",
+      "C: Directa, escrita y primaria"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los reglamentos se clasifican, por el sujeto del que proceden en:",
+    "options": [
+      "A: Estatales, autonómicos, locales y sectoriales",
+      "B: Estatales, autonómicos, y locales",
+      "C: Estatales, autonómicos, locales y territoriales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Los reglamentos se clasifican, por sus efectos:",
+    "options": [
+      "A: Reglamentos jurídicos o ejecutivos, y reglamentos administrativos o de organización.",
+      "B: Reglamentos jurídicos o normativos, y reglamentos administrativos o de funcionamiento.",
+      "C: Reglamentos jurídicos o normativos, y reglamentos administrativos o de organización."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los reglamentos se clasifican, por su relación con la ley:",
+    "options": [
+      "A: En jurídicos, independientes y de necesidad",
+      "B: En jurídicos, dependientes y de necesidad",
+      "C: En ejecutivos, independientes y de necesidad"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cuál de los siguientes podríamos asociar con la denominación “ad extra”?",
+    "options": [
+      "A: Reglamentos",
+      "B: Ordenanzas",
+      "C: Leyes"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué artículo de la ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local se regula la aprobación de las ordenanzas?",
+    "options": [
+      "A: Artículo 50",
+      "B: Artículo 39",
+      "C: Artículo 49"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "En lo relativo a la aprobación de las Ordenanzas locales, después de la aprobación inicial por el pleno, habrá un plazo de información pública y audiencia a los interesados para presentar sugerencias y reclamaciones este plazo será:",
+    "options": [
+      "A: Plazo mínimo de sesenta días",
+      "B: Plazo mínimo de treinta días",
+      "C: Plazo mínimo de veinte días"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Por qué mayoría se aprueban las ordenanzas y reglamentos de forma general?",
+    "options": [
+      "A: Mayoría absoluta",
+      "B: Mayoría simple",
+      "C: Mayoría de dos tercios"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué plazo entran en vigor las ordenanzas locales de forma general?",
+    "options": [
+      "A: A los 15 días hábiles de su integran publicación en el Boletín Oficial de la Provincia, salvo en el caso de las CCAA uniprovinciales que se publicaran en el Boletín Oficial de la Comunidad de Madrid",
+      "B: A los 20 días hábiles de su integran publicación en el Boletín Oficial de la Provincia, salvo en el caso de las CCAA uniprovinciales que se publicaran en el Boletín Oficial de la Comunidad de Madrid",
+      "C: A los 10 días hábiles de su integran publicación en el Boletín Oficial de la Provincia, salvo en el caso de las CCAA uniprovinciales que se publicaran en el Boletín Oficial de la Comunidad de Madrid"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué plazo entran en vigor las Ordenanzas aprobadas en la Villa de Madrid?",
+    "options": [
+      "A: Entrarán en vigor al día siguiente de su publicación, salvo que la propia norma disponga otra cosa, todo ello sin perjuicio de su publicación en el Boletín de la Ciudad de Madrid.",
+      "B: Entrarán en vigor el mismo día de su publicación, salvo que la propia norma disponga otra cosa, todo ello sin perjuicio de su publicación en el Boletín de la Ciudad de Madrid.",
+      "C: Entrarán en vigor a los 15 días hábiles de su publicación , salvo que la propia norma disponga otra cosa, todo ello sin perjuicio de su publicación en el Boletín de la Ciudad de Madrid."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué plazo entran en vigor las Ordenanzas fiscales?",
+    "options": [
+      "A: Entrarán en vigor al día siguiente de su publicación...",
+      "B: Entrarán en vigor a los 15 días naturales de su publicación",
+      "C: Entrarán en vigor el mismo día de su publicación"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Seleccione la opción correcta:",
+    "options": [
+      "A: Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial. Las diputaciones provinciales, los órganos de gobierno de las entidades supramunicipales y los ayuntamientos de población superior a 20.000 habitantes deberán publicarlos, además, en un diario de los de mayor difusión de la provincia, o de la comunidad autónoma uniprovincial",
+      "B: Las diputaciones provinciales, consejos, cabildos insulares y, en todo caso, las demás entidades locales cuando su población sea superior a 10.000 habitantes, editarán el texto íntegro de las ordenanzas fiscales reguladoras de sus tributos dentro del primer cuatrimestre del ejercicio económico correspondiente",
+      "C: Ninguna es correcta"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué tipo de bandos impone a los vecinos obligaciones o limitaciones?",
+    "options": [
+      "A: Bandos de policía",
+      "B: Bandos de transcripción",
+      "C: Bandos administrativos"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Indica la opción que se corresponde a la siguiente definición: Conjunto de principios y normas ético-jurídicas que se consideran universales y superiores a las leyes escritas. Se basa en la idea de que existen derechos fundamentales inherentes a la condición humana",
+    "options": [
+      "A: Derecho Positivo",
+      "B: Derecho Subjetivo",
+      "C: Derecho Natural"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según indica la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿Quién podrá proceder a la disolución de los órganos de las corporaciones locales en el supuesto de gestión gravemente dañosa para los intereses generales que suponga incumplimiento de sus obligaciones constitucionales?",
+    "options": [
+      "A: El Consejo de Ministros, a iniciativa propia y con conocimiento del Consejo de Gobierno de la comunidad autónoma correspondiente o a solicitud de éste y, en todo caso, previo acuerdo favorable del Congreso",
+      "B: El Consejo de Ministros, a iniciativa propia y con conocimiento del Consejo de Gobierno de la comunidad autónoma correspondiente o a solicitud de éste y, en todo caso, previo acuerdo favorable del Senado",
+      "C: El Consejo de Ministros, a iniciativa propia y con conocimiento del Consejo de Gobierno de la comunidad autónoma correspondiente o a solicitud de éste y, en todo caso, previo acuerdo favorable de las Cortes generales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La disolución planteada en la anterior pregunta se realizará mediante:",
+    "options": [
+      "A: Decreto",
+      "B: Real Decreto",
+      "C: Ley"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué se consideran decisiones gravemente dañosas para los intereses generales de las corporaciones locales que suponga incumplimiento de sus obligaciones constitucionales al amparo del artículo 61.2 de la ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local?",
+    "options": [
+      "A: Los acuerdos o actuaciones de los órganos de las corporaciones locales que den cobertura o apoyo, expreso o tácito, de forma reiterada y grave, al terrorismo o a quienes participen en su ejecución, lo enaltezcan o justifiquen",
+      "B: Los acuerdos o actuaciones de los órganos de las corporaciones locales que den cobertura o apoyo, expreso o tácito, de forma reiterada y grave, al terrorismo o a quienes participen en su ejecución, lo enaltezcan o justifiquen, y los que menosprecien o humillen a las víctimas o a sus familiares",
+      "C: Los acuerdos o actuaciones de los órganos de las corporaciones locales que den cobertura o apoyo, expreso o tácito, de forma grave, al terrorismo o a quienes participen en su ejecución, lo enaltezcan o justifiquen, y los que menosprecien o humillen a las víctimas o a sus familiares"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según la ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las entidades locales tienen el deber de remitir a las Administraciones del Estado y de las Comunidades Autónomas copia o, en su caso, extracto comprensivo de los actos y acuerdos de las mismas, la Administración del Estado y la de las Comunidades Autónomas pueden solicitar ampliación de dicha información , que deberá remitirse en el plazo de:",
+    "options": [
+      "A: Máximo de quince días hábiles, excepto en el caso previsto en el artículo 67 de esta Ley, en el que lo será de cinco días hábiles",
+      "B: Máximo de veinte días hábiles, excepto en el caso previsto en el artículo 67 de esta Ley, en el que lo será de cinco días hábiles",
+      "C: Máximo de veinte días hábiles, excepto en el caso previsto en el artículo 67 de esta Ley, en el que lo será de diez días hábiles"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Quién podrá requerir a una entidad local que anule un acto o acuerdo cuando se considere que infringe el ordenamiento jurídico?",
+    "options": [
+      "A: Las Comunidades Autónomas",
+      "B: La Administración del Estado",
+      "C: La Administración del Estado o de las Comunidades Autónomas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Respecto a la pregunta anterior, ¿Qué plazo tiene la entidad local para anular ese acto o acuerdo? (Que infringe el ordenamiento jurídico)",
+    "options": [
+      "A: Plazo máximo de 10 días hábiles",
+      "B: Plazo máximo de 20 días naturales",
+      "C: Plazo máximo de un mes"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Señale la respuesta  correcta: Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interés general de España:",
+    "options": [
+      "A: El Delegado del Gobierno, previo requerimiento para su anulación al Presidente de la Corporación efectuado dentro de los veinte días siguientes al de la recepción de aquéllos, podrá suspenderlos y adoptar las medidas pertinentes para la protección de dicho interés.",
+      "B: El Delegado del Gobierno, previo requerimiento para su anulación al Presidente de la Corporación efectuado dentro de los quince días siguientes al de la recepción de aquéllos, podrá suspenderlos y adoptar las medidas pertinentes para la protección de dicho interés.",
+      "C: El Delegado del Gobierno, previo requerimiento para su anulación al Presidente de la Corporación efectuado dentro de los diez días siguientes al de la recepción de aquéllos, podrá suspenderlos y adoptar las medidas pertinentes para la protección de dicho interés."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Señale la respuesta correcta: Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interés general de España, el Delegado del Gobierno, podrá requerir para su anulación al Presidente de la Corporación , Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interés general de España, el Delegado del Gobierno, previo requerimiento para su anulación al Presidente de la Corporación no podrá ser:",
+    "options": [
+      "A: Superior a 5 días",
+      "B: Superior a 2 días",
+      "C: Superior a 10 días"
+    ],
+    "answer": 0
+  }, [
+  {
+    "text": "¿Cuál de los siguientes no es una fuente directa del derecho administrativo?",
+    "options": [
+      "A: Los Principios generales del derecho",
+      "B: Los Reglamentos",
+      "C: Tratados Internacionales no publicados en el BOE"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de los siguientes es una fuente primaria del derecho administrativo?",
+    "options": [
+      "A: La costumbre",
+      "B: Los reglamentos",
+      "C: Los principios generales del derecho"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En cuál de los siguientes artículos se regula el principio de legalidad?",
+    "options": [
+      "A: Articulo 1 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.",
+      "B: Articulo 25 de la Constitución española de 1978",
+      "C: Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por qué mayoría se aprueban las Ordenanzas de naturaleza urbanística?",
+    "options": [
+      "A: Mayoría absoluta",
+      "B: Mayoría simple",
+      "C: Mayoría especial"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El principio de legalidad implica que:",
+    "options": [
+      "A: Solo se puede castigar una infracción penal con una pena que haya sido establecida mediante una ley posterior",
+      "B: No se puede ejecutar una pena o una medida de seguridad de manera distinta a la establecida por las leyes y reglamentos",
+      "C: No se puede considerar delito una conducta que no haya sido declarada como tal en una ley posterior"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cómo se clasifican los reglamentos por su relación con la ley?",
+    "options": [
+      "A: Independientes y de necesidad",
+      "B: Ejecutivos, independientes y de necesidad",
+      "C: Ejecutivos, dependientes y de necesidad"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Elija la opción correcta en relación con los Bandos:",
+    "options": [
+      "A: Son aquellos que pueden ser dictados en cualquier espacio de tiempo y localidad, para intervenir la actividad de los ciudadanos en el Municipio, no son normas jurídicas ni tienen un proceso de elaboración, por lo que no deben ser publicados en ningún boletín oficial, entran en vigor de inmediato",
+      "B: Es una norma jurídica que regula aspectos específicos de un municipio. Se trata de un instrumento técnico-jurídico que contribuye a la buena administración y solución de los problemas",
+      "C: Es una norma escrita que regula las actividades de una comunidad o institución. Son dictados por autoridades administrativas y tienen rango inferior a la ley"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué definición se atribuye a Bandos administrativos?",
+    "options": [
+      "A: Son los que convocan a los vecinos para hacer un determinado acto",
+      "B: Son los que comunican a los vecinos algún acontecimiento extraordinario",
+      "C: Son los que imponen a los vecinos obligaciones o limitaciones"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿En cuál de los siguientes se incluye la Constitución?",
+    "options": [
+      "A: Derecho objetivo",
+      "B: Derecho natural",
+      "C: Derecho positivo"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Por qué mayoría se aprueban los reglamentos de naturaleza orgánica?",
+    "options": [
+      "A: Mayoría absoluta",
+      "B: Mayoría simple",
+      "C: Mayoría especial"
+    ],
+    "answer": 0
+  }
 ]
-}
+
+
+
