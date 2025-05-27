@@ -5317,8 +5317,369 @@
     "answer": 2
   }
 ],
- [ "Tema 8": 
-
+  "Tema 8": [
+  {
+    "text": "¿Cada cuánto tiempo se renovará el carné profesional si el titular tiene menos de 40 años?",
+    "options": [
+      "A: Cada tres años",
+      "B: Cada cinco años.",
+      "C: Cada diez años."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué dato NO debe figurar en el carné profesional del Policía Municipal?",
+    "options": [
+      "A: Grupo sanguíneo y alergias.",
+      "B: Número de cuenta bancaria.",
+      "C: Categoría profesional."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué documento, junto con la placa-insignia, sirve como licencia de armas tipo A?",
+    "options": [
+      "A:El expediente personal. ",
+      "B:El carné profesional",
+      "C:La orden de servicio."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué situación implica la retirada del carné profesional al agente?",
+    "options": [
+      "A: Cambio de turno.",
+      "B: Baja definitiva en el Cuerpo.",
+      "C: Suspensión de empleo y sueldo por menos de 30 días."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En caso de emergencia, el personal de Policía Municipal:",
+    "options": [
+      "A: No tiene obligación de ampliar su jornada.",
+      "B: Está obligado a la prestación de servicio temporalhasta que cesen los motivos de la emergencia.",
+      "C: Está obligado a la prestación de servicio permanente hasta que cesen los motivos de la emergencia."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Quién fija el horario de prestación del servicio de Policía Municipal?",
+    "options": [
+      "A: El ayuntamiento de Madrid.",
+      "B: La comunidad de Madrid.",
+      "C: El Delegado del Gobierno."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué debe actualizarse cada 10 años en el expediente personal?",
+    "options": [
+      "A: Las fotografías",
+      "B: Las anotaciones de tiro.",
+      "C: El número de placa."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿En qué documento constará el historial de sanciones disciplinarias no canceladas del agente?",
+    "options": [
+      "A: Carné profesional.",
+      "B: Parte diario de servicio.",
+      "C: Expediente profesional"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuándo podrá prescindirse del saludo reglamentario?",
+    "options": [
+      "A: Cuando se preste un servicio cuya eficacia pueda verse afectada por el saludo.",
+      "B: Cuando el agente no tenga ganas de hacerlo",
+      "C: En presencia de cualquier autoridad, si el agente lo considera oportuno"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Quién debe iniciar el saludo entre dos policías municipales?",
+    "options": [
+      "A: Siempre el de inferior categoría",
+      "B: Siempre el superior jerárquico.",
+      "C: El agente más antiguo en el servicio."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué sucede si varias personas están prestando servicio en un mismo puesto y llega un superior?",
+    "options": [
+      "A: La novedad la dará el de menor graduación.",
+      "B: La novedad la dará el más veterano por edad.",
+      "C: La novedad la dará el de mayor graduación o mayor antigüedad en el cargo."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué autoridad NO está expresamente incluida en la obligación de saludar según el reglamento?",
+    "options": [
+      "A: Ministros del Gobierno.",
+      "B: Presidentes de comunidades de vecinos.",
+      "C: Autoridades autonómicas."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En caso de ascenso, ¿Qué sucede con el carné profesional?",
+    "options": [
+      "A: Se retira y se entrega uno nuevo.",
+      "B: No se modifica.",
+      "C: El agente lo actualiza por su cuenta."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Qué se garantiza sobre los datos del expediente personal?",
+    "options": [
+      "A: Acceso libre por cualquier ciudadano.",
+      "B: Confidencialidad absoluta.",
+      "C: Publicación anual en boletín oficial."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cuál es el principio rector del saludo dentro del Cuerpo?",
+    "options": [
+      "A: La discreción y la privacidad.",
+      "B: La jerarquía y la subordinación.",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Quién está obligado a informar de las novedades a un superior que se presenta en el lugar del servicio?",
+    "options": [
+      "A: Solo el jefe de unidad.",
+      "B: Todos los presentes por orden de llegada.",
+      "C: El agente de mayor graduación o antigüedad si no la hay."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según el Reglamento, ¿Qué principio NO rige el saludo de los miembros del Cuerpo de Policía Municipal?",
+    "options": [
+      "A: La cortesía",
+      "B: La subordinación.",
+      "C: La confidencialidad."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué dato familiar puede figurar en el expediente personal del agente?",
+    "options": [
+      "A: Nombre de hermanos",
+      "B: Nombre del cónyuge o persona unida por análoga relación de afectividad e hijos.",
+      "C: Parentesco hasta cuarto grado."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué incluye la categoría de \"autoridades civiles y militares\" en la obligación de saludo?",
+    "options": [
+      "A: Únicamente a los que vistan uniforme.",
+      "B: A todos, uniformados o de paisano, si son reconocidos",
+      "C: Solo a las autoridades nacionales."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué articulo del Reglamento para el Cuerpo de Policía Municipal de 31 de marzo de 1995 habla del expediente personal?",
+    "options": [
+      "A: 46",
+      "B: 44",
+      "C: 45"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué articulo del Reglamento para el Cuerpo de Policía Municipal de 31 de marzo de 1995 habla de la definición del saludo?",
+    "options": [
+      "A:Art 55",
+      "B:Art 56",
+      "C:Art 57"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿A cual de los siguientes no tienen obligación los policias municipales de saludar?",
+    "options": [
+      "A: A la bandera del Ayuntamiento de Madrid",
+      "B: Durante la ejecución del himno del Ayuntamiento de Madrid",
+      "C: Al Gobierno de otras naciones"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿A quien de los siguientes se les informará de los hechos o circunstancias de interés que se hubieren producido o se les comunicará \"sin novedad\" si no existiere?",
+    "options": [
+      "A: Concejal de Coordinación",
+      "B: Consejero delegado de Gobierno",
+      "C: Concejal delegado"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Indique cual de los siguientes datos no consta en el carne acreditativo profesional según el reglamento para el cuerpo de policías municipal es de 31 de marzo de 1995",
+    "options": [
+      "A: Nombre del Municipio",
+      "B: Escudo del Municipio",
+      "C: Numero de Documento Nacional de Identidad."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué articulo del reglamento para el cuerpo de policías municipales de 31 de marzo de 1995 se denomina 'Medios defensivos'?",
+    "options": [
+      "A: 45",
+      "B: 47",
+      "C: 48"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Respecto a los datos que debe contener el carne profesional acreditativo según el reglamento para el cuerpo de policía municipal , no se encuentra:",
+    "options": [
+      "A: Situación administrativa",
+      "B: Categoría profesional",
+      "C: Número profesional"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Al amparo del reglamento para el cuerpo de policía municipal , la jornada laboral de los miembros de la Policía Municipal, en cómputo anual, será la que se señale en el Convenio Regulador de las Condiciones de Trabajo para los funcionarios del Ayuntamiento de Madrid, dicha jornada podrá ser ampliada por necesidades del servicio, conllevando la correspondiente:",
+    "options": [
+      "A: Retribución",
+      "B: Compensación",
+      "C: Indemnización"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Según el reglamento , cuando un policía , por una situación de emergencia o cualquier otra situación excepcional , realice una prestación de servicio, deberá ser:",
+    "options": [
+      "A: Compensado",
+      "B: Indemnizado",
+      "C: Retribuido"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Cual es el articulo del reglamento para el cuerpo de policía municipal denominado \"Conducto reglamentario\"?",
+    "options": [
+      "A: 43",
+      "B: 44",
+      "C: 41"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Aquellas órdenes que por su trascendencia o complejidad en su cumplimiento pudieran ofrecer dudas razonables a los componentes que les correspondiese ejecutarlas, se darán",
+    "options": [
+      "A: Siempre por escrito, en el plazo de un mes",
+      "B: Siempre por escrito, a la mayor brevedad posible",
+      "C: Siempre por escrito, en el plazo de dos meses"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Siempre que se realice por un componente del Cuerpo parte, informe, reclamación, petición o queja a un superior jerárquico:",
+    "options": [
+      "A: Se hará por duplicado",
+      "B: Se hará por triplicado",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Elija la opción correcta respecto al artículo 42 del reglamento para el cuerpo de policía municipal:",
+    "options": [
+      "A: Todos los miembros del Cuerpo de Policía Municipal estarán dotados de un carné profesional específico, que servirá de documento de identificación, debiendo portarlo siempre y exhibirlo cuando sea requerido para ello o sea necesario en función de las circunstancias.",
+      "B: Todos los miembros del Cuerpo de Policía Municipal estarán dotados de un carné profesional específico, que servirá de documento de identificación, debiendo portarlo siempre que esté de servicio y exhibirlo cuando sea requerido para ello o sea necesario en función de las circunstancias.",
+      "C: Todos los miembros del Cuerpo de Policía Municipal estarán dotados de un carné profesional específico, que servirá de documento de identificación, debiendo portarlo cuando sean requeridos para ello y exhibirlo cuando sea necesario en función de las circunstancias."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El saludo es manifestación externa de educación cívica, y esta regido por los principios de :",
+    "options": [
+      "A: Jerarquía y subordinación.",
+      "B: Disciplina, jerarquía y subordinación",
+      "C: Educación, disciplina, jerarquía y subordinación"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "El saludo se realizara mencionado la fórmula \"a la orden\", seguida de la categoría profesional del saludado:",
+    "options": [
+      "A: En lugares cerrados",
+      "B: Cuando no se lleve la prenda de cabeza",
+      "C: Ambas son correctas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Respecto a la obligación de saludar por parte de los policías locales no se encuentra:",
+    "options": [
+      "A: Los superiores jerárquicos del Cuerpo",
+      "B: Saludos entre los policías de la igual categoría",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según el reglamento ¿A quien de los siguientes no se les debe informar de los hechos o circunstancias de interés que se hubieren producido o se les comunicará \"sin novedad\" si no existieren?",
+    "options": [
+      "A: A los Mandos de la Escala ejecutiva del Cuerpo",
+      "B: Al alcalde",
+      "C: Al ministro del interior"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Según el reglamento ¿A quien de los siguientes no se les debe informar de los hechos o circunstancias de interés que se hubieren producido o se les comunicará \"sin novedad\" si no existieren?",
+    "options": [
+      "A: A los delegados de gobierno de la comunidad autonoma",
+      "B: Al concejal delegado",
+      "C: Al concejal de Gobierno"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según el articulo 59 del reglamento para el Cuerpo de Policía Municipal, cuando hubiere más de un miembro del Cuerpo en el puesto o lugar de servicio, bien porque se realice de forma conjunta u otra causa, la novedad la dará el de mayor graduación y, si no lo hubiere:",
+    "options": [
+      "A: El de menor antigüedad en el cargo",
+      "B: El de mayor antigüedad en el cargo",
+      "C: No se comunicará"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Elija la respuesta correcta:",
+    "options": [
+      "A: El saludo se efectuará siempre que se vista el uniforme y consistirá en llevar la mano izquierda, doblando el brazo por el codo, hasta el lateral de la visera de la gorra o sitio similar de la prenda de cabeza. El brazo derecho permanecerá quieto a lo largo del costado derecho. Los dedos de cada mano estarán unidos.",
+      "B: El saludo se efectuará siempre que se vista el uniforme y consistirá en llevar la mano derecha, doblando el brazo por el hombro, hasta el lateral de la visera de la gorra o sitio similar de la prenda de cabeza. El brazo izquierdo permanecerá quieto a lo largo del costado izquierdo. Los dedos de cada mano estarán unidos.",
+      "C: El saludo se efectuará siempre que se vista el uniforme y consistirá en llevar la mano derecha, doblando el brazo por el codo, hasta el lateral de la visera de la gorra o sitio similar de la prenda de cabeza. El brazo izquierdo permanecerá quieto a lo largo del costado izquierdo. Los dedos de cada mano estarán unidos."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Qué capitulo del titulo II del reglamento para el cuerpo de policías municipales de 31 de marzo de 1995 se denomina \"El saludo\"",
+    "options": [
+      "A: Capitulo III",
+      "B: Capitulo II",
+      "C: Capitulo I"
+    ],
+    "answer": 0
+  }
+],
+}
 
 
 	
