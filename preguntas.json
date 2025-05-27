@@ -4036,5 +4036,412 @@
     ],
     "answer": 0
   }
-] 
+],
+"Tema 6": [
+  {
+    "text": "Elija la opción correcta:",
+    "options": [
+      "A: Ley 7/1985, de 6 de abril, Reguladora de las Bases del Régimen Local",
+      "B: Ley orgánica 7/1985, de 3 de abril, Reguladora de las Bases del Régimen Local",
+      "C: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Elija la opción correcta:",
+    "options": [
+      "A: El término municipal es la organización en que el ayuntamiento ejerce sus competencias.",
+      "B: El término municipal es el territorio en que el ayuntamiento ejerce sus competencias.",
+      "C: El término municipal es la población en que el ayuntamiento ejerce sus competencias."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La Comisión Especial de Cuentas:",
+    "options": [
+      "A: Existe en todos los municipios,",
+      "B: Existe en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento.",
+      "C: Existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría absoluta del número legal de sus miembros, o así lo disponga su Reglamento orgánico"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "La competencia del alcalde de ejercer la jefatura de la Policía Municipal es:",
+    "options": [
+      "A: Delegable en municipios ordinarios y no delegable es municipios de gran población",
+      "B: Delegable en municipios de gran población y no delegable en municipios ordinarios",
+      "C: Es delegable tanto en municipios de gran población como en municipios ordinarios"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿Dónde existirá el consejo social de la ciudad?",
+    "options": [
+      "A: En todos los municipios",
+      "B: En todos los municipios del título X",
+      "C: En todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el pleno"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "La competencia de convocar y presidir las sesiones del pleno:",
+    "options": [
+      "A: Es una competencia del alcalde delegable en municipios de gran población",
+      "B: Es una competencia del alcalde indelegable en municipios de gran población",
+      "C: Es una competencia del alcalde delegable en municipios de régimen normal"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Indique cuál de los siguientes servicios no está obligado a prestarse en un municipio de población de 38.000 habitantes",
+    "options": [
+      "A: Transporte colectivo urbano de viajeros",
+      "B: Protección civil",
+      "C: Tratamiento de residuos"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Indica la respuesta incorrecta",
+    "options": [
+      "A: El Pleno celebra sesión ordinaria como mínimo cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes",
+      "B: El Pleno celebra sesión ordinaria como mínimo cada mes en los Ayuntamientos de hasta 5.000 habitantes",
+      "C: El Pleno celebra sesión ordinaria como mínimo cada en las Diputaciones Provinciales"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "En un municipio de gran población, ¿Quién ejerce la potestad sancionadora?",
+    "options": [
+      "A: El alcalde , y es una competencia indelegable",
+      "B: La junta de Gobierno Local , y es una competencia delegable",
+      "C: El alcalde, y es una competencia delegable"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Indica cuál de los siguientes no es considerado un órgano superior al amparo del artículo 130 de la ley 7/85 reguladora de bases del régimen local:",
+    "options": [
+      "A: Miembros de la Junta de Gobierno local",
+      "B: Alcalde",
+      "C: Junta de Gobierno Local"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Cuando un municipio alcance la población requerida para convertirse en un municipio de gran población, ¿Qué plazo tendrá dicho municipio para adaptar su organización?",
+    "options": [
+      "A: Plazo máximo de cuatro meses desde su constitución",
+      "B: Plazo máximo de seis meses desde su constitución",
+      "C: Plazo máximo de cinco meses desde su constitución"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿En qué artículo se regulan las entidades locales territoriales?",
+    "options": [
+      "A: 3.3",
+      "B: 3.2",
+      "C: 3.1"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cuál de los siguientes se rigen por sus propios estatutos?",
+    "options": [
+      "A: Las áreas metropolitanas",
+      "B: Las comarcas",
+      "C: Las mancomunidades"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Con que antelación mínima debe convocarse una sesión extraordinaria del pleno municipal?",
+    "options": [
+      "A: 15 días hábiles",
+      "B: 48 horas",
+      "C: 2 días hábiles"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Indique la repuesta correcta:",
+    "options": [
+      "A: El término municipal es el territorio en que el ayuntamiento ejerce sus competencias.",
+      "B: El término municipal es la organización en que el ayuntamiento ejerce sus competencias.",
+      "C: El término municipal es la población en que el ayuntamiento ejerce sus competencias."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "¿A quién le corresponde el gobierno y la administración en municipios que funcionen en concejo abierto?",
+    "options": [
+      "A: Al alcalde y a una asamblea vecinal",
+      "B: A una asamblea vecinal y a los vecinos",
+      "C: Al pleno y a una asamblea vecinal"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En relación a la creación de las comarcas , ¿Cuándo no podrá crearse esta misma?",
+    "options": [
+      "A: Cuando a ellos se oponen expresamente las dos quintas partes de los Municipios que debieran agruparse en ella, siempre que representen al menos la mayoría del censo electoral del territorio correspondiente.",
+      "B: Cuando a ellos se oponen expresamente las dos quintas partes de los Municipios que debieran agruparse en ella, siempre que representen al menos la mitad del censo electoral del territorio correspondiente.",
+      "C: Cuando a ellos se oponen expresamente dos tercios de los Municipios que debieran agruparse en ella, siempre que representen al menos la mitad del censo electoral del territorio correspondiente."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿A quien le corresponde la elaboración del estatuto propio de las mancomunidades?",
+    "options": [
+      "A: Al pleno",
+      "B: Al alcalde",
+      "C: A los concejales"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "En los municipios de hasta 100 residentes, que no funcionen en régimen de Concejo Abierto, el Pleno se constituirá válidamente con la asistencia del número legal de miembros del mismo, que nunca deberá ser inferior a:",
+    "options": [
+      "A: Dos",
+      "B: Tres",
+      "C: Cinco"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cómo son las sesiones de la junta de gobierno local?",
+    "options": [
+      "A: Secretas",
+      "B: Publicas",
+      "C: Publicas, no obstante, podrán ser secretos el debate y votación"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Qué tratamiento tendrán los tenientes de alcalde?",
+    "options": [
+      "A: Excelencia",
+      "B: Ilustrísima",
+      "C: Ninguna es correcta"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "En cuanto a la junta de gobierno local, esta ejerce funciones:",
+    "options": [
+      "A: Ejecutivas y administrativas",
+      "B: Legislativas y administrativas",
+      "C: Judiciales y administrativas"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Los actos de deterioro grave y relevante de equipamientos, infraestructuras, instalaciones o elementos de un servicio público, ¿Que infracción serán al amparo de la ley 7/1985?",
+    "options": [
+      "A: Muy grave",
+      "B: Grave",
+      "C: Leve"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según la ley 7/1985,¿ que sanción económica tendrán las infracciones graves?",
+    "options": [
+      "A: 1500 euros",
+      "B: Desde 1500 euros hasta 3.000 euros",
+      "C: Hasta 1.500 euros"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "¿Cuál de los siguientes no es una entidad local territorial?",
+    "options": [
+      "A: La Provincia",
+      "B: Las áreas metropolitanas",
+      "C: La Isla en los archipiélagos balear y canario"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Escoja la respuesta correcta al amparo del articulo 6 de la ley 7/1985 reguladora de bases del régimen local",
+    "options": [
+      "A: Las entidades locales sirven con objetividad los intereses generales que les están encomendados y actúan de acuerdo con los principios de eficacia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho",
+      "B: Las entidades locales sirven con objetividad los intereses públicos que les están encomendados y actúan de acuerdo con los principios de eficacia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho",
+      "C: Las entidades locales sirven con objetividad los intereses sociales que les están encomendados y actúan de acuerdo con los principios de eficacia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Conforme al artículo 21 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el Alcalde es el Presidente de la Corporación y ostenta las siguientes atribuciones:",
+    "options": [
+      "A: Las aprobaciones de los instrumentos de planeamiento de desarrollo del planeamiento general no expresamente atribuidas al Pleno, así como la de los instrumentos de gestión urbanística y de los proyectos de urbanización.",
+      "B: La aprobación de las formas de gestión de los servicios y de los expedientes de municipalización.",
+      "C: La aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes y demás instrumentos de ordenación previstos en la legislación urbanística, así como los convenios que tengan por objeto la alteración de cualesquiera de dichos instrumentos."
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Conforme al artículo 123 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, ¿Cual de las siguientes atribuciones le corresponde al pleno en municipios de gran población?",
+    "options": [
+      "A: Aprobar las bases de las pruebas para la selección del personal",
+      "B: La aprobación y modificación de las ordenanzas y reglamentos municipales",
+      "C: Ordenar la publicación, ejecución y cumplimiento de los acuerdos de los órganos ejecutivos del ayuntamiento."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El Pleno puede delegar el ejercicio de sus atribuciones en el Alcalde y en la Junta de Gobierno Local (artículo 22 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local) excepto:",
+    "options": [
+      "A: La aprobación de los proyectos de obras y servicios cuando sea competente para su contratación o concesión, y cuando aún no estén previstos en los presupuestos.",
+      "B: La declaración de lesividad de los actos del Ayuntamiento. La alteración de la calificación jurídica de los bienes de dominio público.",
+      "C: La aprobación de las formas de gestión de los servicios y de los expedientes de municipalización"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y de las Comunidades Autónomas, en las siguientes materias (artículo 25 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local):",
+    "options": [
+      "A: Participar en la vigilancia del cumplimiento de la escolaridad obligatoria y coordinar con las Administraciones educativas correspondientes en la construcción de nuevos centros docentes.",
+      "B: La conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de educación infantil, de educación primaria o de educación especial.",
+      "C: Las dos respuestas anteriores son correctas."
+    ],
+    "answer": 2
+  },  {
+    "text": "Los municipios con población igual a 5.000 habitantes, deberán prestar, en todo caso, los servicios siguientes (artículo 26 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local):",
+    "options": [
+      "A: Parque público, alumbrado público, alcantarillado, tratamiento de residuos.",
+      "B: Acceso a los núcleos de población, cementerio, pavimentación de las vías públicas.",
+      "C: Las dos respuestas anteriores son correctas."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según la ley 7/1985 RBRL, la aprobación del Reglamento Orgánico y de las ordenanzas corresponde a:",
+    "options": [
+      "A: Pleno",
+      "B: Alcalde",
+      "C: Junta de Gobierno Local"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "La creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos:",
+    "options": [
+      "A: 5.000 Habitantes",
+      "B: 4.000 Habitantes",
+      "C: 6.000 Habitantes"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "No es un elemento del municipio:",
+    "options": [
+      "A: Organización",
+      "B: Población",
+      "C: Ambas son incorrectas"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en la administración local, los titulares de la potestad reglamentaria son, entre otros:",
+    "options": [
+      "A: Las Juntas de Gobierno Local de los Ayuntamientos",
+      "B: El Alcalde y el Presidente de la Diputación",
+      "C: Los Plenos de las Diputaciones Provinciales"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la alteración de términos municipales:",
+    "options": [
+      "A: Se regulará por Ley Orgánica y requerirá audiencia de la Diputación provincial afectada, dictamen del Consejo de Estado y el informe de la Administración que ejerza la tutela financiera.",
+      "B: Se regulará por la legislación autonómica sobre régimen local y requerirá audiencia de los municipios interesados, dictamen del Consejo de Estado o del órgano consultivo autonómico, si existiere y el informe de la Administración que ejerza la tutela financiera.",
+      "C: Se regulará por la legislación autonómica sobre régimen local y requerirá audiencia de la Diputación provincial afectada y del informe favorable de la Administración General del Estado."
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Según el artículo 26.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, los municipios con población superior a 5.000 habitantes e inferior a 20.000 habitantes no están obligados a prestar el servicio de:",
+    "options": [
+      "A: Tratamiento de residuos.",
+      "B: Protección Civil",
+      "C: Parque público."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Para facilitar la participación ciudadana en la gestión de los asuntos locales y mejorar ésta, los municipios podrán establecer órganos territoriales:",
+    "options": [
+      "A: De gestión coordinada",
+      "B: De gestión desconcentrada",
+      "C: De gestión descentralizada"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Elija la opción incorrecta:",
+    "options": [
+      "A: Los entes de ámbito territorial inferior al Municipio tienen plena personalidad jurídica",
+      "B: Las provincias tienen personalidad jurídica propia",
+      "C: Las mancomunidades tienen personalidad y capacidad jurídicas para el cumplimiento de sus fines específicos"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Los cambios de denominación de los Municipios solo tendrán carácter oficial cuando, tras haber sido anotados en un Registro creado por la Administración del Estado para la inscripción de todas las entidades a que se refiere la presente Ley:",
+    "options": [
+      "A: Se publiquen en el Boletín Oficial de la Comunidad Autónoma",
+      "B: Se publiquen en el Boletín Oficial del Estado",
+      "C: Se publiquen en el Boletín Oficial del Estado y en el Boletín Oficial de la Comunidad Autónoma"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "El artículo 122.5 de la Ley 7/1985, de abril, reguladora de las Bases del Régimen Local, atribuye funciones al secretario general del Pleno, entre las que se encuentra el asesoramiento legal al Pleno y a las comisiones; en qué supuestos será preceptivo, señale la respuesta correcta:",
+    "options": [
+      "A: Cuando un reglamento así lo exija en las materias de la competencia plenaria.",
+      "B: Siempre que se trate de asuntos sobre materias para las que se exija una mayoría simple.",
+      "C: Cuando así lo ordene el Presidente o cuando lo solicite un tercio de sus miembros con antelación suficiente a la celebración de la sesión en que el asunto hubiere de tratarse."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Según el artículo 126.4 de la Ley 7/1985, de abril, reguladora de las Bases del Régimen Local, la Secretaría de la Junta de Gobierno Local corresponderá:",
+    "options": [
+      "A: A uno de sus miembros que reúna la condición de concejal.",
+      "B: A un funcionario de Administración local con habilitación de carácter nacional",
+      "C: A uno de sus miembros que no reúna la condición de concejal"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "De entre las siguientes atribuciones, cual no corresponde a la Junta de Gobierno Local según el artículo 127 de la de la Ley 7/1985, de abril, reguladora de las Bases del Régimen Local:",
+    "options": [
+      "A: El ejercicio de las acciones judiciales y administrativas en materia de su competencia",
+      "B: Las facultades de revisión de oficio de sus propios actos.",
+      "C: La aprobación del presupuesto."
+    ],
+    "answer": 2
+  },
+  {
+    "text": "¿Cómo se denomina el órgano de máxima representación política de los ciudadanos en el gobierno municipal?",
+    "options": [
+      "A: Junta de Gobierno Local",
+      "B: Asesoría Jurídica",
+      "C: Pleno"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Los Municipios según el artículo 26.1 de la Ley de Bases de Régimen Local, deberán prestar, en todo caso, los servicios siguientes, señale la respuesta correcta:",
+    "options": [
+      "A: Transporte colectivo urbano de viajero",
+      "B: Medio ambiente urbano",
+      "C: Alcantarillado"
+    ],
+    "answer": 2
+  }
+],
 }
+	
