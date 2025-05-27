@@ -7839,6 +7839,408 @@
     ],
     "answer": 1
   }
+],
+    "Tema 15": [
+  {
+    "question_number": 1,
+    "question": "En lo que respecta al objeto de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, señale la respuesta correcta:",
+    "options": {
+      "A": "Tiene por objeto la regulación, en el ámbito de las competencias del Ayuntamiento, de todas aquellas conductas y actividades dirigidas a la limpieza de los espacios públicos y privados de uso público que componen su ámbito de aplicación, así como la recogida, almacenamiento, transporte y tratamiento de los residuos domésticos y municipales [cite: 1]",
+      "B": "Tiene por objeto la regulación, en el ámbito de las competencias del Ayuntamiento, de todas aquellas conductas y actividades dirigidas a la limpieza de los espacios públicos y privados de uso privado que componen su ámbito de aplicación, así como la recogida, almacenamiento, transporte y tratamiento de los residuos domésticos y municipales [cite: 2]",
+      "C": "Tiene por objeto la regulación, en el ámbito de las competencias del Ayuntamiento, de todas aquellas conductas y actividades dirigidas a la limpieza de los espacios públicos y que componen su ámbito de aplicación, así como la recogida, almacenamiento, transporte y tratamiento de los residuos domésticos y municipales"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question": "Indique cual de los siguientes no esta incluido en el ámbito de aplicación de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Los terrenos o bienes de titularidad municipal sometidos a un uso común especial o privativo por personas públicas o privadas. [cite: 3]",
+      "B": "Gestión de animales muertos, siempre que sean domésticos de compañía [cite: 4]",
+      "C": "Subproductos animales y productos derivados destinados a procesos de valorización siempre que provengan del ámbito doméstico o del comercio al por mayor [cite: 3]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 3,
+    "question": "¿Qué definición se corresponde con \"Reutilización\"?",
+    "options": {
+      "A": "Cualquier operación cuyo resultado principal sea que el residuo sirva a una finalidad útil al sustituir a otros materiales, que de otro modo se habrían utilizado para cumplir una función particular o que el residuo sea preparado para cumplir esa función en la instalación o en la economía en general [cite: 5]",
+      "B": "las operaciones de valorización o eliminación, incluida la preparación anterior a la valorización o eliminación",
+      "C": "cualquier operación mediante la cual productos o componentes de productos que no sean residuos se utilizan de nuevo con la misma finalidad para la que fueron concebidos [cite: 5]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 4,
+    "question": "¿De cuantos recipientes para recogida de residuos generados por el servicio se dispondrá para evitar ensuciar el espacio público en cada una de las mesas de terrazas, quioscos o barras?",
+    "options": {
+      "A": "Al menos uno [cite: 6, 7]",
+      "B": "Al menos dos",
+      "C": "Al menos tres"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "Quienes organicen actos públicos al amparo de la ordenanza Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor estarán obligados a comunicar al Ayuntamiento su celebración:",
+    "options": {
+      "A": "Con 30 días naturales de antelación [cite: 7]",
+      "B": "Con 20 días naturales de antelación [cite: 8]",
+      "C": "Con 15 días naturales de antelación"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 6,
+    "question": "¿Cuál es el orden por el que responderán por el pago de las multas impuestas a menores de edad al amparo de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor estarán obligados a comunicar al Ayuntamiento su celebración",
+    "options": {
+      "A": "Sus padres, acogedores y guardadores legales o de hecho y tutores",
+      "B": "Sus padres, tutores, acogedores y guardadores legales o de hecho [cite: 8]",
+      "C": "Sus padres, tutores, acogedores y guardadores legales"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "¿Cuándo prescribirán las infracciones leves en la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor?",
+    "options": {
+      "A": "Al año [cite: 10]",
+      "B": "A los tres meses",
+      "C": "A los seis meses [cite: 9]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 8,
+    "question": "Las prestaciones personales en materia de limpieza o eliminación de nieve que exijan las autoridades competentes se llevarán a cabo en el frontal de la edificación, parcela u ámbito de actuación que se corresponde con el viario público y zonas de acceso a su vivienda, negocio o actividad:",
+    "options": {
+      "A": "En una anchura mínima de 1,85 metros de la acera",
+      "B": "En una anchura mínima de 1,90 metros de la acera",
+      "C": "En una anchura mínima de 1,80 metros de la acera [cite: 10]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 9,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, el incumplimiento de las obligaciones relacionadas con los actos públicos regulados en esta ordenanza, se considera una infracción:",
+    "options": {
+      "A": "Muy grave [cite: 11]",
+      "B": "Grave",
+      "C": "Leve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, realizar obras o almacenar materiales de construcción que causen suciedad en los espacios públicos, es una infracción:",
+    "options": {
+      "A": "Muy grave",
+      "B": "Leve",
+      "C": "Grave [cite: 11]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, realizar tareas de carga y descarga incumpliendo lo dispuesto en esta ordenanza, es una infracción:",
+    "options": {
+      "A": "Muy grave",
+      "B": "Grave [cite: 12]",
+      "C": "Leve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "¿Cuándo prescribirán las sanciones leves en la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor?",
+    "options": {
+      "A": "Al año [cite: 13, 14]",
+      "B": "A los tres meses",
+      "C": "A los seis meses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 13,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, ensuciar el espacio público debido al estado, mantenimiento o limpieza de cualquier tipo de vehículo o maquinaria, es una infracción:",
+    "options": {
+      "A": "Grave",
+      "B": "Leve [cite: 14]",
+      "C": "Muy grave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "¿Cuándo prescribirán las sanciones Graves en la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor?",
+    "options": {
+      "A": "A los tres años",
+      "B": "A los dos años [cite: 15]",
+      "C": "A los cinco años"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "¿Cuál de las siguientes materias puede desarrollar el ayuntamiento al amparo de la ordenanza Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor?",
+    "options": {
+      "A": "Estrategias para gestionar residuos comerciales peligrosos. [cite: 16]",
+      "B": "Estrategias de economía circular [cite: 16]",
+      "C": "Ambas son correctas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 16,
+    "question": "Al amparo de la Ordenanza de Protección de la Salubridad Pública en la Ciudad de Madrid de 28 de mayo de 2014, en vigor, ¿Qué definición le correspondería a \"Zona aislada\"?",
+    "options": {
+      "A": "Espacio destinado a una determinada finalidad sin que necesariamente exista separación con medios físicos de otras zonas o lugares, pero de manera que se evite la contaminación de los alimentos que en ella se manipulan o que el consumidor pueda tener acceso a los mismos. [cite: 17]",
+      "B": "Espacio destinado a una determinada finalidad en la que existe separación física de otras zonas o lugares, sin necesidad de que dicha separación llegue a techos, pero de forma que se garantice la seguridad de los productos y se eviten las contaminaciones. [cite: 18]",
+      "C": "Ninguna es correcta [cite: 19]"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "¿Que quedará excluido de lo establecido en el articulo 16 respecto a los actos públicos?",
+    "options": {
+      "A": "Aquellos actos derivados del ejercicio de los derechos fundamentales recogidos en los artículos 21 y 28 de la Constitución Española [cite: 20]",
+      "B": "Aquellos actos derivados del ejercicio de los derechos fundamentales recogidos en los artículos 21 y 28.1 de la Constitución Española",
+      "C": "Aquellos actos derivados del ejercicio de los derechos fundamentales recogidos en los artículos 21 y 28.2 de la Constitución Española [cite: 20]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "¿Quién será responsable en primera instancia de adoptar cuantas medidas sean precisas en la manipulación y transporte de vehículos que transporten RCD o cualquier material que pudiera ensuciar la vía pública?",
+    "options": {
+      "A": "Las personas arrendatarias de dichos vehiculos [cite: 21]",
+      "B": "Quienes conduzcan [cite: 21]",
+      "C": "Las personas titulares de dichos vehículos [cite: 22]"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 19,
+    "question": "¿Cuál es la sanción por la comisión de infracciones muy graves en la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor?",
+    "options": {
+      "A": "Multa de hasta 3.000 euros. [cite: 23]",
+      "B": "Multa de 1.501 a 3.000 euros. [cite: 23]",
+      "C": "Multa de 751 a 1.500 euros."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 20,
+    "question": "Señale la respuesta correcta respecto a las medidas provisionales al amparo de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Dichas medidas provisionales no tendrán carácter de sanción [cite: 24]",
+      "B": "Dichas medidas provisionales tendrán carácter de sanción",
+      "C": "Dichas medidas provisionales, podrán o no tendrán carácter de sanción"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question": "¿Qué definición corresponde con \"Aceite de cocina usado\"?",
+    "options": {
+      "A": "Residuos de grasas de origen vegetal que se generan tras ser utilizado en el cocinado de alimentos en el ámbito doméstico, centros e instituciones, hostelería, restauración y análogos",
+      "B": "Residuos de grasas de origen animal que se generan tras ser utilizado en el cocinado de alimentos en el ámbito doméstico, centros e instituciones, hostelería, restauración y análogos",
+      "C": "Residuos de grasas de origen vegetal y animal que se generan tras ser utilizado en el cocinado de alimentos en el ámbito doméstico, centros e instituciones, hostelería, restauración y análogos [cite: 25]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 22,
+    "question": "¿Quiénes serán responsables en primera instancia de cualquier acción que realicen los animales que ocasione suciedad en los espacios públicos?",
+    "options": {
+      "A": "Las personas propietarias de dichos animales",
+      "B": "Las personas que lleven dichos animales [cite: 26]",
+      "C": "Ambas son incorrectas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor, no hacer uso de los recipientes destinados a la recogida de residuos, es una infracción :",
+    "options": {
+      "A": "Grave",
+      "B": "Leve [cite: 26]",
+      "C": "Muy grave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question": "Incumplir las obligaciones de los establecimientos comerciales en la recogida de residuos puerta a puerta se considera una infracción Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Grave",
+      "B": "Muy grave",
+      "C": "Leve [cite: 27]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "Escupir en vías o espacios públicos se considera una infracción Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Leve",
+      "B": "Muy grave",
+      "C": "Grave [cite: 28]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 26,
+    "question": "Según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor,realizar necesidades fisiológicas en vías o espacios públicos contraviniendo esta ordenanza, se considera una infracción:",
+    "options": {
+      "A": "Leve",
+      "B": "Grave [cite: 28]",
+      "C": "Muy grave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "¿Qué definición se corresponde con \"Reciclado\"?",
+    "options": {
+      "A": "Toda operación de valorización mediante la cual los materiales de residuos son transformados de nuevo en productos, materiales o sustancias, tanto si es con la finalidad original como con cualquier otra finalidad. Incluye la transformación del material orgánico, pero no la valorización energética ni la transformación en materiales que se vayan a usar como combustibles o para operaciones de relleno. [cite: 29, 30]",
+      "B": "Cualquier operación mediante la cual productos o componentes de productos que no sean residuos se utilizan de nuevo con la misma finalidad para la que fueron concebidos. [cite: 31]",
+      "C": "Cualquier operación cuyo resultado principal sea que el residuo sirva a una finalidad útil al sustituir a otros materiales, que de otro modo se habrían utilizado para cumplir una función particular o que el residuo sea preparado para cumplir esa función en la instalación o en la economía en general. [cite: 32]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question": "¿En que articulo de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor vienen reguladas las definiciones?",
+    "options": {
+      "A": "Articulo 6",
+      "B": "Articulo 4 [cite: 33]",
+      "C": "Articulo 5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 29,
+    "question": "En cuanto a las medidas de la prevención, tienen por objeto reducir:",
+    "options": {
+      "A": "El contenido de sustancias peligrosas y no peligrosas en materiales y productos. [cite: 35]",
+      "B": "El contenido de sustancias no peligrosas en materiales y productos.",
+      "C": "El contenido de sustancias peligrosas en materiales y productos. [cite: 36]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 30,
+    "question": "¿En qué artículo de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor vienen reguladas las infracciones graves?",
+    "options": {
+      "A": "Articulo 95.1 [cite: 38]",
+      "B": "Articulo 95.2 [cite: 37]",
+      "C": "Articulo 95.3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 31,
+    "question": "Es una conducta prohibida en la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Depositar en las papeleras los residuos no destinados a las mismas y de forma específica las bolsas con residuos domiciliarios o comerciales, así como elementos voluminosos que sobresalgan de la boca de la papelera.",
+      "B": "Ensuciar el espacio público por goteo o limpieza de balcones y terrazas, así como por la limpieza o sacudida de alfombras, prendas y similares [cite: 39]",
+      "C": "Ambas son correctas [cite: 39]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 32,
+    "question": "En cuanto a la obligación de proceder a la limpieza de las aceras y calzadas que hubieran sido ensuciadas durante la operación, retirando de la vía pública los residuos vertidos en los servicios de carga o descarga, indique el orden de los responsables de esta obligación:",
+    "options": {
+      "A": "Quienes conduzcan los vehículos que desarrollen esta actividad, y, subsidiariamente, por este orden, las personas arrendatarias o titulares del vehículo y de los establecimientos o fincas para los que se efectúe la carga y la descarga [cite: 40]",
+      "B": "Las personas arrendatarias o titulares del vehículo, y, subsidiariamente, por este orden, quienes conduzcan los vehículos que desarrollen esta actividad y de los establecimientos o fincas para los que se efectúe la carga y la descarga [cite: 41]",
+      "C": "quienes conduzcan los vehículos que desarrollen esta actividad, y, solidariamente, por este orden, las personas arrendatarias o titulares del vehículo y de los establecimientos o fincas para los que se efectúe la carga y la descarga"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 33,
+    "question": "Según la Ordenanza de Protección de la Salubridad Pública en la Ciudad de Madrid de 28 de mayo de 2014, en vigor, la dotación de servicios higiénicos lo será en función de la superficie útil, de manera que:",
+    "options": {
+      "A": "Hasta doscientos cuarenta metros cuadrados se instalará un inodoro y un lavabo",
+      "B": "Hasta cien metros cuadrados se instalará un inodoro y un lavabo",
+      "C": "Hasta doscientos metros cuadrados se instalará un inodoro y un lavabo [cite: 42]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 34,
+    "question": "¿Qué definición se corresponde con \"Eliminación\"?",
+    "options": {
+      "A": "Cualquier operación mediante la cual productos o componentes de productos que no sean residuos se utilizan de nuevo con la misma finalidad para la que fueron concebidos. [cite: 43]",
+      "B": "Cualquier operación que no sea la valorización, incluso cuando la operación tenga como consecuencia secundaria el aprovechamiento de sustancias o materiales, siempre que éstos no superen el 50% en peso del residuo tratado, o el aprovechamiento de energía. [cite: 44]",
+      "C": "Cualquier operación cuyo resultado principal sea que el residuo sirva a una finalidad útil al sustituir a otros materiales, que de otro modo se habrían utilizado para cumplir una función particular o que el residuo sea preparado para cumplir esa función en la instalación o en la economía en general. [cite: 45]"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 35,
+    "question": "Según la Ordenanza de Protección de la Salubridad Pública en la Ciudad de Madrid de 28 de mayo de 2014, en vigor ¿Dónde se deberá implantar un plan de prevención y control de plagas documentado que será periódicamente revisado y, en su caso, actualizado?",
+    "options": {
+      "A": "En todos los establecimientos [cite: 47]",
+      "B": "En todos los establecimientos, a excepción de los establecimientos provisionales [cite: 46]",
+      "C": "En todos los establecimientos, a excepción de los establecimientos permanentes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "Verter agua al espacio público desde el riego de plantas es una infracción según la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022, en vigor:",
+    "options": {
+      "A": "Leve",
+      "B": "Grave [cite: 47]",
+      "C": "Muy grave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "¿Cómo se llama el libro segundo de la Ordenanza de Protección de la Salubridad Pública en la Ciudad de Madrid de 28 de mayo de 2014, en vigor?",
+    "options": {
+      "A": "Establecimientos de elaboración, venta y servicio",
+      "B": "Establecimientos de elaboración, venta y servicio de alimentos Y/O bebidas [cite: 48]",
+      "C": "Establecimientos de elaboración y venta de alimentos y/o bebidas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 38,
+    "question": "En cuanto a las dependencias de los establecimientos regulados en el libro segundo de la Ordenanza de Protección de la Salubridad Pública en la Ciudad de Madrid de 28 de mayo de 2014, en vigor, deben disponer de:",
+    "options": {
+      "A": "Zona aislada de uso público o sala de ventas",
+      "B": "Zona de manipulación aislada, en los casos que exista manipulación de alimentos",
+      "C": "Cocina u obrador aislado y de uso exclusivo, en los casos que exista elaboración de alimentos. [cite: 49]"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "¿Qué definición se corresponde con \"Agente\"?",
+    "options": {
+      "A": "Cualquier persona física o jurídica cuya actividad produzca residuos, o cualquier persona que efectúe operaciones de tratamiento previo, de mezcla o de otro tipo que ocasionen un cambio de naturaleza o de composición de los residuos. [cite: 50]",
+      "B": "Toda persona física o jurídica que organiza la valorización o la eliminación de residuos por encargo de terceros, incluidas aquéllas que no tomen posesión física de los residuos. [cite: 51]",
+      "C": "La persona o entidad, pública o privada, registrada mediante autorización o comunicación que realice cualquiera de las operaciones que componen la gestión de los residuos, sea o no el productor de los mismos. [cite: 52]"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "¿Cuál de las siguientes infracciones al amparo de la Ordenanza de Limpieza de los Espacios Públicos y de Gestión de Residuos y economía circular de 20 de diciembre de 2022 podrá sustituirse por trabajos en beneficio de la comunidad?",
+    "options": {
+      "A": "Incumplir la obligación de los titulares de terrazas o bares en disponer de recipientes para la recogida de residuos [cite: 53, 54]",
+      "B": "Incumplir las condiciones establecidas en las autorizaciones de tratamiento de residuos en el Parque Tecnológico de Valdemingómez",
+      "C": "Incumplir las obligaciones de colaboración por parte de las empresas de acuerdo con el artículo 76."
+    },
+    "correct_answer": "A"
+  }
 ]
 
 
