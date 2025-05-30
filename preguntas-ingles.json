@@ -1,11 +1,13 @@
 {
-  "Tema 1": [
-      "text": "pregunta 1",
-      "options": [
-          "A",
-          "B",
-          "C"
-      ],
-      "answer": 0
-  ]
+    "Tema 1": [
+        {
+            "text": "pregunta 1",
+            "options": [
+                "A",
+                "B",
+                "C"
+            ],
+            "answer": 0
+        }
+    ]
 }
