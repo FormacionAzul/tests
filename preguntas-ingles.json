@@ -1347,7 +1347,451 @@
         ],
         "answer": "a"
       }
-    ]
-  }
+    ],
+    "Tema 4: Pasado continuo":
+    [
+    {
+        "text": "She ___ cooking when I arrived.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ playing football yesterday evening.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ studying all night.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He ___ watching TV when I called.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) be"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ having dinner at that time.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ it raining when you left?",
+        "options": [
+            "a) Were",
+            "b) Was",
+            "c) Is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ___ not listening to music.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ sleeping during the movie.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She ___ working late last night.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ they talking about?",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ driving too fast.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ waiting for you.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) be"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ___ not feeling well yesterday.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ reading a book.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The students ___ making noise.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ not paying attention.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ cleaning the house.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ you talking to him?",
+        "options": [
+            "a) Was",
+            "b) Were",
+            "c) Did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We ___ walking in the park.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ doing my homework at 9 p.m.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ painting when the lights went out.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The kids ___ playing outside.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) be"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We ___ not watching that show.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ he working late again?",
+        "options": [
+            "a) Was",
+            "b) Were",
+            "c) Is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ not listening to the teacher.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ___ cooking while she was cleaning.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ you wearing yesterday?",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ fixing his bike.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) be"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ watching a movie when it started raining.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She ___ not sleeping well last week.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ they studying together?",
+        "options": [
+            "a) Were",
+            "b) Was",
+            "c) Are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ reading the news online.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) be"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The dog ___ barking all night.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ he saying to you?",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The students ___ practicing for the exam.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ not wearing a jacket.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ playing a video game.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We ___ driving when it started snowing.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ you using my laptop?",
+        "options": [
+            "a) Were",
+            "b) Was",
+            "c) Are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ thinking about you.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He ___ looking for his keys.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ taking a nap.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ waiting outside the restaurant.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ not doing their chores.",
+        "options": [
+            "a) were",
+            "b) was",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ he talking to your sister?",
+        "options": [
+            "a) Was",
+            "b) Were",
+            "c) Did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ trying to call you.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The phone ___ ringing all morning.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ laughing at his joke.",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ you doing when the alarm went off?",
+        "options": [
+            "a) was",
+            "b) were",
+            "c) did"
+        ],
+        "answer": "b"
+    }
+]
+
 
 
