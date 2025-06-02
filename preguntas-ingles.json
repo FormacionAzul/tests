@@ -1791,8 +1791,459 @@
         ],
         "answer": "b"
     }
-]
+], 
+    "Tema 5 a,an,the": [
+    {
+        "text": "I saw ___ cat in the garden.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She wants to buy ___ apple.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ sun is shining today.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "He is reading ___ interesting book.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I need ___ umbrella because it’s raining.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There is ___ elephant at the zoo.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "They live in ___ old house near the park.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She bought ___ orange from the market.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ moon looks beautiful tonight.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "I have ___ idea for the project.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We saw ___ owl last night.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He wants to be ___ artist when he grows up.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There is ___ university in my city.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She is eating ___ apple right now.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I want to buy ___ car next year.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ stars are shining in the sky.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "He saw ___ eagle flying above.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I need ___ pen to write this down.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She gave me ___ answer to the question.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "They visited ___ museum yesterday.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I found ___ egg in the fridge.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We stayed at ___ hotel near the beach.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She bought ___ dress for the party.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ sky is very clear today.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "He is ___ honest man.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I saw ___ rabbit in the garden.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She is ___ engineer at the company.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We have ___ idea for the new product.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "There’s ___ island in the middle of the lake.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He needs ___ hour to finish the work.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I want ___ sandwich for lunch.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ river flows through this city.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "She has ___ umbrella in her bag.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I saw ___ ant crawling on the floor.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He is ___ honest person.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We went to ___ park yesterday.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ moonlight was very bright last night.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "She wants to be ___ astronaut.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I bought ___ egg for breakfast.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There is ___ university nearby.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They stayed in ___ old castle.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He needs ___ hour to complete the task.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She bought ___ umbrella at the store.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I’m reading ___ interesting book.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ sun is very hot today.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "He saw ___ elephant in the forest.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I want to buy ___ ice cream.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She has ___ idea about the project.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They live in ___ small town.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ stars are very bright tonight.",
+        "options": [
+            "a) a",
+            "b) an",
+            "c) the"
+        ],
+        "answer": "c"
     }
-
+]
+}
 
 
