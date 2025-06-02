@@ -895,10 +895,9 @@
                     "answer": "a"
                 }
             ],
-    "Tema 3: Pasado simple" [
+    "Tema 3: Pasado simple": [
   {
-    "Tema 1": [
-      {
+    
         "text": "___ you do your homework?",
         "options": [
           "a) did",
@@ -1350,5 +1349,5 @@
       }
     ]
   }
-]
+
 
