@@ -1,8 +1,7 @@
 {
     "Tema 1: Presente simple": [
         {
-            "Tema 1": [
-                {
+
                     "text": "She ___ to school every day.",
                     "options": [
                         "a) go",
@@ -895,7 +894,461 @@
                     ],
                     "answer": "a"
                 }
-            ]
-        }
+            ],
+    "Tema 3: Pasado simple" [
+  {
+    "Tema 1": [
+      {
+        "text": "___ you do your homework?",
+        "options": [
+          "a) did",
+          "b) do",
+          "c) does"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "She ___ to the market last Saturday.",
+        "options": [
+          "a) goes",
+          "b) gone",
+          "c) went"
+        ],
+        "answer": "c"
+      },
+      {
+        "text": "They ___ a movie last night.",
+        "options": [
+          "a) watch",
+          "b) watched",
+          "c) watching"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ home at 7 p.m.",
+        "options": [
+          "a) arrived",
+          "b) arrive",
+          "c) arriving"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "He ___ his keys in the car.",
+        "options": [
+          "a) leave",
+          "b) left",
+          "c) leaved"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ breakfast at 8 a.m.",
+        "options": [
+          "a) had",
+          "b) have",
+          "c) has"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "Did you ___ to school yesterday?",
+        "options": [
+          "a) go",
+          "b) went",
+          "c) going"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "She ___ a book last weekend.",
+        "options": [
+          "a) read",
+          "b) reads",
+          "c) reading"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "They ___ the game easily.",
+        "options": [
+          "a) win",
+          "b) won",
+          "c) winned"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ his phone at home.",
+        "options": [
+          "a) forget",
+          "b) forgot",
+          "c) forgotten"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ pizza for dinner.",
+        "options": [
+          "a) eat",
+          "b) ate",
+          "c) eaten"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "___ she come to the party?",
+        "options": [
+          "a) Do",
+          "b) Did",
+          "c) Does"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ my homework last night.",
+        "options": [
+          "a) finish",
+          "b) finished",
+          "c) finishing"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "The baby ___ all night.",
+        "options": [
+          "a) cry",
+          "b) cried",
+          "c) cries"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "They ___ to Paris in 2020.",
+        "options": [
+          "a) travel",
+          "b) travelled",
+          "c) traveling"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ TV before bed.",
+        "options": [
+          "a) watches",
+          "b) watched",
+          "c) watching"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ a new car last month.",
+        "options": [
+          "a) bought",
+          "b) buy",
+          "c) buying"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "I ___ my friend yesterday.",
+        "options": [
+          "a) meet",
+          "b) met",
+          "c) meeting"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "She ___ very happy with the gift.",
+        "options": [
+          "a) was",
+          "b) is",
+          "c) were"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "They ___ at 10 a.m.",
+        "options": [
+          "a) arrive",
+          "b) arrived",
+          "c) arriving"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ a letter to his parents.",
+        "options": [
+          "a) writes",
+          "b) wrote",
+          "c) writing"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ a sandwich for lunch.",
+        "options": [
+          "a) eat",
+          "b) ate",
+          "c) eaten"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "The dog ___ the ball.",
+        "options": [
+          "a) catch",
+          "b) caught",
+          "c) catches"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ a lot of fun.",
+        "options": [
+          "a) had",
+          "b) have",
+          "c) has"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "She ___ to music all evening.",
+        "options": [
+          "a) listen",
+          "b) listened",
+          "c) listening"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "___ they play soccer last weekend?",
+        "options": [
+          "a) Do",
+          "b) Did",
+          "c) Does"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ a song at the concert.",
+        "options": [
+          "a) sings",
+          "b) sang",
+          "c) singing"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ a strange noise last night.",
+        "options": [
+          "a) hear",
+          "b) heard",
+          "c) hears"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ late for the meeting.",
+        "options": [
+          "a) were",
+          "b) are",
+          "c) was"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "She ___ a beautiful dress.",
+        "options": [
+          "a) wears",
+          "b) wore",
+          "c) wearing"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "They ___ dinner at 6.",
+        "options": [
+          "a) have",
+          "b) had",
+          "c) has"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ him at the station.",
+        "options": [
+          "a) saw",
+          "b) see",
+          "c) seeing"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "He ___ a taxi to the airport.",
+        "options": [
+          "a) takes",
+          "b) took",
+          "c) taken"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "She ___ in a competition.",
+        "options": [
+          "a) participate",
+          "b) participated",
+          "c) participating"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "The movie ___ at 8 p.m.",
+        "options": [
+          "a) start",
+          "b) started",
+          "c) starting"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "They ___ all their money.",
+        "options": [
+          "a) spend",
+          "b) spent",
+          "c) spended"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "Did you ___ the book I gave you?",
+        "options": [
+          "a) read",
+          "b) reads",
+          "c) reading"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "I ___ very tired after the trip.",
+        "options": [
+          "a) was",
+          "b) am",
+          "c) were"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "She ___ me a birthday card.",
+        "options": [
+          "a) send",
+          "b) sent",
+          "c) sended"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ the door by mistake.",
+        "options": [
+          "a) close",
+          "b) closed",
+          "c) closing"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "We ___ the test easily.",
+        "options": [
+          "a) passed",
+          "b) pass",
+          "c) passing"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "The kids ___ too much candy.",
+        "options": [
+          "a) ate",
+          "b) eat",
+          "c) eaten"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "I ___ the email this morning.",
+        "options": [
+          "a) receive",
+          "b) received",
+          "c) receiving"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "They ___ late to the meeting.",
+        "options": [
+          "a) arrive",
+          "b) arrived",
+          "c) arriving"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "Did she ___ your question?",
+        "options": [
+          "a) answer",
+          "b) answered",
+          "c) answering"
+        ],
+        "answer": "a"
+      },
+      {
+        "text": "We ___ in the lake.",
+        "options": [
+          "a) swim",
+          "b) swam",
+          "c) swimming"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "He ___ a new job last week.",
+        "options": [
+          "a) find",
+          "b) found",
+          "c) founded"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "I ___ sick last Monday.",
+        "options": [
+          "a) am",
+          "b) was",
+          "c) were"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "She ___ her ankle yesterday.",
+        "options": [
+          "a) twist",
+          "b) twisted",
+          "c) twisting"
+        ],
+        "answer": "b"
+      },
+      {
+        "text": "They ___ very quickly.",
+        "options": [
+          "a) ran",
+          "b) run",
+          "c) running"
+        ],
+        "answer": "a"
+      }
     ]
-}
+  }
+]
+
