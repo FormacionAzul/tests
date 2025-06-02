@@ -1,908 +1,901 @@
 {
-    "Tema 1: Presente simple": 
-    [
-  {
-    "Tema 1": [
-      {
-        "text": "She ___ to school every day.",
-        "options": [
-          "a) go",
-          "b) goes",
-          "c) going"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ they play football on weekends?",
-        "options": [
-          "a) Is",
-          "b) Does",
-          "c) Do"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "My brother ___ like pizza.",
-        "options": [
-          "a) doesn’t",
-          "b) don’t",
-          "c) isn’t"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "He ___ his homework at night.",
-        "options": [
-          "a) do",
-          "b) does",
-          "c) doing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I ___ coffee in the morning.",
-        "options": [
-          "a) drinks",
-          "b) drink",
-          "c) drinking"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "Where ___ she live?",
-        "options": [
-          "a) do",
-          "b) does",
-          "c) is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The dog ___ in the garden.",
-        "options": [
-          "a) sleep",
-          "b) sleeps",
-          "c) sleeping"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ early on Sundays.",
-        "options": [
-          "a) get up",
-          "b) gets up",
-          "c) getting up"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "My friends ___ in the library.",
-        "options": [
-          "a) studies",
-          "b) study",
-          "c) studying"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "He ___ to music after school.",
-        "options": [
-          "a) listen",
-          "b) listens",
-          "c) listening"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "Do you ___ breakfast at home?",
-        "options": [
-          "a) has",
-          "b) have",
-          "c) had"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "She ___ TV in the evening.",
-        "options": [
-          "a) watches",
-          "b) watch",
-          "c) watching"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "___ your parents work on Saturdays?",
-        "options": [
-          "a) Does",
-          "b) Do",
-          "c) Is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ our grandparents every month.",
-        "options": [
-          "a) visit",
-          "b) visits",
-          "c) visiting"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "Tom and Jerry ___ a lot.",
-        "options": [
-          "a) fight",
-          "b) fights",
-          "c) fighting"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "My mother ___ delicious cakes.",
-        "options": [
-          "a) make",
-          "b) makes",
-          "c) making"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "They ___ in a big house.",
-        "options": [
-          "a) lives",
-          "b) live",
-          "c) living"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The sun ___ in the east.",
-        "options": [
-          "a) rise",
-          "b) rises",
-          "c) rising"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "Anna and I ___ the same class.",
-        "options": [
-          "a) has",
-          "b) are",
-          "c) have"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "___ your brother speak English?",
-        "options": [
-          "a) Do",
-          "b) Does",
-          "c) Is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I always ___ my teeth before bed.",
-        "options": [
-          "a) brush",
-          "b) brushes",
-          "c) brushing"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "John ___ fast food.",
-        "options": [
-          "a) don’t like",
-          "b) doesn’t like",
-          "c) isn’t like"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "They ___ to the gym every day.",
-        "options": [
-          "a) go",
-          "b) goes",
-          "c) going"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "It ___ a lot in winter.",
-        "options": [
-          "a) snow",
-          "b) snows",
-          "c) snowing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "My dad ___ to work at 8 a.m.",
-        "options": [
-          "a) leave",
-          "b) leaves",
-          "c) leaving"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ your sister read books?",
-        "options": [
-          "a) Does",
-          "b) Do",
-          "c) Is"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ at the bank.",
-        "options": [
-          "a) work",
-          "b) works",
-          "c) working"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "The baby ___ a lot.",
-        "options": [
-          "a) cry",
-          "b) cries",
-          "c) crying"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ lunch at noon.",
-        "options": [
-          "a) eat",
-          "b) eats",
-          "c) eating"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "They ___ the guitar.",
-        "options": [
-          "a) plays",
-          "b) play",
-          "c) playing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "She ___ French and English.",
-        "options": [
-          "a) speaks",
-          "b) speak",
-          "c) speaking"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ my car on Sundays.",
-        "options": [
-          "a) wash",
-          "b) washes",
-          "c) washing"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "___ he like chocolate?",
-        "options": [
-          "a) Do",
-          "b) Does",
-          "c) Is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The train ___ at 6:00 a.m.",
-        "options": [
-          "a) leave",
-          "b) leaves",
-          "c) leaving"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "My cousins ___ video games.",
-        "options": [
-          "a) plays",
-          "b) play",
-          "c) playing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "Peter ___ in London.",
-        "options": [
-          "a) lives",
-          "b) live",
-          "c) living"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "The teacher ___ very kind.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) be"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "My cat ___ fish.",
-        "options": [
-          "a) love",
-          "b) loves",
-          "c) loving"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ you go to school on foot?",
-        "options": [
-          "a) Is",
-          "b) Do",
-          "c) Does"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "He never ___ late.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) be"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "The students ___ the rules.",
-        "options": [
-          "a) follows",
-          "b) follow",
-          "c) following"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ your father drive to work?",
-        "options": [
-          "a) Do",
-          "b) Does",
-          "c) Is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We usually ___ lunch at 1 p.m.",
-        "options": [
-          "a) has",
-          "b) have",
-          "c) had"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The phone ___ every morning.",
-        "options": [
-          "a) ring",
-          "b) rings",
-          "c) ringing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I ___ TV after dinner.",
-        "options": [
-          "a) watch",
-          "b) watches",
-          "c) watching"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "My sister ___ to music every day.",
-        "options": [
-          "a) listen",
-          "b) listens",
-          "c) listening"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "They ___ basketball every Friday.",
-        "options": [
-          "a) plays",
-          "b) play",
-          "c) playing"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "Sarah ___ a nice voice.",
-        "options": [
-          "a) have",
-          "b) has",
-          "c) having"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ he have a pet?",
-        "options": [
-          "a) Do",
-          "b) Does",
-          "c) Is"
-        ],
-        "answer": "b"
-      }
+    "Tema 1: Presente simple": [
+        {
+            "Tema 1": [
+                {
+                    "text": "She ___ to school every day.",
+                    "options": [
+                        "a) go",
+                        "b) goes",
+                        "c) going"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ they play football on weekends?",
+                    "options": [
+                        "a) Is",
+                        "b) Does",
+                        "c) Do"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "My brother ___ like pizza.",
+                    "options": [
+                        "a) doesn’t",
+                        "b) don’t",
+                        "c) isn’t"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "He ___ his homework at night.",
+                    "options": [
+                        "a) do",
+                        "b) does",
+                        "c) doing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I ___ coffee in the morning.",
+                    "options": [
+                        "a) drinks",
+                        "b) drink",
+                        "c) drinking"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "Where ___ she live?",
+                    "options": [
+                        "a) do",
+                        "b) does",
+                        "c) is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The dog ___ in the garden.",
+                    "options": [
+                        "a) sleep",
+                        "b) sleeps",
+                        "c) sleeping"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ early on Sundays.",
+                    "options": [
+                        "a) get up",
+                        "b) gets up",
+                        "c) getting up"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "My friends ___ in the library.",
+                    "options": [
+                        "a) studies",
+                        "b) study",
+                        "c) studying"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "He ___ to music after school.",
+                    "options": [
+                        "a) listen",
+                        "b) listens",
+                        "c) listening"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "Do you ___ breakfast at home?",
+                    "options": [
+                        "a) has",
+                        "b) have",
+                        "c) had"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "She ___ TV in the evening.",
+                    "options": [
+                        "a) watches",
+                        "b) watch",
+                        "c) watching"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "___ your parents work on Saturdays?",
+                    "options": [
+                        "a) Does",
+                        "b) Do",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ our grandparents every month.",
+                    "options": [
+                        "a) visit",
+                        "b) visits",
+                        "c) visiting"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "Tom and Jerry ___ a lot.",
+                    "options": [
+                        "a) fight",
+                        "b) fights",
+                        "c) fighting"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "My mother ___ delicious cakes.",
+                    "options": [
+                        "a) make",
+                        "b) makes",
+                        "c) making"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "They ___ in a big house.",
+                    "options": [
+                        "a) lives",
+                        "b) live",
+                        "c) living"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The sun ___ in the east.",
+                    "options": [
+                        "a) rise",
+                        "b) rises",
+                        "c) rising"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "Anna and I ___ the same class.",
+                    "options": [
+                        "a) has",
+                        "b) are",
+                        "c) have"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "___ your brother speak English?",
+                    "options": [
+                        "a) Do",
+                        "b) Does",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I always ___ my teeth before bed.",
+                    "options": [
+                        "a) brush",
+                        "b) brushes",
+                        "c) brushing"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "John ___ fast food.",
+                    "options": [
+                        "a) don’t like",
+                        "b) doesn’t like",
+                        "c) isn’t like"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "They ___ to the gym every day.",
+                    "options": [
+                        "a) go",
+                        "b) goes",
+                        "c) going"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "It ___ a lot in winter.",
+                    "options": [
+                        "a) snow",
+                        "b) snows",
+                        "c) snowing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "My dad ___ to work at 8 a.m.",
+                    "options": [
+                        "a) leave",
+                        "b) leaves",
+                        "c) leaving"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ your sister read books?",
+                    "options": [
+                        "a) Does",
+                        "b) Do",
+                        "c) Is"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ at the bank.",
+                    "options": [
+                        "a) work",
+                        "b) works",
+                        "c) working"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "The baby ___ a lot.",
+                    "options": [
+                        "a) cry",
+                        "b) cries",
+                        "c) crying"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ lunch at noon.",
+                    "options": [
+                        "a) eat",
+                        "b) eats",
+                        "c) eating"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "They ___ the guitar.",
+                    "options": [
+                        "a) plays",
+                        "b) play",
+                        "c) playing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "She ___ French and English.",
+                    "options": [
+                        "a) speaks",
+                        "b) speak",
+                        "c) speaking"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ my car on Sundays.",
+                    "options": [
+                        "a) wash",
+                        "b) washes",
+                        "c) washing"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "___ he like chocolate?",
+                    "options": [
+                        "a) Do",
+                        "b) Does",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The train ___ at 6:00 a.m.",
+                    "options": [
+                        "a) leave",
+                        "b) leaves",
+                        "c) leaving"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "My cousins ___ video games.",
+                    "options": [
+                        "a) plays",
+                        "b) play",
+                        "c) playing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "Peter ___ in London.",
+                    "options": [
+                        "a) lives",
+                        "b) live",
+                        "c) living"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "The teacher ___ very kind.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) be"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "My cat ___ fish.",
+                    "options": [
+                        "a) love",
+                        "b) loves",
+                        "c) loving"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ you go to school on foot?",
+                    "options": [
+                        "a) Is",
+                        "b) Do",
+                        "c) Does"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "He never ___ late.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) be"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "The students ___ the rules.",
+                    "options": [
+                        "a) follows",
+                        "b) follow",
+                        "c) following"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ your father drive to work?",
+                    "options": [
+                        "a) Do",
+                        "b) Does",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We usually ___ lunch at 1 p.m.",
+                    "options": [
+                        "a) has",
+                        "b) have",
+                        "c) had"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The phone ___ every morning.",
+                    "options": [
+                        "a) ring",
+                        "b) rings",
+                        "c) ringing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I ___ TV after dinner.",
+                    "options": [
+                        "a) watch",
+                        "b) watches",
+                        "c) watching"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "My sister ___ to music every day.",
+                    "options": [
+                        "a) listen",
+                        "b) listens",
+                        "c) listening"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "They ___ basketball every Friday.",
+                    "options": [
+                        "a) plays",
+                        "b) play",
+                        "c) playing"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "Sarah ___ a nice voice.",
+                    "options": [
+                        "a) have",
+                        "b) has",
+                        "c) having"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ he have a pet?",
+                    "options": [
+                        "a) Do",
+                        "b) Does",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                }
+            ],
+            "Tema 2: Presente continuo:": [
+                {
+                    "text": "What ___ you doing?",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) do"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "She ___ reading a book.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "They ___ playing soccer.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I ___ watching TV.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "___ he eating dinner?",
+                    "options": [
+                        "a) Do",
+                        "b) Is",
+                        "c) Are"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ studying for the test.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The cat ___ sleeping.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "You ___ talking too loudly.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "What ___ she wearing?",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) do"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "The children ___ running in the park.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "He ___ taking a shower.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ they coming to the party?",
+                    "options": [
+                        "a) Are",
+                        "b) Is",
+                        "c) Do"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ not feeling well.",
+                    "options": [
+                        "a) am",
+                        "b) is",
+                        "c) are"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "She ___ doing her homework.",
+                    "options": [
+                        "a) am",
+                        "b) is",
+                        "c) are"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ planning a trip.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "What ___ you cooking?",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) do"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "It ___ raining outside.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "You ___ not listening.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The baby ___ crying.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "They ___ dancing together.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I ___ writing a letter.",
+                    "options": [
+                        "a) is",
+                        "b) am",
+                        "c) are"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The kids ___ making noise.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "He ___ not answering his phone.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "___ she waiting for the bus?",
+                    "options": [
+                        "a) Is",
+                        "b) Are",
+                        "c) Do"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "We ___ having lunch now.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "What ___ your mom doing?",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) do"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "I ___ learning English.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "She ___ calling her friend.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "___ you working today?",
+                    "options": [
+                        "a) Are",
+                        "b) Is",
+                        "c) Do"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "They ___ building a house.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "He ___ fixing his bike.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The dogs ___ barking loudly.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "You ___ helping a lot.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ not going to school today.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "___ they listening to music?",
+                    "options": [
+                        "a) Do",
+                        "b) Are",
+                        "c) Is"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "She ___ painting her room.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "We ___ watching a movie.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "The teacher ___ talking to a student.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "What ___ he doing now?",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) do"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "It ___ getting dark.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ not joking.",
+                    "options": [
+                        "a) am",
+                        "b) is",
+                        "c) are"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "You ___ being silly.",
+                    "options": [
+                        "a) is",
+                        "b) am",
+                        "c) are"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "She ___ playing the piano.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "We ___ studying English.",
+                    "options": [
+                        "a) are",
+                        "b) is",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "___ your brother coming?",
+                    "options": [
+                        "a) Do",
+                        "b) Are",
+                        "c) Is"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "text": "They ___ not working today.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "b"
+                },
+                {
+                    "text": "The phone ___ ringing.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "He ___ driving to work.",
+                    "options": [
+                        "a) is",
+                        "b) are",
+                        "c) am"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "I ___ waiting for my friend.",
+                    "options": [
+                        "a) am",
+                        "b) is",
+                        "c) are"
+                    ],
+                    "answer": "a"
+                },
+                {
+                    "text": "___ we leaving now?",
+                    "options": [
+                        "a) Are",
+                        "b) Is",
+                        "c) Do"
+                    ],
+                    "answer": "a"
+                }
+            ]
+        }
     ]
-  }
-]
-     {
-    "Tema 2: Presente continuo:": [
-       {
-        "text": "What ___ you doing?",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) do"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "She ___ reading a book.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "They ___ playing soccer.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I ___ watching TV.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "___ he eating dinner?",
-        "options": [
-          "a) Do",
-          "b) Is",
-          "c) Are"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ studying for the test.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The cat ___ sleeping.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "You ___ talking too loudly.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "What ___ she wearing?",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) do"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "The children ___ running in the park.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "He ___ taking a shower.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ they coming to the party?",
-        "options": [
-          "a) Are",
-          "b) Is",
-          "c) Do"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ not feeling well.",
-        "options": [
-          "a) am",
-          "b) is",
-          "c) are"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "She ___ doing her homework.",
-        "options": [
-          "a) am",
-          "b) is",
-          "c) are"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ planning a trip.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "What ___ you cooking?",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) do"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "It ___ raining outside.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "You ___ not listening.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The baby ___ crying.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "They ___ dancing together.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I ___ writing a letter.",
-        "options": [
-          "a) is",
-          "b) am",
-          "c) are"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The kids ___ making noise.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "He ___ not answering his phone.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "___ she waiting for the bus?",
-        "options": [
-          "a) Is",
-          "b) Are",
-          "c) Do"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "We ___ having lunch now.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "What ___ your mom doing?",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) do"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "I ___ learning English.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "She ___ calling her friend.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "___ you working today?",
-        "options": [
-          "a) Are",
-          "b) Is",
-          "c) Do"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "They ___ building a house.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "He ___ fixing his bike.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The dogs ___ barking loudly.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "You ___ helping a lot.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ not going to school today.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "___ they listening to music?",
-        "options": [
-          "a) Do",
-          "b) Are",
-          "c) Is"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "She ___ painting her room.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "We ___ watching a movie.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "The teacher ___ talking to a student.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "What ___ he doing now?",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) do"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "It ___ getting dark.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ not joking.",
-        "options": [
-          "a) am",
-          "b) is",
-          "c) are"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "You ___ being silly.",
-        "options": [
-          "a) is",
-          "b) am",
-          "c) are"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "She ___ playing the piano.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "We ___ studying English.",
-        "options": [
-          "a) are",
-          "b) is",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "___ your brother coming?",
-        "options": [
-          "a) Do",
-          "b) Are",
-          "c) Is"
-        ],
-        "answer": "c"
-      },
-      {
-        "text": "They ___ not working today.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "b"
-      },
-      {
-        "text": "The phone ___ ringing.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "He ___ driving to work.",
-        "options": [
-          "a) is",
-          "b) are",
-          "c) am"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "I ___ waiting for my friend.",
-        "options": [
-          "a) am",
-          "b) is",
-          "c) are"
-        ],
-        "answer": "a"
-      },
-      {
-        "text": "___ we leaving now?",
-        "options": [
-          "a) Are",
-          "b) Is",
-          "c) Do"
-        ],
-        "answer": "a"
-      }
-    ]
-  }
-]
-
-    
-
 }
