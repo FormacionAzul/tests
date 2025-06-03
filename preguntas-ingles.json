@@ -2243,6 +2243,459 @@
         ],
         "answer": "c"
     }
+],
+    "Tema 6 Cuantificadores":
+    [
+    {
+        "text": "How ___ sugar do you want in your coffee?",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There are ___ students in the classroom.",
+        "options": [
+            "a) much",
+            "b) little",
+            "c) many"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "I don’t have ___ time to study today.",
+        "options": [
+            "a) much",
+            "b) many",
+            "c) few"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We have ___ apples in the fridge.",
+        "options": [
+            "a) a few",
+            "b) a little",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She has ___ money left in her wallet.",
+        "options": [
+            "a) a few",
+            "b) a little",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There weren’t ___ people at the party.",
+        "options": [
+            "a) much",
+            "b) few",
+            "c) many"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "Do you want ___ water?",
+        "options": [
+            "a) any",
+            "b) some",
+            "c) much"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I didn’t eat ___ of the cake.",
+        "options": [
+            "a) many",
+            "b) any",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He has so ___ books!",
+        "options": [
+            "a) much",
+            "b) few",
+            "c) many"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "There is too ___ noise in this room.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She has very ___ friends.",
+        "options": [
+            "a) few",
+            "b) little",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They drank ___ juice at lunch.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) a little"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "I need ___ help with this task.",
+        "options": [
+            "a) few",
+            "b) some",
+            "c) many"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "___ of the students passed the exam.",
+        "options": [
+            "a) Most",
+            "b) Much",
+            "c) Many"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "There isn’t ___ milk in the fridge.",
+        "options": [
+            "a) many",
+            "b) some",
+            "c) much"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "Only a ___ people came to the meeting.",
+        "options": [
+            "a) little",
+            "b) few",
+            "c) much"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ate ___ of the pizza.",
+        "options": [
+            "a) most",
+            "b) many",
+            "c) few"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They didn’t bring ___ food.",
+        "options": [
+            "a) any",
+            "b) many",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "There’s very ___ traffic today.",
+        "options": [
+            "a) few",
+            "b) much",
+            "c) little"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "How ___ students are in your class?",
+        "options": [
+            "a) much",
+            "b) many",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "Can I have ___ more juice, please?",
+        "options": [
+            "a) some",
+            "b) any",
+            "c) few"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He spent too ___ money on clothes.",
+        "options": [
+            "a) much",
+            "b) many",
+            "c) some"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "___ of my friends live abroad.",
+        "options": [
+            "a) Much",
+            "b) Many",
+            "c) A little"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There are ___ cookies on the plate.",
+        "options": [
+            "a) much",
+            "b) a few",
+            "c) a little"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She put ___ salt in the soup.",
+        "options": [
+            "a) a little",
+            "b) a few",
+            "c) many"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We don’t have ___ sugar left.",
+        "options": [
+            "a) some",
+            "b) any",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I know only a ___ words in French.",
+        "options": [
+            "a) little",
+            "b) few",
+            "c) much"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There’s too ___ to do today.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "They invited ___ friends to the party.",
+        "options": [
+            "a) a few",
+            "b) a little",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He drank so ___ coffee he couldn’t sleep.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "How ___ money do you need?",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) few"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We saw very ___ tourists at the beach.",
+        "options": [
+            "a) few",
+            "b) little",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I have ___ homework today.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) a lot of"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "She didn’t get ___ sleep last night.",
+        "options": [
+            "a) much",
+            "b) many",
+            "c) some"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We brought ___ sandwiches for the trip.",
+        "options": [
+            "a) a little",
+            "b) a few",
+            "c) little"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "There is very ___ air pollution here.",
+        "options": [
+            "a) much",
+            "b) few",
+            "c) little"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "Only ___ students failed the test.",
+        "options": [
+            "a) little",
+            "b) few",
+            "c) much"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I didn’t drink ___ wine.",
+        "options": [
+            "a) any",
+            "b) many",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "There isn’t ___ butter left.",
+        "options": [
+            "a) many",
+            "b) any",
+            "c) much"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We need to buy ___ vegetables.",
+        "options": [
+            "a) some",
+            "b) any",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "How ___ eggs do you want?",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) a little"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She found ___ interesting books.",
+        "options": [
+            "a) a few",
+            "b) a little",
+            "c) little"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "There’s ___ work to do before we leave.",
+        "options": [
+            "a) a few",
+            "b) many",
+            "c) much"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "We have ___ chairs, not enough for everyone.",
+        "options": [
+            "a) few",
+            "b) little",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "Do you have ___ pens I could borrow?",
+        "options": [
+            "a) any",
+            "b) some",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He ate ___ of the cake.",
+        "options": [
+            "a) most",
+            "b) many",
+            "c) much"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They have ___ free time on weekends.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) a lot of"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "There were ___ cars on the road.",
+        "options": [
+            "a) a lot of",
+            "b) a little",
+            "c) little"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She didn’t find ___ mistakes in the report.",
+        "options": [
+            "a) many",
+            "b) much",
+            "c) any"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He has ___ patience with children.",
+        "options": [
+            "a) much",
+            "b) a lot of",
+            "c) little"
+        ],
+        "answer": "a"
+    }
 ]
 }
 
