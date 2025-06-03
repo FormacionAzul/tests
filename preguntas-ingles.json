@@ -2696,6 +2696,459 @@
         ],
         "answer": "a"
     }
+],
+    "Tema 7 Presente perfecto contino ":
+    [
+    {
+        "text": "I ___ working all day.",
+        "options": [
+            "a) have been",
+            "b) has been",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ studying for hours.",
+        "options": [
+            "a) have been",
+            "b) has been",
+            "c) is been"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "They ___ playing football since 10 a.m.",
+        "options": [
+            "a) are",
+            "b) have been",
+            "c) has been"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We ___ waiting for the bus for 30 minutes.",
+        "options": [
+            "a) have been",
+            "b) has been",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "How long ___ he been sleeping?",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "It ___ raining all morning.",
+        "options": [
+            "a) have been",
+            "b) has been",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "You ___ watching TV for two hours.",
+        "options": [
+            "a) has been",
+            "b) have been",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ___ been trying to call you.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) had"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "What ___ they been doing lately?",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) do"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ working in that company since 2018.",
+        "options": [
+            "a) have been",
+            "b) has been",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "They ___ studying English for three years.",
+        "options": [
+            "a) are",
+            "b) has been",
+            "c) have been"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "How long ___ you been living here?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "We ___ not been sleeping well.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "He ___ been working out every day.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) had"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "I ___ been thinking about you.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) had"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "My parents ___ been traveling a lot recently.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She ___ been reading that book all week.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ you been doing lately?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "The children ___ been making a lot of noise.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ not been studying enough.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) does"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "How long ___ it been snowing?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ not been feeling well.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) do"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ been learning Spanish for a year.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ been cooking since 5 p.m.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "You ___ been practicing the guitar a lot.",
+        "options": [
+            "a) has",
+            "b) are",
+            "c) have"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "He ___ not been coming to class lately.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "They ___ been fighting a lot recently.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "What ___ your brother been doing?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ been preparing for the test.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "How long ___ you been feeling sick?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "It ___ not been working well lately.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The team ___ been training hard.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ not been sleeping well this week.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) am"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ been working here for a long time.",
+        "options": [
+            "a) has",
+            "b) are",
+            "c) have"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "How long ___ she been feeling like this?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "You ___ been studying all night.",
+        "options": [
+            "a) are",
+            "b) have",
+            "c) has"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ been helping me with the project.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "We ___ not been doing our homework.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "She ___ not been working here long.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "The dog ___ been barking all morning.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) is"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "How long ___ they been talking?",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) do"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "I ___ been trying to fix the problem.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "You ___ not been paying attention.",
+        "options": [
+            "a) have",
+            "b) has",
+            "c) are"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "My friends ___ been arriving one by one.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "What ___ she been saying?",
+        "options": [
+            "a) have",
+            "b) is",
+            "c) has"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "We ___ been planning our trip.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) are"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "He ___ not been eating much lately.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    },
+    {
+        "text": "They ___ been fixing the car since morning.",
+        "options": [
+            "a) has",
+            "b) are",
+            "c) have"
+        ],
+        "answer": "c"
+    },
+    {
+        "text": "How long ___ you two been dating?",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) did"
+        ],
+        "answer": "b"
+    },
+    {
+        "text": "She ___ been crying for hours.",
+        "options": [
+            "a) has",
+            "b) have",
+            "c) is"
+        ],
+        "answer": "a"
+    }
 ]
 }
 
