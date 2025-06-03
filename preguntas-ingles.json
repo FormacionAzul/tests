@@ -4508,6 +4508,458 @@
     ],
     "answer": "A"
   }
+],
+    "Tema 11 There is there are": 
+    [
+  {
+    "text": "______ a book on the table.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) Is there"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ some flowers in the garden.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There isn’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a big supermarket near my house.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There aren't"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ two chairs in the room.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There isn’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ an old photo in this box.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) Is there"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ three sandwiches on the plate.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There isn't"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a phone charger in my bag.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There isn’t"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a pencil on your desk.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) There isn’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ many people at the concert.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) Is there"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a coffee shop on this street.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) There isn't"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ five pictures on the wall.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) Is there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ an email from my boss in my inbox.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) There aren’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ some milk in the fridge.",
+    "options": [
+      "A) There are",
+      "B) There is",
+      "C) Are there"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a spider in the bathroom!",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) Isn’t there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a lot of food on the table.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) There isn’t"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ any milk left.",
+    "options": [
+      "A) isn’t",
+      "B) aren’t",
+      "C) is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ a TV in the bedroom.",
+    "options": [
+      "A) is",
+      "B) aren’t",
+      "C) isn’t"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "There ______ any chairs in the kitchen.",
+    "options": [
+      "A) is",
+      "B) are",
+      "C) aren’t"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "There ______ a sofa in the office.",
+    "options": [
+      "A) isn’t",
+      "B) aren’t",
+      "C) is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ any apples in the basket.",
+    "options": [
+      "A) is",
+      "B) isn’t",
+      "C) aren’t"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "There ______ a restaurant nearby.",
+    "options": [
+      "A) aren’t",
+      "B) isn’t",
+      "C) is"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "There ______ any pens in my bag.",
+    "options": [
+      "A) aren’t",
+      "B) isn’t",
+      "C) are"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ a clock in the room.",
+    "options": [
+      "A) isn’t",
+      "B) aren’t",
+      "C) is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ any water in the bottle.",
+    "options": [
+      "A) isn’t",
+      "B) aren’t",
+      "C) is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ a notebook on the desk.",
+    "options": [
+      "A) aren’t",
+      "B) isn’t",
+      "C) are"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "There ______ any buses after midnight.",
+    "options": [
+      "A) is",
+      "B) are",
+      "C) aren’t"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "There ______ a museum in this town.",
+    "options": [
+      "A) aren’t",
+      "B) is",
+      "C) isn’t"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "There ______ any meat in the fridge.",
+    "options": [
+      "A) isn’t",
+      "B) aren’t",
+      "C) are"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "There ______ a mirror in the hallway.",
+    "options": [
+      "A) are",
+      "B) isn’t",
+      "C) is"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "There ______ any books in this library.",
+    "options": [
+      "A) aren’t",
+      "B) is",
+      "C) isn’t"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a bank near here?",
+    "options": [
+      "A) Is there",
+      "B) There is",
+      "C) Are there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any messages for me?",
+    "options": [
+      "A) There are",
+      "B) Is there",
+      "C) Are there"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "______ a bathroom in this building?",
+    "options": [
+      "A) Is there",
+      "B) There is",
+      "C) Are there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any chairs in the living room?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There are"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a book about history?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any snacks in the cupboard?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There aren’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a hotel nearby?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any parks in your city?",
+    "options": [
+      "A) Are there",
+      "B) There are",
+      "C) Is there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a dictionary in your bag?",
+    "options": [
+      "A) Are there",
+      "B) Is there",
+      "C) There isn’t"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ any good restaurants in this area?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There is"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ a file on your desk?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There are"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any pillows on the bed?",
+    "options": [
+      "A) Is there",
+      "B) There is",
+      "C) Are there"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "______ a train station in this town?",
+    "options": [
+      "A) Are there",
+      "B) Is there",
+      "C) There are"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ any milk left?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There is"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a cat under the table?",
+    "options": [
+      "A) Are there",
+      "B) There is",
+      "C) Is there"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "______ any magazines on the sofa?",
+    "options": [
+      "A) Are there",
+      "B) There are",
+      "C) Is there"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ a hospital near the school?",
+    "options": [
+      "A) Are there",
+      "B) Is there",
+      "C) There are"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "______ any cookies in the jar?",
+    "options": [
+      "A) Is there",
+      "B) There is",
+      "C) Are there"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "______ a cinema in your neighborhood?",
+    "options": [
+      "A) Is there",
+      "B) Are there",
+      "C) There isn’t"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "______ any questions before we start?",
+    "options": [
+      "A) Are there",
+      "B) There are",
+      "C) Is there"
+    ],
+    "answer": "A"
+  }
 ]
-      }
-
+}
