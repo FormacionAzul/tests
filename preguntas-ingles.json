@@ -3602,6 +3602,459 @@
     ],
     "answer": "A"
   }
+],
+    "Tema 9 Presente perfecto simle":
+    [
+  {
+    "text": "I have ___ finished my homework.",
+    "options": [
+      "A) already",
+      "B) yet",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "Have you ___ been to London?",
+    "options": [
+      "A) never",
+      "B) ever",
+      "C) still"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "She hasn’t arrived ___.",
+    "options": [
+      "A) during",
+      "B) yet",
+      "C) ever"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I have ___ seen that movie.",
+    "options": [
+      "A) never",
+      "B) during",
+      "C) for"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "He’s ___ working on the project.",
+    "options": [
+      "A) still",
+      "B) ever",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "We lived in Canada ___ five years.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) since"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "He has ___ had lunch.",
+    "options": [
+      "A) still",
+      "B) just",
+      "C) yet"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "They haven't called me ___.",
+    "options": [
+      "A) already",
+      "B) during",
+      "C) yet"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "I’ve ___ visited that museum twice.",
+    "options": [
+      "A) during",
+      "B) never",
+      "C) already"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "Have you ___ tried sushi?",
+    "options": [
+      "A) ever",
+      "B) never",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "She has ___ gone to the supermarket.",
+    "options": [
+      "A) still",
+      "B) just",
+      "C) ever"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "He has ___ finished reading the book.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) already"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "We were in Paris ___ the summer.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I have ___ traveled abroad.",
+    "options": [
+      "A) ever",
+      "B) still",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "They have ___ eaten breakfast.",
+    "options": [
+      "A) already",
+      "B) yet",
+      "C) still"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "She’s ___ sleeping.",
+    "options": [
+      "A) yet",
+      "B) still",
+      "C) never"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "Have you ___ been in love?",
+    "options": [
+      "A) ever",
+      "B) never",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I’ve ___ met someone like him.",
+    "options": [
+      "A) never",
+      "B) ever",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "He hasn't called me ___.",
+    "options": [
+      "A) yet",
+      "B) already",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I’ve ___ finished my meal.",
+    "options": [
+      "A) during",
+      "B) just",
+      "C) still"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "They were in Madrid ___ the holidays.",
+    "options": [
+      "A) just",
+      "B) during",
+      "C) for"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I’ve ___ eaten.",
+    "options": [
+      "A) still",
+      "B) just",
+      "C) during"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "Have you ___ been to a concert?",
+    "options": [
+      "A) never",
+      "B) still",
+      "C) ever"
+    ],
+    "answer": "C"
+  },
+  {
+    "text": "He’s ___ waiting for the bus.",
+    "options": [
+      "A) yet",
+      "B) still",
+      "C) ever"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I’ve ___ seen this episode.",
+    "options": [
+      "A) already",
+      "B) ever",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I was sick ___ the weekend.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) yet"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "They have ___ been late.",
+    "options": [
+      "A) never",
+      "B) already",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "Have you ___ heard that song before?",
+    "options": [
+      "A) still",
+      "B) ever",
+      "C) never"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I haven’t done it ___.",
+    "options": [
+      "A) yet",
+      "B) already",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "She’s ___ doing her homework.",
+    "options": [
+      "A) still",
+      "B) yet",
+      "C) already"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I lived in Mexico ___ six months.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) since"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "We visited Rome ___ the holidays.",
+    "options": [
+      "A) during",
+      "B) for",
+      "C) just"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "Have they ___ gone abroad?",
+    "options": [
+      "A) ever",
+      "B) yet",
+      "C) already"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "He has ___ finished his training.",
+    "options": [
+      "A) just",
+      "B) during",
+      "C) still"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I have ___ been to that place.",
+    "options": [
+      "A) never",
+      "B) just",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "He hasn’t arrived ___.",
+    "options": [
+      "A) during",
+      "B) yet",
+      "C) already"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "We were busy ___ the meeting.",
+    "options": [
+      "A) for",
+      "B) during",
+      "C) yet"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "They’ve ___ left the office.",
+    "options": [
+      "A) just",
+      "B) yet",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I haven’t spoken to her ___.",
+    "options": [
+      "A) yet",
+      "B) already",
+      "C) ever"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "She has ___ gone to bed.",
+    "options": [
+      "A) during",
+      "B) just",
+      "C) for"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "Have you ___ had a pet?",
+    "options": [
+      "A) just",
+      "B) ever",
+      "C) still"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I’ve ___ eaten, thanks.",
+    "options": [
+      "A) already",
+      "B) during",
+      "C) ever"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "We stayed at home ___ the storm.",
+    "options": [
+      "A) for",
+      "B) during",
+      "C) just"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "He has ___ arrived at the station.",
+    "options": [
+      "A) never",
+      "B) just",
+      "C) still"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "She hasn’t done her homework ___.",
+    "options": [
+      "A) yet",
+      "B) during",
+      "C) already"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "I’ve ___ worked with him before.",
+    "options": [
+      "A) ever",
+      "B) never",
+      "C) during"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I’ve ___ told him the truth.",
+    "options": [
+      "A) just",
+      "B) yet",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "He is ___ waiting for an answer.",
+    "options": [
+      "A) just",
+      "B) still",
+      "C) already"
+    ],
+    "answer": "B"
+  },
+  {
+    "text": "I’ve ___ been so nervous!",
+    "options": [
+      "A) never",
+      "B) yet",
+      "C) during"
+    ],
+    "answer": "A"
+  },
+  {
+    "text": "Have you ___ spoken to him?",
+    "options": [
+      "A) ever",
+      "B) never",
+      "C) during"
+    ],
+    "answer": "A"
+  }
 ]
-    }
+     }
 
